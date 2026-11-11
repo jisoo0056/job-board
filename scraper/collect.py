@@ -60,6 +60,19 @@ NOT_CULTURE = r"농림|농업|수산|산림|축산|해양|국토|에너지|체�
 CULTURE_INST = r"문화|예술|박물관|극장|극단|콘텐츠|도서관|문학|영상|저작권|출판|발레|오페라|무용|오케스트라|심포니|국악|공예|세종학당|영화"
 
 
+CAREER_NEW = r"신입|경력\s*무관|경력\s*불문"
+CAREER_EXP = r"경력\s*직|경력\s*\d|경력\s*(사원|채용|공채|제한|자)|\d+\s*년\s*이상|시니어|책임급|선임급"
+
+
+def career_of(text: str) -> str | None:
+    """'신입'(신입 가능) / '경력'(경력만) / None(제목만으로는 알 수 없음)"""
+    if re.search(CAREER_NEW, text):
+        return "신입"
+    if re.search(CAREER_EXP, text):
+        return "경력"
+    return None
+
+
 def classify_type(text: str) -> str | None:
     for t, pat in TYPE_RULES:
         if re.search(pat, text, re.I):
@@ -170,6 +183,8 @@ def collect_alio(companies: list[dict], key: str) -> tuple[list[dict], dict]:
             "posted": _ymd(it.get("pbancBgngYmd")),
             "deadline": _ymd(it.get("pbancEndYmd")),
             "region": it.get("workRgnNmLst"),
+            "career": ("신입" if "신입" in (it.get("recrutSeNm") or "")
+                       else "경력" if "경력" in (it.get("recrutSeNm") or "") else career_of(title)),
             "source": "공공기관 채용정보",
         })
     return out, {"total_api": len(items), "matched": sorted(matched)}
@@ -245,7 +260,8 @@ def extract_next_data(html: str, base: str, company: dict) -> list[dict]:
         out.append({
             "id": mkid(company["id"], link), "company": company["name"], "company_id": company["id"],
             "group": company["group"], "title": title, "url": link, "type": classify_type(title),
-            "tags": job_tags(title), "posted": posted.isoformat() if posted else None,
+            "tags": job_tags(title), "career": career_of(title),
+            "posted": posted.isoformat() if posted else None,
             "deadline": (lambda d: d.isoformat() if d else None)(find_deadline(title)),
             "closed_mark": False, "source": "기관 홈페이지",
         })
@@ -297,6 +313,7 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
             "url": link,
             "type": classify_type(title),
             "tags": job_tags(title),
+            "career": career_of(title),
             "posted": (find_post_date(row_text.replace(text, " ")) or find_post_date(text) or None),
             "deadline": dl,
             "closed_mark": closed_mark,
@@ -334,8 +351,8 @@ STRONG_KEY = r"접수\s*마감|마감\s*기한|마감\s*일시?|까지\s*접수"
 DEADLINE_KEY = r"접수\s*마감|마감\s*기한|마감\s*일시?|접수\s*기간|원서\s*접수|서류\s*접수|공고\s*기간|모집\s*기간|지원\s*기간|접수\s*일정"
 
 
-def detail_deadline(url: str) -> str | None:
-    """공고 상세 페이지 본문에서 접수 마감일을 찾는다."""
+def detail_info(url: str) -> tuple[str | None, str | None]:
+    """공고 상세 페이지 본문에서 (접수 마감일, 신입/경력)을 찾는다."""
     raw = fetch_static(url)
     raw = re.sub(r"\\u([0-9a-fA-F]{4})", lambda m: chr(int(m.group(1), 16)), raw)
     text = re.sub(r"<[^>]+>", " ", raw)
@@ -353,12 +370,23 @@ def detail_deadline(url: str) -> str | None:
         return max(ds)
 
     # '접수 마감' 같은 확실한 표현을 먼저, 없으면 '접수 기간' 같은 표현의 첫 번째 것
+    deadline = None
     for pat in (STRONG_KEY, DEADLINE_KEY):
         for k in re.finditer(pat, text):
             d = first_range_end(text[k.end(): k.end() + 80])
             if d and TODAY - timedelta(days=400) < d < TODAY + timedelta(days=200):
-                return d.isoformat()
-    return None
+                deadline = d.isoformat()
+                break
+        if deadline:
+            break
+    # 본문 기준 신입/경력: '신입', '경력 무관'이 있으면 신입 가능, 'n년 이상 경력'만 있으면 경력
+    if re.search(r"신입|경력\s*(무관|불문)|경력\s*제한\s*없음", text):
+        career = "신입"
+    elif re.search(r"경력\s*\d+\s*년\s*이상|\d+\s*년\s*이상의?\s*(관련\s*|실무\s*|업무\s*)?경력|경력\s*직", text):
+        career = "경력"
+    else:
+        career = None
+    return deadline, career
 
 
 # ---------------------------------------------------------------- 병합/저장
@@ -477,7 +505,9 @@ def main():
             j["initial"] = src not in prev_ok
             if not j["initial"]:
                 new_jobs.append(j)
-        j["detail_checked"] = (prev or {}).get("detail_checked", False)
+        j["detail_checked"] = 2 if (prev or {}).get("detail_checked") == 2 else False
+        if prev and not j.get("career"):
+            j["career"] = prev.get("career")
         j["last_seen"] = today
         merged[j["id"]] = j
     # 필터 규칙이 바뀌어 이제 제외 대상이 된 예전 글은 정리
@@ -490,15 +520,17 @@ def main():
     # 마감일을 제목에서 못 찾은 게시판 공고는 상세 페이지를 한 번 열어서 찾는다
     checked = 0
     for j in jobs:
-        if (j.get("source") == "기관 홈페이지" and not j.get("deadline") and not j.get("detail_checked")
+        if (j.get("source") == "기관 홈페이지" and not j.get("detail_checked") and not j.get("closed")
                 and j["last_seen"] == today and checked < 40
                 and j["url"] != next((c["url"] for c in companies if c["id"] == j["company_id"]), None)):
             checked += 1
             try:
-                j["deadline"] = detail_deadline(j["url"])
+                dl, career = detail_info(j["url"])
+                j["deadline"] = j.get("deadline") or dl
+                j["career"] = j.get("career") or career
             except Exception as e:
                 print(f"상세 확인 실패 {j['url']}: {e}")
-            j["detail_checked"] = True
+            j["detail_checked"] = 2
             time.sleep(0.5)
     for j in jobs:
         j["closed"] = is_closed(j)

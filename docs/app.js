@@ -11,6 +11,9 @@
   ];
   const TAGS = ["경영지원", "경영기획", "전략기획", "홍보마케팅", "하우스안내원"];
   // 예전에 수집된 공고에도 바로 적용되도록 화면에서도 한 번 더 판단
+  const CAREER_NEW = /신입|경력\s*무관|경력\s*불문/;
+  const CAREER_EXP = /경력\s*직|경력\s*\d|경력\s*(사원|채용|공채|제한|자)|\d+\s*년\s*이상|시니어|책임급|선임급/;
+  const careerOf = (t) => (CAREER_NEW.test(t) ? "신입" : CAREER_EXP.test(t) ? "경력" : null);
   const TAG_RULES = { "하우스안내원": /하우스\s*(안내|매니저|어텐던트|어셔)|안내원|어셔|어텐던트|객석\s*안내|공연장\s*안내|안내\s*데스크/ };
   const GROUPS = ["공연장", "문체부 산하 공공기관", "공공문화재단", "민간문화재단", "기업", "축제·대외활동"];
   const NEW_DAYS = 3;
@@ -27,6 +30,7 @@
     tags: new Set(store.get("tags", [])),
     groups: new Set(store.get("groups", [])),
     q: "", newOnly: false, hideRead: store.get("hideRead", false),
+    hideExp: store.get("hideExp", false), newcomerOnly: store.get("newcomerOnly", false),
     read: new Set(store.get("read", [])),
     repo: store.get("repo", guessRepo()),
     token: store.get("token", ""),
@@ -79,9 +83,10 @@
     const type = ov.type || j.type || null;
     const refDay = (state.updated || today()).slice(0, 10);
     const isNew = !j.initial && !j.closed && daysBetween(j.first_seen, refDay) < NEW_DAYS;
+    const career = j.career || careerOf(j.title);
     const tags = [...(j.tags || [])];
     for (const [t, re] of Object.entries(TAG_RULES)) if (re.test(j.title) && !tags.includes(t)) tags.push(t);
-    return { ...j, type, tags, hidden: Boolean(ov.hidden), isNew, isRead: state.read.has(j.id) };
+    return { ...j, type, tags, career, hidden: Boolean(ov.hidden), isNew, isRead: state.read.has(j.id) };
   }
 
   function matches(j) {
@@ -93,6 +98,8 @@
     if (state.groups.size && !state.groups.has(j.group)) return false;
     if (state.newOnly && !j.isNew) return false;
     if (state.hideRead && j.isRead) return false;
+    if (state.hideExp && j.career === "경력") return false;
+    if (state.newcomerOnly && j.career !== "신입") return false;
     if (state.q) {
       const hay = `${j.company} ${j.title}`.toLowerCase();
       if (!state.q.toLowerCase().split(/\s+/).every((w) => hay.includes(w))) return false;
@@ -146,6 +153,8 @@
     $("#tagChips").innerHTML = TAGS.map((t) => `<button class="chip ${state.tags.has(t) ? "on" : ""}" data-tag="${t}">${t}</button>`).join("");
     $("#groupChips").innerHTML = GROUPS.map((g) => `<button class="chip ${state.groups.has(g) ? "on" : ""}" data-group="${g}">${g}</button>`).join("");
     $("#hideRead").checked = state.hideRead;
+    $("#hideExp").checked = state.hideExp;
+    $("#newcomerOnly").checked = state.newcomerOnly;
     $("#newOnly").checked = state.newOnly;
   }
 
@@ -168,6 +177,7 @@
       <div class="meta">
         <span class="badge ${typeCls}" title="${esc(j.type_detail || "")}">${typeLabel}</span>
         ${j.isNew ? `<span class="badge new">NEW</span>` : ""}
+        ${j.career ? `<span class="badge career">${j.career === "신입" ? "신입 가능" : "경력"}</span>` : ""}
         <span class="company">${esc(j.company)}</span>
         <span>${esc(j.group || "")}</span>
       </div>
@@ -284,9 +294,12 @@
 
   $("#q").addEventListener("input", (e) => { state.q = e.target.value.trim(); renderJobs(); });
   $("#newOnly").addEventListener("change", (e) => { state.newOnly = e.target.checked; renderJobs(); });
+  $("#hideExp").addEventListener("change", (e) => { state.hideExp = e.target.checked; store.set("hideExp", state.hideExp); renderJobs(); });
+  $("#newcomerOnly").addEventListener("change", (e) => { state.newcomerOnly = e.target.checked; store.set("newcomerOnly", state.newcomerOnly); renderJobs(); });
   $("#hideRead").addEventListener("change", (e) => { state.hideRead = e.target.checked; store.set("hideRead", state.hideRead); renderJobs(); });
   $("#resetFilters").addEventListener("click", () => {
     state.tags.clear(); state.groups.clear(); state.q = ""; state.newOnly = false; state.hideRead = false;
+    state.hideExp = false; state.newcomerOnly = false; store.set("hideExp", false); store.set("newcomerOnly", false);
     $("#q").value = ""; store.set("tags", []); store.set("groups", []); store.set("hideRead", false); render();
   });
 
