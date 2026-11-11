@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-12T07:31+09:00",
+ "updated": "2026-11-12T07:57+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
-   "count": 5,
+   "count": 4,
    "total_api": 492,
    "matched": [
     "국악방송",
@@ -163,17 +163,22 @@
   },
   "GS아트센터": {
    "ok": true,
-   "count": 0,
+   "count": 2,
    "method": "static"
   },
   "경기아트센터": {
    "ok": true,
-   "count": 0,
+   "count": 5,
    "method": "static"
+  },
+  "경기아트센터-인크루트": {
+   "ok": true,
+   "count": 28,
+   "method": "browser"
   },
   "구로아트밸리": {
    "ok": true,
-   "count": 2,
+   "count": 1,
    "method": "static"
   },
   "충무아트센터": {
@@ -223,12 +228,12 @@
   },
   "부평구문화재단": {
    "ok": true,
-   "count": 2,
-   "method": "browser"
+   "count": 0,
+   "method": "static"
   },
   "서울연구원": {
    "ok": true,
-   "count": 4,
+   "count": 3,
    "method": "browser"
   },
   "인천연구원": {
@@ -238,43 +243,23 @@
   },
   "경기연구원": {
    "ok": true,
-   "count": 4,
+   "count": 3,
    "method": "static"
-  },
-  "용산문화재단": {
-   "ok": false,
-   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.yongsanartshall.or.kr/\nCall log:\nnavigating to \"https://www.yongsanartshall.or.kr/\", waiting until \"load\"\n"
   },
   "성남문화재단": {
    "ok": true,
    "count": 0,
    "method": "static"
   },
-  "고양문화재단": {
-   "ok": false,
-   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.artgy.or.kr/\", waiting until \"load\"\n"
-  },
   "수원문화재단": {
    "ok": true,
-   "count": 8,
+   "count": 5,
    "method": "static"
-  },
-  "인천-서구문화재단": {
-   "ok": false,
-   "error": "Error: Page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://www.sgcf.or.kr/\nCall log:\nnavigating to \"https://www.sgcf.or.kr/\", waiting until \"load\"\n"
   },
   "우란문화재단": {
    "ok": true,
-   "count": 0,
+   "count": 1,
    "method": "static"
-  },
-  "CJ문화재단": {
-   "ok": false,
-   "error": "Error: Page.goto: net::ERR_CERT_COMMON_NAME_INVALID at https://www.cjculturefoundation.org/\nCall log:\nnavigating to \"https://www.cjculturefoundation.org/\", waiting until \"load\"\n"
-  },
-  "금호문화재단": {
-   "ok": false,
-   "error": "Error: Page.goto: net::ERR_NAME_NOT_RESOLVED at https://www.kumhoculture.org/\nCall log:\nnavigating to \"https://www.kumhoculture.org/\", waiting until \"load\"\n"
   },
   "삼성문화재단-리움": {
    "ok": true,
@@ -283,8 +268,8 @@
   },
   "KT-G-상상마당": {
    "ok": true,
-   "count": 2,
-   "method": "browser"
+   "count": 0,
+   "method": "static"
   },
   "KBS교향악단-사무국": {
    "ok": true,
@@ -322,6 +307,11 @@
    "method": "static"
   },
   "부천국제판타스틱영화제": {
+   "ok": true,
+   "count": 0,
+   "method": "static"
+  },
+  "인천시-공공일자리-문화-분야": {
    "ok": true,
    "count": 0,
    "method": "static"
