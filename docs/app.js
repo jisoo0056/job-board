@@ -9,7 +9,9 @@
     { key: "대외활동", label: "대외활동" },
     { key: "none", label: "미분류" },
   ];
-  const TAGS = ["경영지원", "경영기획", "전략기획", "홍보마케팅"];
+  const TAGS = ["경영지원", "경영기획", "전략기획", "홍보마케팅", "하우스안내원"];
+  // 예전에 수집된 공고에도 바로 적용되도록 화면에서도 한 번 더 판단
+  const TAG_RULES = { "하우스안내원": /하우스\s*(안내|매니저|어텐던트|어셔)|안내원|어셔|어텐던트|객석\s*안내|공연장\s*안내|안내\s*데스크/ };
   const GROUPS = ["공연장", "문체부 산하 공공기관", "공공문화재단", "민간문화재단", "기업", "축제·대외활동"];
   const NEW_DAYS = 3;
 
@@ -77,7 +79,9 @@
     const type = ov.type || j.type || null;
     const refDay = (state.updated || today()).slice(0, 10);
     const isNew = !j.initial && !j.closed && daysBetween(j.first_seen, refDay) < NEW_DAYS;
-    return { ...j, type, hidden: Boolean(ov.hidden), isNew, isRead: state.read.has(j.id) };
+    const tags = [...(j.tags || [])];
+    for (const [t, re] of Object.entries(TAG_RULES)) if (re.test(j.title) && !tags.includes(t)) tags.push(t);
+    return { ...j, type, tags, hidden: Boolean(ov.hidden), isNew, isRead: state.read.has(j.id) };
   }
 
   function matches(j) {
