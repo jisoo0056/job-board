@@ -37,9 +37,11 @@
    "name": "GS아트센터",
    "group": "공연장",
    "source": "web",
-   "url": "https://www.gsartscenter.com/",
+   "url": "https://www.gsartscenter.com/notice",
    "recommended": false,
-   "id": "GS아트센터"
+   "id": "GS아트센터",
+   "json_link": "/notice/detail/{id}",
+   "note": "GS문화재단"
   },
   {
    "name": "경기아트센터",

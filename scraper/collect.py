@@ -51,7 +51,7 @@ INCLUDE = r"채용|모집|인턴|서포터즈|자원\s*봉사|자원\s*활동|�
 EXCLUDE = (r"합격|결과|발표|면접|필기|서류\s*(심사|전형)|입찰|대관|사전규격|강좌|수강|교육생|"
            r"수강생|참여자|참가자|입주|공모전|심의위원|평가위원|위원\s*후보|단원|오디션|아카데미|현황|생활체육|"
            r"용역|검진|지원사업|임원|비상임|감사|이사\s*(공개)?모집|공연장\s*모집|단체\s*모집|"
-           r"원고|강사|전시\s*모집|제휴|업체|캠프|작가\s*모집|"
+           r"원고|강사|전시\s*모집|제휴|업체|캠프|작가\s*모집|교육\s*프로그램|"
            r"관객|관람|이벤트|당첨|낙찰|계약\s*체결|선정\s*(결과|알림)")
 NAV_WORDS = {"채용", "채용공고", "채용정보", "채용 공고", "인재채용", "채용안내", "더보기",
              "채용공고 더보기", "모집", "모집공고", "recruit", "careers"}
@@ -215,7 +215,45 @@ def fetch_rendered(url: str) -> str:
         page.close()
 
 
+def extract_next_data(html: str, base: str, company: dict) -> list[dict]:
+    """Next.js 사이트: 페이지에 숨겨진 __NEXT_DATA__ JSON에서 글 목록을 읽는다.
+    company["json_link"] 예: "/notice/detail/{id}" """
+    m = re.search(r'<script id="__NEXT_DATA__"[^>]*>(.*?)</script>', html, re.S)
+    if not m:
+        return []
+    rows = []
+
+    def walk(o):
+        if isinstance(o, dict):
+            if isinstance(o.get("title"), str) and "id" in o:
+                rows.append(o)
+            for v in o.values():
+                walk(v)
+        elif isinstance(o, list):
+            for v in o:
+                walk(v)
+    walk(json.loads(m.group(1)))
+    inc = re.compile(company.get("include") or INCLUDE, re.I)
+    out = []
+    for r in rows:
+        title = r["title"].strip()
+        if not inc.search(title) or re.search(EXCLUDE, title):
+            continue
+        link = urljoin(base, company["json_link"].format(**r))
+        posted = find_post_date(str(r.get("createdDate") or r.get("regDate") or ""))
+        out.append({
+            "id": mkid(company["id"], link), "company": company["name"], "company_id": company["id"],
+            "group": company["group"], "title": title, "url": link, "type": classify_type(title),
+            "tags": job_tags(title), "posted": posted.isoformat() if posted else None,
+            "deadline": (lambda d: d.isoformat() if d else None)(find_deadline(title)),
+            "closed_mark": False, "source": "기관 홈페이지",
+        })
+    return out
+
+
 def extract(html: str, base: str, company: dict) -> list[dict]:
+    if company.get("json_link"):
+        return extract_next_data(html, base, company)
     soup = BeautifulSoup(html, "html.parser")
     inc = re.compile(company.get("include") or INCLUDE, re.I)
     out, seen = [], set()
@@ -289,6 +327,37 @@ def collect_web(company: dict) -> tuple[list[dict], str]:
         if len(rendered) > len(items):
             items, method = rendered, "browser"
     return items, method
+
+
+STRONG_KEY = r"접수\s*마감|마감\s*기한|마감\s*일시?|까지\s*접수"
+DEADLINE_KEY = r"접수\s*마감|마감\s*기한|마감\s*일시?|접수\s*기간|원서\s*접수|서류\s*접수|공고\s*기간|모집\s*기간|지원\s*기간|접수\s*일정"
+
+
+def detail_deadline(url: str) -> str | None:
+    """공고 상세 페이지 본문에서 접수 마감일을 찾는다."""
+    raw = fetch_static(url)
+    raw = re.sub(r"\\u([0-9a-fA-F]{4})", lambda m: chr(int(m.group(1), 16)), raw)
+    text = re.sub(r"<[^>]+>", " ", raw)
+    text = re.sub(r"&nbsp;|&#160;", " ", text)
+    text = re.sub(r"\s+", " ", text)
+    def first_range_end(window):
+        ds = sorted({d for d in (to_date(*m.groups()) for m in re.finditer(DATE_RE, window)) if d})[:2]
+        if not ds:
+            return None
+        # '2026.9.1 ~ 9.15' 처럼 끝 날짜에 연도가 없는 경우
+        for m2 in re.finditer(r"~\s*\(?\s*(\d{1,2})\s*[./월]\s*(\d{1,2})(?!\d)", window):
+            d2 = to_date(ds[0].year, *m2.groups())
+            if d2 and ds[0] <= d2 <= ds[0] + timedelta(days=120):
+                ds.append(d2)
+        return max(ds)
+
+    # '접수 마감' 같은 확실한 표현을 먼저, 없으면 '접수 기간' 같은 표현의 첫 번째 것
+    for pat in (STRONG_KEY, DEADLINE_KEY):
+        for k in re.finditer(pat, text):
+            d = first_range_end(text[k.end(): k.end() + 80])
+            if d and TODAY - timedelta(days=400) < d < TODAY + timedelta(days=200):
+                return d.isoformat()
+    return None
 
 
 # ---------------------------------------------------------------- 병합/저장
@@ -407,11 +476,25 @@ def main():
             j["initial"] = src not in prev_ok
             if not j["initial"]:
                 new_jobs.append(j)
+        j["detail_checked"] = (prev or {}).get("detail_checked", False)
         j["last_seen"] = today
         merged[j["id"]] = j
     # 필터 규칙이 바뀌어 이제 제외 대상이 된 예전 글은 정리
     jobs = [j for j in merged.values()
             if j.get("source") != "기관 홈페이지" or not re.search(EXCLUDE, j["title"])]
+    # 마감일을 제목에서 못 찾은 게시판 공고는 상세 페이지를 한 번 열어서 찾는다
+    checked = 0
+    for j in jobs:
+        if (j.get("source") == "기관 홈페이지" and not j.get("deadline") and not j.get("detail_checked")
+                and j["last_seen"] == today and checked < 40
+                and j["url"] != next((c["url"] for c in companies if c["id"] == j["company_id"]), None)):
+            checked += 1
+            try:
+                j["deadline"] = detail_deadline(j["url"])
+            except Exception as e:
+                print(f"상세 확인 실패 {j['url']}: {e}")
+            j["detail_checked"] = True
+            time.sleep(0.5)
     for j in jobs:
         j["closed"] = is_closed(j)
     # 마감 후 120일 지난 공고는 정리
