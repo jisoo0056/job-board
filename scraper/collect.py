@@ -230,6 +230,8 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
         if len(row_text) > 400:
             row_text = text
         href = (a.get("href") or "").strip()
+        if company.get("link_pattern") and not re.search(company["link_pattern"], href):
+            continue
         link = base if (not href or href.startswith(("#", "javascript"))) else urljoin(base, href)
         title = re.sub(r"^번호\s*\d+\s*|^제목\s*|\s*(작성일|등록일|조회수?)\b.*$", "", text)
         title = re.sub(r"^제목\s*", "", title)

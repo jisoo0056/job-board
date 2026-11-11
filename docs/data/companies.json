@@ -45,9 +45,21 @@
    "name": "경기아트센터",
    "group": "공연장",
    "source": "web",
-   "url": "https://www.ggac.or.kr",
+   "url": "https://www.ggac.or.kr/ggad/M1000339/board/list.do",
    "recommended": false,
    "id": "경기아트센터"
+  },
+  {
+   "name": "경기아트센터 (인크루트)",
+   "group": "공연장",
+   "source": "web",
+   "url": "https://lab.incruit.com/inc/61548/jobs",
+   "recommended": false,
+   "note": "인크루트 채용 페이지",
+   "include": "채용|모집|인턴|담당|매니저|직원|사원|경력|신입|기획|홍보|마케팅|운영|코디네이터|어시스턴트",
+   "render": true,
+   "id": "경기아트센터-인크루트",
+   "link_pattern": "jobpost|/jobs?/\\d+|/job/|recruit"
   },
   {
    "name": "구로아트밸리",
@@ -603,9 +615,13 @@
    "name": "우란문화재단",
    "group": "민간문화재단",
    "source": "web",
-   "url": "https://www.wooranfdn.org",
+   "url": "https://www.jobkorea.co.kr/company/42220970/recruit",
    "recommended": false,
-   "id": "우란문화재단"
+   "id": "우란문화재단",
+   "note": "잡코리아 기업 채용 페이지",
+   "include": "채용|모집|인턴|담당|매니저|직원|사원|경력|신입|기획|홍보|마케팅|운영|코디네이터|어시스턴트",
+   "render": true,
+   "link_pattern": "GI_Read|/Recruit/"
   },
   {
    "name": "CJ문화재단",
