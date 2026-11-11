@@ -116,7 +116,7 @@
    "name": "롯데콘서트홀",
    "group": "공연장",
    "source": "web",
-   "url": "https://www.lotteconcerthall.com/home/ko/main",
+   "url": "https://www.lotteconcerthall.com/community/ko/notice",
    "recommended": true,
    "note": "롯데문화재단",
    "id": "롯데콘서트홀"
@@ -475,9 +475,10 @@
    "name": "인천문화재단",
    "group": "공공문화재단",
    "source": "web",
-   "url": "https://www.ifac.or.kr/index.do",
+   "url": "https://www.ifac.or.kr/bbs/list.do?key=m2501152808232",
    "recommended": false,
-   "id": "인천문화재단"
+   "id": "인천문화재단",
+   "note": "공지사항 게시판에서 채용 글만 수집"
   },
   {
    "name": "경기문화재단",
@@ -485,7 +486,8 @@
    "source": "web",
    "url": "https://www.ggcf.kr/boards/bulletinBoards/articles?category=03",
    "recommended": false,
-   "id": "경기문화재단"
+   "id": "경기문화재단",
+   "note": "해외(GitHub) 접속을 막는 것으로 보여 0건일 수 있음 · 직접 확인 권장"
   },
   {
    "name": "부천문화재단",
@@ -548,10 +550,10 @@
   {
    "name": "용산문화재단",
    "group": "공공문화재단",
-   "source": "web",
-   "url": "https://www.yongsanartshall.or.kr",
+   "source": "link",
+   "url": null,
    "recommended": true,
-   "note": "면접 질문에 용산구가 있어서 추천",
+   "note": "추천 · 홈페이지 주소 확인 필요(자동 수집 실패)",
    "id": "용산문화재단"
   },
   {
@@ -574,10 +576,11 @@
   {
    "name": "고양문화재단",
    "group": "공공문화재단",
-   "source": "web",
+   "source": "link",
    "url": "https://www.artgy.or.kr",
    "recommended": true,
-   "id": "고양문화재단"
+   "id": "고양문화재단",
+   "note": "추천 · 사이트 응답 없음 · 고양시 공공기관 통합채용으로도 뽑음"
   },
   {
    "name": "수원문화재단",
@@ -590,10 +593,10 @@
   {
    "name": "인천 서구문화재단",
    "group": "공공문화재단",
-   "source": "web",
-   "url": "https://www.sgcf.or.kr",
+   "source": "link",
+   "url": null,
    "recommended": true,
-   "note": "주소 확인 필요",
+   "note": "추천 · 인천시 공공일자리 게시판으로 수집",
    "id": "인천-서구문화재단"
   },
   {
@@ -607,18 +610,19 @@
   {
    "name": "CJ문화재단",
    "group": "민간문화재단",
-   "source": "web",
-   "url": "https://www.cjculturefoundation.org",
+   "source": "link",
+   "url": "https://recruit.cj.net",
    "recommended": true,
-   "id": "CJ문화재단"
+   "id": "CJ문화재단",
+   "note": "추천 · CJ그룹 채용 사이트에 올라옴"
   },
   {
    "name": "금호문화재단",
    "group": "민간문화재단",
-   "source": "web",
-   "url": "https://www.kumhoculture.org",
+   "source": "link",
+   "url": "https://www.kumhoarthall.com",
    "recommended": true,
-   "note": "주소 확인 필요",
+   "note": "추천 · 금호아트홀 · 서포터즈 모집도 있음",
    "id": "금호문화재단"
   },
   {
@@ -800,6 +804,16 @@
    "url": "https://www.cfe.org/20251127_28283",
    "recommended": false,
    "id": "자유기업원"
+  },
+  {
+   "name": "인천시 공공일자리 (문화 분야)",
+   "group": "공공문화재단",
+   "source": "web",
+   "url": "https://www.incheon.go.kr/job/JOB010201",
+   "recommended": true,
+   "note": "인천 지역 공공기관 채용 모음 · 문화·예술 관련만 수집",
+   "include": "(문화|예술|아트).*(채용|모집|인턴)|(채용|모집|인턴).*(문화|예술|아트)",
+   "id": "인천시-공공일자리-문화-분야"
   }
  ]
 }

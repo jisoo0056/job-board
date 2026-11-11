@@ -37,7 +37,7 @@ NO_DEADLINE_DAYS = 30  # 마감일을 못 찾은 공고는 이 기간이 지나�
 TYPE_RULES = [  # 위에서부터 먼저 맞는 것으로 분류
     ("대외활동", r"서포터즈|자원\s*봉사|자원\s*활동|봉사단|기자단|홍보대사|모니터링단|앰배서더|활동가\s*모집"),
     ("인턴", r"인턴"),
-    ("계약직", r"계약|기간제|공무직|임시직|대체\s*인력|대체근로|육아휴직|단기|시간제|초단시간|위촉|촉탁|비정규|아르바이트|하우스\s*어텐던트|안내원|어셔"),
+    ("계약직", r"계약|기간제|공무직|임시직|대체\s*인력|대체근로|육아휴직|단기|시간제|초단시간|위촉|촉탁|초빙|비정규|아르바이트|하우스\s*어텐던트|안내원|어셔"),
     ("정규직", r"정규|일반직|신입|경력|직원\s*(공개)?\s*채용|공개\s*채용|공채"),
 ]
 JOB_KEYWORDS = {
@@ -50,10 +50,12 @@ JOB_KEYWORDS = {
 INCLUDE = r"채용|모집|인턴|서포터즈|자원\s*봉사|자원\s*활동|어텐던트|안내원|구인"
 EXCLUDE = (r"합격|결과|발표|면접|필기|서류\s*(심사|전형)|입찰|대관|사전규격|강좌|수강|교육생|"
            r"수강생|참여자|참가자|입주|공모전|심의위원|평가위원|위원\s*후보|단원|오디션|아카데미|현황|생활체육|"
-           r"용역|검진|지원사업|임원|비상임|이사\s*(공개)?모집|공연장\s*모집|단체\s*모집|"
+           r"용역|검진|지원사업|임원|비상임|감사|이사\s*(공개)?모집|공연장\s*모집|단체\s*모집|"
+           r"원고|강사|전시\s*모집|제휴|업체|캠프|작가\s*모집|"
            r"관객|관람|이벤트|당첨|낙찰|계약\s*체결|선정\s*(결과|알림)")
 NAV_WORDS = {"채용", "채용공고", "채용정보", "채용 공고", "인재채용", "채용안내", "더보기",
              "채용공고 더보기", "모집", "모집공고", "recruit", "careers"}
+NOT_CULTURE = r"농림|농업|수산|산림|축산|해양|국토|에너지|체육|관광공사"
 CULTURE_INST = r"문화|예술|박물관|극장|극단|콘텐츠|도서관|문학|영상|저작권|출판|발레|오페라|무용|오케스트라|심포니|국악|공예|세종학당|영화"
 
 
@@ -138,7 +140,7 @@ def collect_alio(companies: list[dict], key: str) -> tuple[list[dict], dict]:
     for it in items:
         inst = it.get("instNm", "")
         c = names.get(norm(inst))
-        if not c and not re.search(CULTURE_INST, inst):
+        if not c and (not re.search(CULTURE_INST, inst) or re.search(NOT_CULTURE, inst)):
             continue
         hire = it.get("hireTypeNmLst") or ""
         title = it.get("recrutPbancTtl") or ""
@@ -231,6 +233,12 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
         link = base if (not href or href.startswith(("#", "javascript"))) else urljoin(base, href)
         title = re.sub(r"^번호\s*\d+\s*|^제목\s*|\s*(작성일|등록일|조회수?)\b.*$", "", text)
         title = re.sub(r"^제목\s*", "", title)
+        title = re.sub(r"^\d{1,3}\s+(20\d{2}\.\d{1,2}\.?\s*)?", "", title)
+        title = re.sub(r"\s*20\d{2}[.\-/]\d{1,2}[.\-/]\d{1,2}\.?\s*(채용공고|공지|모집)?\s*$", "", title)
+        title = re.sub(r"^채용공고\s+(?=\S)", "", title)
+        if len(title) > 90:  # 본문 미리보기까지 붙은 경우 첫 '공고'까지만
+            m = re.search(r"^.{15,90}?공고", title)
+            title = m.group(0) if m else title[:90] + "…"
         title = re.sub(r"\s*20\d{2}[.\-/]\d{1,2}[.\-/]\d{1,2}\.?\s*$", "", title)
         title = re.sub(r"^(채용공고\s*)?(진행중|접수중|종료|마감)\s*", "", title).strip()
         key = link if link != base else title
@@ -379,7 +387,12 @@ def main():
     today = TODAY.isoformat()
     new_jobs = []
     merged = dict(old)
+    seen_titles = set()
     for j in found:
+        tkey = (j["company"], re.sub(r"\s+", "", j["title"]))
+        if tkey in seen_titles:  # 같은 공고가 여러 게시판에 올라온 경우
+            continue
+        seen_titles.add(tkey)
         prev = old.get(j["id"])
         if prev:
             j["first_seen"] = prev["first_seen"]
@@ -394,7 +407,9 @@ def main():
                 new_jobs.append(j)
         j["last_seen"] = today
         merged[j["id"]] = j
-    jobs = list(merged.values())
+    # 필터 규칙이 바뀌어 이제 제외 대상이 된 예전 글은 정리
+    jobs = [j for j in merged.values()
+            if j.get("source") != "기관 홈페이지" or not re.search(EXCLUDE, j["title"])]
     for j in jobs:
         j["closed"] = is_closed(j)
     # 마감 후 120일 지난 공고는 정리
