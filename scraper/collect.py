@@ -481,8 +481,12 @@ def main():
         j["last_seen"] = today
         merged[j["id"]] = j
     # 필터 규칙이 바뀌어 이제 제외 대상이 된 예전 글은 정리
-    jobs = [j for j in merged.values()
-            if j.get("source") != "기관 홈페이지" or not re.search(EXCLUDE, j["title"])]
+    def still_wanted(j):
+        if j.get("source") == "기관 홈페이지":
+            return not re.search(EXCLUDE, j["title"])
+        # 공공기관 API: 목록에 없는 기관 중 문화와 무관한 곳은 제외
+        return bool(j.get("company_id")) or not re.search(NOT_CULTURE, j.get("company", ""))
+    jobs = [j for j in merged.values() if still_wanted(j)]
     # 마감일을 제목에서 못 찾은 게시판 공고는 상세 페이지를 한 번 열어서 찾는다
     checked = 0
     for j in jobs:
