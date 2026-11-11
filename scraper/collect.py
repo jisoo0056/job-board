@@ -52,7 +52,7 @@ INCLUDE = r"채용|모집|인턴|서포터즈|자원\s*봉사|자원\s*활동|�
 EXCLUDE = (r"합격|결과|발표|면접|필기|서류\s*(심사|전형)|입찰|대관|사전규격|강좌|수강|교육생|"
            r"수강생|참여자|참가자|입주|공모전|심의위원|평가위원|위원\s*후보|단원|오디션|아카데미|현황|생활체육|"
            r"용역|검진|지원사업|임원|비상임|감사|이사\s*(공개)?모집|공연장\s*모집|단체\s*모집|"
-           r"원고|강사|전시\s*모집|제휴|업체|캠프|작가\s*모집|교육\s*프로그램|"
+           r"원고|강사|전시\s*모집|제휴|업체|캠프|작가\s*모집|교육\s*프로그램|경연|출품|작품\s*공모|공모\s*$|K-Stage|학교|세미나|"
            r"관객|관람|이벤트|당첨|낙찰|계약\s*체결|선정\s*(결과|알림)")
 NAV_WORDS = {"채용", "채용공고", "채용정보", "채용 공고", "인재채용", "채용안내", "더보기",
              "채용공고 더보기", "모집", "모집공고", "recruit", "careers"}
@@ -292,7 +292,8 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
         title = re.sub(r"^제목\s*", "", title)
         title = re.sub(r"^\d{1,3}\s+(20\d{2}\.\d{1,2}\.?\s*)?", "", title)
         title = re.sub(r"\s*20\d{2}[.\-/]\d{1,2}[.\-/]\d{1,2}\.?\s*(채용공고|공지|모집)?\s*$", "", title)
-        title = re.sub(r"^채용공고\s+(?=\S)", "", title)
+        title = re.sub(r"^(채용공고|채용|모집|구인)\s+(?=\S)", "", title)
+        title = re.sub(r"\s*주최\s*:.*$", "", title)
         if len(title) > 90:  # 본문 미리보기까지 붙은 경우 첫 '공고'까지만
             m = re.search(r"^.{15,90}?공고", title)
             title = m.group(0) if m else title[:90] + "…"
@@ -311,7 +312,7 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
             "group": company["group"],
             "title": title,
             "url": link,
-            "type": classify_type(title),
+            "type": classify_type(title) or company.get("default_type"),
             "tags": job_tags(title),
             "career": career_of(title),
             "posted": (find_post_date(row_text.replace(text, " ")) or find_post_date(text) or None),
@@ -374,7 +375,7 @@ def detail_info(url: str) -> tuple[str | None, str | None]:
     for pat in (STRONG_KEY, DEADLINE_KEY):
         for k in re.finditer(pat, text):
             d = first_range_end(text[k.end(): k.end() + 80])
-            if d and TODAY - timedelta(days=400) < d < TODAY + timedelta(days=200):
+            if d and TODAY - timedelta(days=3650) < d < TODAY + timedelta(days=200):
                 deadline = d.isoformat()
                 break
         if deadline:
@@ -521,7 +522,7 @@ def main():
     checked = 0
     for j in jobs:
         if (j.get("source") == "기관 홈페이지" and not j.get("detail_checked") and not j.get("closed")
-                and j["last_seen"] == today and checked < 40
+                and j["last_seen"] == today and checked < 150
                 and j["url"] != next((c["url"] for c in companies if c["id"] == j["company_id"]), None)):
             checked += 1
             try:
