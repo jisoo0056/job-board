@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-12T07:57+09:00",
+ "updated": "2026-11-12T09:19+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
    "count": 4,
-   "total_api": 492,
+   "total_api": 495,
    "matched": [
     "국악방송",
     "한국문화관광연구원",
@@ -146,6 +146,11 @@
    "count": 1,
    "method": "api"
   },
+  "아트모아": {
+   "ok": true,
+   "count": 255,
+   "method": "artmore"
+  },
   "LG아트센터": {
    "ok": true,
    "count": 1,
@@ -218,7 +223,7 @@
   },
   "경기문화재단": {
    "ok": true,
-   "count": 0,
+   "count": 12,
    "method": "static"
   },
   "부천문화재단": {
@@ -315,6 +320,61 @@
    "ok": true,
    "count": 0,
    "method": "static"
+  },
+  "씨네21-영화인-JOB-영화제-스태프": {
+   "ok": true,
+   "count": 2,
+   "method": "static"
+  },
+  "씽유-대외활동-영화제": {
+   "ok": true,
+   "count": 41,
+   "method": "browser"
+  },
+  "씽유-대외활동-연극제": {
+   "ok": true,
+   "count": 8,
+   "method": "browser"
+  },
+  "씽유-대외활동-공연예술-축제": {
+   "ok": true,
+   "count": 10,
+   "method": "browser"
+  },
+  "씽유-대외활동-무용-축제": {
+   "ok": true,
+   "count": 17,
+   "method": "browser"
+  },
+  "씽유-대외활동-문화-예술-서포터즈": {
+   "ok": true,
+   "count": 5,
+   "method": "browser"
+  },
+  "씽유-대외활동-문화-예술-기자단": {
+   "ok": true,
+   "count": 3,
+   "method": "browser"
+  },
+  "씽유-대외활동-문화-예술-예술": {
+   "ok": true,
+   "count": 6,
+   "method": "browser"
+  },
+  "씽유-대외활동-문화-예술-문화": {
+   "ok": true,
+   "count": 4,
+   "method": "browser"
+  },
+  "씽유-대외활동-문화-예술-공연": {
+   "ok": true,
+   "count": 17,
+   "method": "browser"
+  },
+  "예술의전당-소식-서포터즈-하우스-어텐던트": {
+   "ok": true,
+   "count": 2,
+   "method": "browser"
   }
  }
 }
