@@ -299,6 +299,9 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
             title = m.group(0) if m else title[:90] + "…"
         title = re.sub(r"\s*20\d{2}[.\-/]\d{1,2}[.\-/]\d{1,2}\.?\s*$", "", title)
         title = re.sub(r"^(채용공고\s*)?(진행중|접수중|종료|마감)\s*", "", title).strip()
+        m_ty = re.search(r"thinkyou\.co\.kr/extAct/(\d+)", link)
+        if m_ty:
+            link = f"https://thinkyou.co.kr/extAct/{m_ty.group(1)}/"
         key = link if link != base else title
         if key in seen:
             continue
@@ -306,7 +309,7 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
         closed_mark = bool(re.search(r"(^|\s)(종료|마감|접수마감)(\s|$)", row_text.replace(title, " ")))
         dl = find_deadline(text) or find_deadline(row_text)
         out.append({
-            "id": mkid(company["id"], key),
+            "id": f"thinkyou-{m_ty.group(1)}" if m_ty else mkid(company["id"], key),
             "company": company["name"],
             "company_id": company["id"],
             "group": company["group"],
@@ -456,7 +459,16 @@ def save(name, obj):
     (DATA / name).write_text(json.dumps(obj, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
+REQUIRE_DEADLINE: set = set()  # 마감일을 못 찾으면 마감으로 보는 출처(대외활동 모음 사이트)
+
+
 def is_closed(j: dict) -> bool:
+    # 제목에 적힌 연도가 모두 올해 이전이면(예: '2024 ○○ 서포터즈') 지난 공고
+    years = [int(y) for y in re.findall(r"(?<!\d)(20\d{2})(?!\d)", j.get("title", ""))]
+    if years and max(years) < TODAY.year:
+        return True
+    if not j.get("deadline") and j.get("detail_checked") and j.get("company_id") in REQUIRE_DEADLINE:
+        return True
     if j.get("deadline"):
         return j["deadline"] < TODAY.isoformat()
     if j.get("closed_mark"):
@@ -499,6 +511,7 @@ def send_mail(new_jobs: list[dict], failed: list[str]):
 def main():
     only = sys.argv[1:]  # 테스트용: 특정 기관 id만
     companies = load("companies.json", {"companies": []})["companies"]
+    REQUIRE_DEADLINE.update(c["id"] for c in companies if c.get("require_deadline"))
     old = {j["id"]: j for j in load("jobs.json", {"jobs": []})["jobs"]}
     # 기관(또는 공공기관 API)을 처음 수집하는 날은 기존 공고를 '새 공고'로 치지 않는다
     prev_ok = {k for k, v in load("status.json", {}).get("companies", {}).items() if v.get("ok")}
@@ -555,6 +568,9 @@ def main():
     found.sort(key=lambda j: j.get("source") == "아트모아")
     for j in found:
         key = tnorm(j["title"])
+        if len(key) > 15 and any(len(k) > 15 and (key in k or k in key) for k in seen_titles.get("__all__", [])):
+            continue  # 다른 출처에서 이미 잡힌 같은 제목
+        seen_titles.setdefault("__all__", []).append(key)
         same = seen_titles.setdefault(j["company"], [])
         if any(key == k or (len(key) > 12 and len(k) > 12 and (key in k or k in key)) for k in same):
             continue  # 같은 공고가 여러 곳에 올라온 경우
@@ -578,8 +594,13 @@ def main():
         j["last_seen"] = today
         merged[j["id"]] = j
     # 필터 규칙이 바뀌어 이제 제외 대상이 된 예전 글은 정리
+    comp_by_id = {c["id"]: c for c in companies}
+
     def still_wanted(j):
         if j.get("source") in ("기관 홈페이지", "아트모아"):
+            comp = comp_by_id.get(j.get("company_id")) or {}
+            if comp.get("include") and comp.get("default_type") and not re.search(comp["include"], j["title"], re.I):
+                return False  # 대외활동 모음 사이트에서 온 글은 지금 기준(문화·예술)에 맞을 때만
             return not re.search(EXCLUDE, j["title"])
         # 공공기관 API: 목록에 없는 기관 중 문화와 무관한 곳은 제외
         return bool(j.get("company_id")) or not re.search(NOT_CULTURE, j.get("company", ""))
@@ -588,7 +609,7 @@ def main():
     checked = 0
     for j in jobs:
         if (j.get("source") == "기관 홈페이지" and not j.get("detail_checked") and not j.get("closed")
-                and j["last_seen"] == today and checked < 150
+                and j["last_seen"] == today and checked < 400
                 and j["url"] != next((c["url"] for c in companies if c["id"] == j["company_id"]), None)):
             checked += 1
             try:
