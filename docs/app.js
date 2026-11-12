@@ -14,6 +14,13 @@
   const CAREER_NEW = /신입|경력\s*무관|경력\s*불문/;
   const CAREER_EXP = /경력\s*직|경력\s*\d|경력\s*(사원|채용|공채|제한|자)|\d+\s*년\s*이상|시니어|책임급|선임급/;
   const careerOf = (t) => (CAREER_NEW.test(t) ? "신입" : CAREER_EXP.test(t) ? "경력" : null);
+  // 분야: 공고 제목 + 기관 이름으로 판단 (여러 분야에 동시에 들 수 있음)
+  const FIELD_RULES = {
+    "공연": /공연|극장|아트센터|아트홀|콘서트|오페라|발레|뮤지컬|연극|무용|댄스|오케스트라|심포니|교향악|국악|예술단|극단|문화회관|예술의전당|씨어터|시어터|무대|하우스\s*(안내|어텐던트|어셔|매니저|스태프)|티켓|객석|공연장|페스티벌|연극제|아트리움|콘서트홀|세종문화회관|정동극장/,
+    "미술": /미술|갤러리|아트페어|비엔날레|큐레이터|도슨트|학예|전시|뮤지엄|박물관|아트\s*스페이스|조각|회화|공예|디자인\s*진흥|아트센터\s*나비|리움/,
+    "도서관": /도서관|사서|도서|북\s*(카페|페스티벌|스타트)|책\s*(축제|나라|문화)|그림책|북스타트|출판|문학관|문학번역|독서/,
+  };
+  const FIELDS = Object.keys(FIELD_RULES);
   const TAG_RULES = { "하우스안내원": /하우스\s*\)?\s*(안내|매니저|부매니저|어텐던트|어셔|스태프)|안내원|어셔|어텐던트|객석\s*안내|공연장\s*안내|안내\s*데스크/ };
   const GROUPS = ["공연장", "문체부 산하 공공기관", "공공문화재단", "민간문화재단", "기업", "축제·대외활동", "기타 문화예술 기관"];
   const NEW_DAYS = 3;
@@ -29,6 +36,7 @@
     type: store.get("type", "all"),
     tags: new Set(store.get("tags", [])),
     groups: new Set(store.get("groups", [])),
+    fields: new Set(store.get("fields", [])),
     q: "", newOnly: false, hideRead: store.get("hideRead", false),
     hideExp: store.get("hideExp", false), newcomerOnly: store.get("newcomerOnly", false),
     read: new Set(store.get("read", [])),
@@ -86,7 +94,9 @@
     const career = j.career || careerOf(j.title);
     const tags = [...(j.tags || [])];
     for (const [t, re] of Object.entries(TAG_RULES)) if (re.test(j.title) && !tags.includes(t)) tags.push(t);
-    return { ...j, type, tags, career, hidden: Boolean(ov.hidden), isNew, isRead: state.read.has(j.id) };
+    const hay = `${j.title} ${j.company}`;
+    const fields = FIELDS.filter((f) => FIELD_RULES[f].test(hay));
+    return { ...j, type, tags, career, fields, hidden: Boolean(ov.hidden), isNew, isRead: state.read.has(j.id) };
   }
 
   function matches(j) {
@@ -96,6 +106,7 @@
     }
     if (state.tags.size && !(j.tags || []).some((t) => state.tags.has(t))) return false;
     if (state.groups.size && !state.groups.has(j.group)) return false;
+    if (state.fields.size && !j.fields.some((f) => state.fields.has(f))) return false;
     if (state.newOnly && !j.isNew) return false;
     if (state.hideRead && j.isRead) return false;
     if (state.hideExp && j.career === "경력") return false;
@@ -151,6 +162,7 @@
       return `<button class="tab ${state.type === t.key ? "on" : ""}" data-type="${t.key}">${t.label}<span class="n">${list.length}</span>${nn ? `<span class="nn">+${nn}</span>` : ""}</button>`;
     }).join("");
     $("#tagChips").innerHTML = TAGS.map((t) => `<button class="chip ${state.tags.has(t) ? "on" : ""}" data-tag="${t}">${t}</button>`).join("");
+    $("#fieldChips").innerHTML = FIELDS.map((f) => `<button class="chip ${state.fields.has(f) ? "on" : ""}" data-field="${f}">${f}</button>`).join("");
     $("#groupChips").innerHTML = GROUPS.map((g) => `<button class="chip ${state.groups.has(g) ? "on" : ""}" data-group="${g}">${g}</button>`).join("");
     $("#hideRead").checked = state.hideRead;
     $("#hideExp").checked = state.hideExp;
@@ -179,7 +191,7 @@
         ${j.isNew ? `<span class="badge new">NEW</span>` : ""}
         ${j.career ? `<span class="badge career">${j.career === "신입" ? "신입 가능" : "경력"}</span>` : ""}
         <span class="company">${esc(j.company)}</span>
-        <span>${esc(j.group || "")}</span>
+        <span>${esc(j.group || "")}${j.fields.length ? ` · ${j.fields.join("·")}` : ""}</span>
       </div>
       <a class="title" href="${esc(j.url)}" target="_blank" rel="noopener" data-read="${j.id}">${esc(j.title)}</a>
       <div class="tags">${(j.tags || []).map((t) => `<span>${esc(t)}</span>`).join("")}${posted ? `<em class="dl">${posted}</em>` : ""}</div>
@@ -259,10 +271,11 @@
 
   // ---------- 이벤트 ----------
   document.addEventListener("click", (e) => {
-    const t = e.target.closest("[data-type],[data-tag],[data-group],[data-view],[data-go],[data-read],[data-hide],[data-del]");
+    const t = e.target.closest("[data-type],[data-tag],[data-field],[data-group],[data-view],[data-go],[data-read],[data-hide],[data-del]");
     if (!t) return;
     if (t.dataset.type) { state.type = t.dataset.type; store.set("type", state.type); render(); }
     else if (t.dataset.tag) { toggle(state.tags, t.dataset.tag); store.set("tags", [...state.tags]); render(); }
+    else if (t.dataset.field) { toggle(state.fields, t.dataset.field); store.set("fields", [...state.fields]); render(); }
     else if (t.dataset.group) { toggle(state.groups, t.dataset.group); store.set("groups", [...state.groups]); render(); }
     else if (t.dataset.view || t.dataset.go) { showView(t.dataset.view || t.dataset.go); }
     else if (t.dataset.read) {
@@ -298,7 +311,7 @@
   $("#newcomerOnly").addEventListener("change", (e) => { state.newcomerOnly = e.target.checked; store.set("newcomerOnly", state.newcomerOnly); renderJobs(); });
   $("#hideRead").addEventListener("change", (e) => { state.hideRead = e.target.checked; store.set("hideRead", state.hideRead); renderJobs(); });
   $("#resetFilters").addEventListener("click", () => {
-    state.tags.clear(); state.groups.clear(); state.q = ""; state.newOnly = false; state.hideRead = false;
+    state.tags.clear(); state.groups.clear(); state.fields.clear(); store.set("fields", []); state.q = ""; state.newOnly = false; state.hideRead = false;
     state.hideExp = false; state.newcomerOnly = false; store.set("hideExp", false); store.set("newcomerOnly", false);
     $("#q").value = ""; store.set("tags", []); store.set("groups", []); store.set("hideRead", false); render();
   });
