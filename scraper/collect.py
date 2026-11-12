@@ -56,6 +56,15 @@ EXCLUDE = (r"합격|결과|발표|면접|필기|서류\s*(심사|전형)|입찰|
            r"관객|관람|이벤트|당첨|낙찰|계약\s*체결|선정\s*(결과|알림)")
 NAV_WORDS = {"채용", "채용공고", "채용정보", "채용 공고", "인재채용", "채용안내", "더보기",
              "채용공고 더보기", "모집", "모집공고", "recruit", "careers"}
+# 하지 않을 직무: 제목에 있으면 제외. 단, 행정·기획 등 다른 직무와 함께 뽑는 공고는 남김
+UNWANTED_JOBS = r"미화|청소(?!년)|기계|조명|음향"
+KEEP_JOBS = r"행정|기획|홍보|마케팅|비서|사무|경영|안내원|티켓\s*매니저|하우스|큐레이터|학예|사서|서포터즈|기자단"
+
+
+def unwanted(title: str) -> bool:
+    return bool(re.search(UNWANTED_JOBS, title)) and not re.search(KEEP_JOBS, title)
+
+
 NON_ARTS = (r"어린이집|보육\s*교사|미용|네일|메이크업|유아\s*체육|체육\s*(선생님|교실|강사)|키즈\s*GYM|"
             r"사진관|베이비\s*(촬영|포토)|가족사진|스튜디오\s*일|전기\s*배선|건설|경호|홈쇼핑|방과후|"
             r"주간\s*활동\s*서비스|어촌|유통\s*및\s*생산|보험\s*설계|부동산|테마파크\s*인력")
@@ -602,6 +611,8 @@ def main():
     comp_by_id = {c["id"]: c for c in companies}
 
     def still_wanted(j):
+        if unwanted(j.get("title", "")):
+            return False
         if j.get("source") in ("기관 홈페이지", "아트모아"):
             comp = comp_by_id.get(j.get("company_id")) or {}
             if comp.get("include") and comp.get("default_type") and not re.search(comp["include"], j["title"], re.I):
