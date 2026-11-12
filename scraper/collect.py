@@ -327,6 +327,62 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
     return out
 
 
+def collect_artmore(company: dict, companies: list[dict]) -> list[dict]:
+    """아트모아(예술경영지원센터 문화예술 일자리) 진행 중 공고 목록."""
+    by_name = {}
+    for c in companies:
+        for n in [c["name"]] + c.get("aliases", []):
+            by_name[norm(n)] = c
+    out = []
+    for page in range(1, company.get("pages", 3) + 1):
+        r = SESSION.post("https://www.artmore.kr/sub/recruit/search_list.do", timeout=40, data={
+            "page": page, "listSize": 100, "sort_type": 1, "exclude_end_yn": "Y"})
+        r.raise_for_status()
+        soup = BeautifulSoup(r.text, "html.parser")
+        rows = [a.find_parent("tr") for a in soup.select("a.jobs_title")]
+        if not rows:
+            break
+        for tr in rows:
+            if tr is None:
+                continue
+            a = tr.select_one("a.jobs_title")
+            state = a.select_one(".jobs_list_state")
+            if state:
+                state.extract()
+            title = re.sub(r"\s+", " ", a.get_text(" ", strip=True))
+            if re.search(EXCLUDE, title):
+                continue
+            org_el = tr.select_one(".jobs_cname")
+            org = re.sub(r"\s+", " ", org_el.get_text(" ", strip=True)) if org_el else "아트모아"
+            txt = lambda sel: (tr.select_one(sel).get_text(" ", strip=True) if tr.select_one(sel) else "")
+            emp = txt(".jobs_regular")
+            career_txt = txt(".jobs_career")
+            m = by_name.get(norm(org)) or next(
+                (c for k, c in by_name.items() if len(k) >= 4 and (k in norm(org) or norm(org) in k)), None)
+            t = classify_type(title)
+            if not t:
+                t = {"정규직": "정규직", "계약직": "계약직", "시간선택제": "계약직", "프리랜서": "계약직"}.get(emp)
+            career = career_of(title) or ("신입" if re.search(r"무관|신입", career_txt)
+                                           else "경력" if "경력" in career_txt else None)
+            end = re.search(r"(20\d{2}-\d{2}-\d{2})\s*마감", tr.get_text(" "))
+            start = re.search(r"(20\d{2}-\d{2}-\d{2})\s*등록", tr.get_text(" "))
+            link = urljoin("https://www.artmore.kr/", a.get("href"))
+            out.append({
+                "id": "artmore-" + (re.search(r"rec_idx=(\d+)", link) or [None, link])[1],
+                "company": m["name"] if m else org,
+                "company_id": m["id"] if m else None,
+                "group": m["group"] if m else "기타 문화예술 기관",
+                "title": title, "url": link, "type": t, "type_detail": emp,
+                "tags": job_tags(title), "career": career,
+                "posted": start.group(1) if start else None,
+                "deadline": end.group(1) if end else find_deadline(title) and find_deadline(title).isoformat(),
+                "region": txt(".jobs_wkplace"),
+                "source": "아트모아",
+            })
+        time.sleep(0.5)
+    return out
+
+
 def collect_web(company: dict) -> tuple[list[dict], str]:
     url = company["url"]
     method = "static"
@@ -475,7 +531,10 @@ def main():
         if c["source"] != "web" or not c.get("url") or (only and c["id"] not in only):
             continue
         try:
-            items, method = collect_web(c)
+            if c.get("parser") == "artmore":
+                items, method = collect_artmore(c, companies), "artmore"
+            else:
+                items, method = collect_web(c)
             found += items
             status[c["id"]] = {"ok": True, "count": len(items), "method": method}
             print(f"OK   {c['name']}: {len(items)}건 ({method})")
@@ -488,12 +547,18 @@ def main():
     today = TODAY.isoformat()
     new_jobs = []
     merged = dict(old)
-    seen_titles = set()
+    def tnorm(t):
+        t = re.sub(r"\(?재\)?단법인|\(재\)|\(주\)|\([^)]*~[^)]*\)", "", t)
+        return re.sub(r"[^가-힣A-Za-z0-9]", "", t)
+    seen_titles: dict = {}
+    # 기관 홈페이지/API 공고를 먼저 두고, 아트모아는 같은 공고가 없을 때만 추가
+    found.sort(key=lambda j: j.get("source") == "아트모아")
     for j in found:
-        tkey = (j["company"], re.sub(r"\s+", "", j["title"]))
-        if tkey in seen_titles:  # 같은 공고가 여러 게시판에 올라온 경우
-            continue
-        seen_titles.add(tkey)
+        key = tnorm(j["title"])
+        same = seen_titles.setdefault(j["company"], [])
+        if any(key == k or (len(key) > 12 and len(k) > 12 and (key in k or k in key)) for k in same):
+            continue  # 같은 공고가 여러 곳에 올라온 경우
+        same.append(key)
         prev = old.get(j["id"])
         if prev:
             j["first_seen"] = prev["first_seen"]
@@ -501,7 +566,8 @@ def main():
             # 게시판에서 이미 마감일을 알았으면 유지
             j["deadline"] = j.get("deadline") or prev.get("deadline")
         else:
-            src = "__alio__" if j["id"].startswith("alio-") else j["company_id"]
+            src = ("__alio__" if j["id"].startswith("alio-")
+                   else "아트모아" if j["id"].startswith("artmore-") else j["company_id"])
             j["first_seen"] = today
             j["initial"] = src not in prev_ok
             if not j["initial"]:
@@ -513,7 +579,7 @@ def main():
         merged[j["id"]] = j
     # 필터 규칙이 바뀌어 이제 제외 대상이 된 예전 글은 정리
     def still_wanted(j):
-        if j.get("source") == "기관 홈페이지":
+        if j.get("source") in ("기관 홈페이지", "아트모아"):
             return not re.search(EXCLUDE, j["title"])
         # 공공기관 API: 목록에 없는 기관 중 문화와 무관한 곳은 제외
         return bool(j.get("company_id")) or not re.search(NOT_CULTURE, j.get("company", ""))
