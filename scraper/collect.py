@@ -56,6 +56,9 @@ EXCLUDE = (r"합격|결과|발표|면접|필기|서류\s*(심사|전형)|입찰|
            r"관객|관람|이벤트|당첨|낙찰|계약\s*체결|선정\s*(결과|알림)")
 NAV_WORDS = {"채용", "채용공고", "채용정보", "채용 공고", "인재채용", "채용안내", "더보기",
              "채용공고 더보기", "모집", "모집공고", "recruit", "careers"}
+NON_ARTS = (r"어린이집|보육\s*교사|미용|네일|메이크업|유아\s*체육|체육\s*(선생님|교실|강사)|키즈\s*GYM|"
+            r"사진관|베이비\s*(촬영|포토)|가족사진|스튜디오\s*일|전기\s*배선|건설|경호|홈쇼핑|방과후|"
+            r"주간\s*활동\s*서비스|어촌|유통\s*및\s*생산|보험\s*설계|부동산|테마파크\s*인력")
 NOT_CULTURE = r"농림|농업|수산|산림|축산|해양|국토|에너지|체육|관광공사"
 CULTURE_INST = r"문화|예술|박물관|극장|극단|콘텐츠|도서관|문학|영상|저작권|출판|발레|오페라|무용|오케스트라|심포니|국악|공예|세종학당|영화"
 
@@ -357,6 +360,8 @@ def collect_artmore(company: dict, companies: list[dict]) -> list[dict]:
                 continue
             org_el = tr.select_one(".jobs_cname")
             org = re.sub(r"\s+", " ", org_el.get_text(" ", strip=True)) if org_el else "아트모아"
+            if re.search(NON_ARTS, f"{title} {org}"):
+                continue  # 예술과 무관한 공고(어린이집, 미용, 사진관 등)
             txt = lambda sel: (tr.select_one(sel).get_text(" ", strip=True) if tr.select_one(sel) else "")
             emp = txt(".jobs_regular")
             career_txt = txt(".jobs_career")
@@ -601,6 +606,8 @@ def main():
             comp = comp_by_id.get(j.get("company_id")) or {}
             if comp.get("include") and comp.get("default_type") and not re.search(comp["include"], j["title"], re.I):
                 return False  # 대외활동 모음 사이트에서 온 글은 지금 기준(문화·예술)에 맞을 때만
+            if j.get("source") == "아트모아" and re.search(NON_ARTS, f"{j['title']} {j['company']}"):
+                return False
             return not re.search(EXCLUDE, j["title"])
         # 공공기관 API: 목록에 없는 기관 중 문화와 무관한 곳은 제외
         return bool(j.get("company_id")) or not re.search(NOT_CULTURE, j.get("company", ""))

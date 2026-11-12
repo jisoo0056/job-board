@@ -18,9 +18,11 @@
   const FIELD_RULES = {
     "공연": /공연|극장|아트센터|아트홀|콘서트|오페라|발레|뮤지컬|연극|무용|댄스|오케스트라|심포니|교향악|국악|예술단|극단|문화회관|예술의전당|씨어터|시어터|무대|하우스\s*(안내|어텐던트|어셔|매니저|스태프)|티켓|객석|공연장|페스티벌|연극제|아트리움|콘서트홀|세종문화회관|정동극장/,
     "미술": /미술|갤러리|아트페어|비엔날레|큐레이터|도슨트|학예|전시|뮤지엄|박물관|아트\s*스페이스|조각|회화|공예|디자인\s*진흥|아트센터\s*나비|리움/,
+    "영화·영상": /영화|영상|필름|시네마|씨네|방송|PD|조연출|다큐|미디어\s*센터|촬영\s*감독/,
     "도서관": /도서관|사서|도서|북\s*(카페|페스티벌|스타트)|책\s*(축제|나라|문화)|그림책|북스타트|출판|문학관|문학번역|독서/,
   };
-  const FIELDS = Object.keys(FIELD_RULES);
+  // 어느 분야에도 안 걸리면: 기관 목록·공공기관의 일반 채용은 '종합·행정', 나머지는 '기타'
+  const FIELDS = [...Object.keys(FIELD_RULES), "종합·행정", "기타"];
   const TAG_RULES = { "하우스안내원": /하우스\s*\)?\s*(안내|매니저|부매니저|어텐던트|어셔|스태프)|안내원|어셔|어텐던트|객석\s*안내|공연장\s*안내|안내\s*데스크/ };
   const GROUPS = ["공연장", "문체부 산하 공공기관", "공공문화재단", "민간문화재단", "기업", "축제·대외활동", "기타 문화예술 기관"];
   const NEW_DAYS = 3;
@@ -95,7 +97,12 @@
     const tags = [...(j.tags || [])];
     for (const [t, re] of Object.entries(TAG_RULES)) if (re.test(j.title) && !tags.includes(t)) tags.push(t);
     const hay = `${j.title} ${j.company}`;
-    const fields = FIELDS.filter((f) => FIELD_RULES[f].test(hay));
+    const fields = Object.keys(FIELD_RULES).filter((f) => FIELD_RULES[f].test(hay));
+    if (!fields.length) {
+      const known = j.group && j.group !== "기타 문화예술 기관" && j.group !== "축제·대외활동";
+      const publicLike = /재단|진흥원|위원회|연구원|문화원|협회|공단|조직위/.test(j.company || "");
+      fields.push(known || publicLike ? "종합·행정" : "기타");
+    }
     return { ...j, type, tags, career, fields, hidden: Boolean(ov.hidden), isNew, isRead: state.read.has(j.id) };
   }
 
