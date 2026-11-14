@@ -304,7 +304,7 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
         title = re.sub(r"^제목\s*", "", title)
         title = re.sub(r"^\d{1,3}\s+(20\d{2}\.\d{1,2}\.?\s*)?", "", title)
         title = re.sub(r"\s*20\d{2}[.\-/]\d{1,2}[.\-/]\d{1,2}\.?\s*(채용공고|공지|모집)?\s*$", "", title)
-        title = re.sub(r"^(채용공고|채용|모집|구인)\s+(?=\S)", "", title)
+        title = re.sub(r"^(채용공고|채용|모집|구인|공지)\s+(?=\S)", "", title)
         title = re.sub(r"\s*주최\s*:.*$", "", title)
         if len(title) > 90:  # 본문 미리보기까지 붙은 경우 첫 '공고'까지만
             m = re.search(r"^.{15,90}?공고", title)
