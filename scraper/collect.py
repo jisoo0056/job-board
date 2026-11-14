@@ -37,8 +37,8 @@ NO_DEADLINE_DAYS = 30  # 마감일을 못 찾은 공고는 이 기간이 지나�
 TYPE_RULES = [  # 위에서부터 먼저 맞는 것으로 분류
     ("대외활동", r"서포터즈|자원\s*봉사|자원\s*활동|봉사단|기자단|홍보대사|모니터링단|앰배서더|활동가\s*모집"),
     ("인턴", r"인턴"),
-    ("계약직", r"계약|기간제|공무직|임시직|대체\s*인력|대체근로|육아휴직|단기|시간제|초단시간|위촉|촉탁|초빙|비정규|아르바이트|하우스\s*어텐던트|안내원|어셔"),
-    ("정규직", r"정규|일반직|신입|경력|직원\s*(공개)?\s*채용|공개\s*채용|공채"),
+    ("계약직", r"계약|기간제|공무직|임시직|대체\s*인력|대체근로|육아휴직|단기|시간제|초단시간|위촉|촉탁|초빙|비정규|아르바이트|하우스\s*어텐던트|안내원|어셔|매표"),
+    ("정규직", r"정규|일반직|신입|경력|공개\s*경쟁|직원\s*(공개)?\s*채용|공개\s*채용|공채"),
 ]
 JOB_KEYWORDS = {
     "경영지원": r"경영\s*지원|총무|인사|회계|재무|행정|사무|경영관리",
@@ -304,7 +304,13 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
         title = re.sub(r"^제목\s*", "", title)
         title = re.sub(r"^\d{1,3}\s+(20\d{2}\.\d{1,2}\.?\s*)?", "", title)
         title = re.sub(r"\s*20\d{2}[.\-/]\d{1,2}[.\-/]\d{1,2}\.?\s*(채용공고|공지|모집)?\s*$", "", title)
-        title = re.sub(r"^(채용공고|채용|모집|구인|공지)\s+(?=\S)", "", title)
+        title = re.sub(r"^(채용공고|채용정보|채용|모집|구인|공지)\s+(?=\S)", "", title)
+        title = re.sub(r"\s+\*\s.*$", "", title)  # 본문 미리보기('* 채용 홈페이지 바로가기...') 제거
+        if re.search(r"[_\s(\[]\s*(접수\s*)?마감\s*[)\]]?\s*$", title):
+            title = re.sub(r"[_\s(\[]\s*(접수\s*)?마감\s*[)\]]?\s*$", "", title)
+            closed_by_title = True
+        else:
+            closed_by_title = False
         title = re.sub(r"\s*주최\s*:.*$", "", title)
         if len(title) > 90:  # 본문 미리보기까지 붙은 경우 첫 '공고'까지만
             m = re.search(r"^.{15,90}?공고", title)
@@ -318,7 +324,7 @@ def extract(html: str, base: str, company: dict) -> list[dict]:
         if key in seen:
             continue
         seen.add(key)
-        closed_mark = bool(re.search(r"(^|\s)(종료|마감|접수마감)(\s|$)", row_text.replace(title, " ")))
+        closed_mark = closed_by_title or bool(re.search(r"(^|\s)(종료|마감|접수마감)(\s|$)", row_text.replace(title, " ")))
         dl = find_deadline(text) or find_deadline(row_text)
         out.append({
             "id": f"thinkyou-{m_ty.group(1)}" if m_ty else mkid(company["id"], key),

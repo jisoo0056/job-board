@@ -164,10 +164,10 @@
   {
    "name": "마포아트센터",
    "group": "공연장",
-   "source": "web",
+   "source": "link",
    "url": "https://www.mfac.or.kr/",
    "recommended": true,
-   "note": "마포문화재단",
+   "note": "마포문화재단 항목으로 수집",
    "id": "마포아트센터",
    "aliases": [
     "마포문화재단"
@@ -176,10 +176,10 @@
   {
    "name": "아트센터 인천",
    "group": "공연장",
-   "source": "link",
-   "url": "https://www.aci.or.kr",
+   "source": "web",
+   "url": "https://www.aci.or.kr/PageLink.do?menuNo=040000&subMenuNo=040100&thirdMenuNo=&link=forward%3A%2Fcop%2Fbbs%2FselectBoardList.do%3FbbsId%3Dnotice_main&conText=%2Fmain&tempParam1=&spring-security-redirect=%2Fmain%2FmainPage.do",
    "recommended": true,
-   "note": "인천 · 주소 확인 필요",
+   "note": "추천 · 공지사항에서 채용·모집 글 수집",
    "id": "아트센터-인천"
   },
   {
@@ -252,10 +252,11 @@
   {
    "name": "한국문화관광연구원",
    "group": "문체부 산하 공공기관",
-   "source": "alio",
-   "url": null,
+   "source": "web",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
    "recommended": false,
-   "id": "한국문화관광연구원"
+   "id": "한국문화관광연구원",
+   "note": "홈페이지 채용정보 수집 (공공기관 API 공고와 중복은 자동으로 합침)"
   },
   {
    "name": "한국영상자료원",
@@ -599,19 +600,19 @@
   {
    "name": "용산문화재단",
    "group": "공공문화재단",
-   "source": "link",
-   "url": null,
+   "source": "web",
+   "url": "https://yongsanculture.or.kr/site/main/archive/post/category/jobNotice",
    "recommended": true,
-   "note": "추천 · 홈페이지 주소 확인 필요(자동 수집 실패)",
+   "note": "추천 · 채용공고 게시판",
    "id": "용산문화재단"
   },
   {
    "name": "마포문화재단",
    "group": "공공문화재단",
-   "source": "link",
-   "url": null,
+   "source": "web",
+   "url": "https://www.mfac.or.kr/communication/notice_all_list.jsp?sc_type=2",
    "recommended": true,
-   "note": "마포아트센터 항목으로 수집",
+   "note": "추천 · 공지사항에서 채용·모집 글 수집",
    "id": "마포문화재단"
   },
   {
@@ -664,18 +665,18 @@
    "name": "CJ문화재단",
    "group": "민간문화재단",
    "source": "link",
-   "url": "https://recruit.cj.net",
+   "url": "https://www.cjazit.org/",
    "recommended": true,
    "id": "CJ문화재단",
-   "note": "추천 · CJ그룹 채용 사이트에 올라옴"
+   "note": "추천 · 채용은 CJ그룹 채용 사이트(recruit.cj.net)에 올라옴"
   },
   {
    "name": "금호문화재단",
    "group": "민간문화재단",
    "source": "link",
-   "url": "https://www.kumhoarthall.com",
+   "url": "http://www.kumhoarts.com/",
    "recommended": true,
-   "note": "추천 · 금호아트홀 · 서포터즈 모집도 있음",
+   "note": "추천 · 사이트 접속이 안 돼서 링크만 저장",
    "id": "금호문화재단"
   },
   {
@@ -707,19 +708,21 @@
    "name": "CJ ENM",
    "group": "기업",
    "source": "link",
-   "url": "https://recruit.cj.net",
+   "url": "https://recruit.cj.net/",
    "recommended": false,
-   "note": "CJ 채용 사이트",
+   "note": "CJ그룹 채용 사이트 · 로그인 필요한 곳이 많아 링크로만 저장",
    "id": "CJ-ENM"
   },
   {
    "name": "OD 컴퍼니",
    "group": "기업",
-   "source": "link",
-   "url": null,
+   "source": "web",
+   "url": "https://www.odmusical.com/community/carreers",
    "recommended": false,
-   "note": "주소 확인 필요",
-   "id": "OD-컴퍼니"
+   "note": "오디컴퍼니 CAREERS 게시판",
+   "id": "OD-컴퍼니",
+   "render": true,
+   "include": "채용|모집|인턴|매니저|PD|담당|직원|recruit"
   },
   {
    "name": "놀티켓 (NOL 인터파크)",
