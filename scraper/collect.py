@@ -649,7 +649,8 @@ def main():
     # 마감 후 120일 지난 공고는 정리
     cutoff = (TODAY - timedelta(days=120)).isoformat()
     jobs = [j for j in jobs if not (j["closed"] and (j.get("deadline") or j["last_seen"]) < cutoff)]
-    new_jobs = [j for j in new_jobs if not j["closed"]]
+    kept_ids = {j["id"] for j in jobs}
+    new_jobs = [j for j in new_jobs if j["id"] in kept_ids and not j.get("closed", True)]
 
     save("jobs.json", {"updated": NOW.isoformat(timespec="minutes"), "jobs": jobs})
     if only:
