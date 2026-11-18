@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T09:21+09:00",
+ "updated": "2026-11-18T11:27+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -7472,6 +7472,114 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "16666d4244a5",
+   "company": "경기아트센터 (인크루트)",
+   "company_id": "경기아트센터-인크루트",
+   "group": "공연장",
+   "title": "2026년 경기아트센터 제2차 하우스어셔 채용공고(연장) 2026.07.19 마감",
+   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2606290002702",
+   "type": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": null,
+   "posted": "2026-07-19",
+   "deadline": null,
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "08f48e5f73ba",
+   "company": "경기아트센터 (인크루트)",
+   "company_id": "경기아트센터-인크루트",
+   "group": "공연장",
+   "title": "2026년 경기도무용단 기획실장 공개채용 2026.04.27 마감",
+   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2604140002245",
+   "type": "정규직",
+   "tags": [
+    "전략기획"
+   ],
+   "career": null,
+   "posted": "2026-04-27",
+   "deadline": null,
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "537c3a3a14ab",
+   "company": "경기아트센터 (인크루트)",
+   "company_id": "경기아트센터-인크루트",
+   "group": "공연장",
+   "title": "2026년 경기아트센터 제1차 하우스부매니저 채용 공고 2026.04.08 마감",
+   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2603200003270",
+   "type": null,
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": null,
+   "posted": "2026-04-08",
+   "deadline": null,
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "e3a18bbb7b18",
+   "company": "경기아트센터 (인크루트)",
+   "company_id": "경기아트센터-인크루트",
+   "group": "공연장",
+   "title": "2025년 제8차 경기아트센터 기간제근로자 공개모집 (주차원) 2025.12.10 마감",
+   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2511190000849",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": "2025-12-10",
+   "deadline": null,
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "b818cdd75686",
+   "company": "경기아트센터 (인크루트)",
+   "company_id": "경기아트센터-인크루트",
+   "group": "공연장",
+   "title": "2025년 경기아트센터 제3차 하우스어셔 채용공고 2025.10.08 마감",
+   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2509240001906",
+   "type": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": null,
+   "posted": "2025-10-08",
+   "deadline": null,
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
    "last_seen": "2026-11-18",
    "closed": true
   }
