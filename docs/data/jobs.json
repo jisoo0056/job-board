@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T09:19+09:00",
+ "updated": "2026-11-18T09:21+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -21,7 +21,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -43,7 +43,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "alio-306758",
@@ -66,7 +66,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -90,7 +90,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "c864df15d31a",
@@ -111,7 +111,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -131,8 +131,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "3c08f143b737",
@@ -151,8 +151,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "fc414e358b76",
@@ -173,7 +173,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -193,7 +193,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -215,7 +215,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -237,7 +237,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -259,7 +259,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -279,7 +279,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -299,7 +299,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -319,7 +319,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -339,8 +339,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "4f82a4d0fb3c",
@@ -381,7 +381,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -401,7 +401,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -421,7 +421,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -441,7 +441,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -461,7 +461,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -481,7 +481,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -501,7 +501,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -521,7 +521,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -543,7 +543,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -565,7 +565,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -585,7 +585,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -605,7 +605,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -627,7 +627,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -647,8 +647,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "10850c86191d",
@@ -689,7 +689,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -711,7 +711,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -734,7 +734,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -754,7 +754,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -774,7 +774,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -794,7 +794,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -816,7 +816,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -836,7 +836,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -844,19 +844,19 @@
    "company": "경기아트센터 (인크루트)",
    "company_id": "경기아트센터-인크루트",
    "group": "공연장",
-   "title": "2026년 제5차 경기아트센터 기간제근로자(주차원) 공개채용 2026.09.21 마감 마감",
+   "title": "2026년 제5차 경기아트센터 기간제근로자(주차원) 공개채용 2026.09.21 마감",
    "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2609100001851",
    "type": "계약직",
    "tags": [],
    "career": "신입",
    "posted": "2026-09-21",
    "deadline": "2026-09-21",
-   "closed_mark": false,
+   "closed_mark": true,
    "source": "기관 홈페이지",
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -864,41 +864,19 @@
    "company": "경기아트센터 (인크루트)",
    "company_id": "경기아트센터-인크루트",
    "group": "공연장",
-   "title": "[2026 경기청년예술기회무대] 발레 분야 배역모집(주역(남), 연기자) 2026.08.07 마감 마감",
+   "title": "[2026 경기청년예술기회무대] 발레 분야 배역모집(주역(남), 연기자) 2026.08.07 마감",
    "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2608030004049",
    "type": null,
    "tags": [],
    "career": "신입",
    "posted": "2026-08-07",
    "deadline": "2026-08-07",
-   "closed_mark": false,
+   "closed_mark": true,
    "source": "기관 홈페이지",
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "16666d4244a5",
-   "company": "경기아트센터 (인크루트)",
-   "company_id": "경기아트센터-인크루트",
-   "group": "공연장",
-   "title": "2026년 경기아트센터 제2차 하우스어셔 채용공고(연장) 2026.07.19 마감 마감",
-   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2606290002702",
-   "type": "계약직",
-   "tags": [
-    "하우스안내원"
-   ],
-   "career": null,
-   "posted": "2026-07-19",
-   "deadline": "2026-07-19",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -906,7 +884,7 @@
    "company": "경기아트센터 (인크루트)",
    "company_id": "경기아트센터-인크루트",
    "group": "공연장",
-   "title": "2026년 경기아트센터 제1차 하우스어셔 채용공고 2026.03.02 마감 마감",
+   "title": "2026년 경기아트센터 제1차 하우스어셔 채용공고 2026.03.02 마감",
    "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2602110001998",
    "type": "계약직",
    "tags": [
@@ -915,12 +893,12 @@
    "career": null,
    "posted": "2026-03-02",
    "deadline": null,
-   "closed_mark": false,
+   "closed_mark": true,
    "source": "기관 홈페이지",
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -928,19 +906,19 @@
    "company": "경기아트센터 (인크루트)",
    "company_id": "경기아트센터-인크루트",
    "group": "공연장",
-   "title": "2026년 제1차 경기아트센터 기간제근로자 공개채용 (주차원) 2026.01.26 마감 마감",
+   "title": "2026년 제1차 경기아트센터 기간제근로자 공개채용 (주차원) 2026.01.26 마감",
    "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2601160001939",
    "type": "계약직",
    "tags": [],
    "career": null,
    "posted": "2026-01-26",
    "deadline": null,
-   "closed_mark": false,
+   "closed_mark": true,
    "source": "기관 홈페이지",
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -960,7 +938,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -968,7 +946,7 @@
    "company": "경기아트센터 (인크루트)",
    "company_id": "경기아트센터-인크루트",
    "group": "공연장",
-   "title": "2026년 경기아트센터 제2차 하우스어셔 채용공고 2026.06.28 마감 마감",
+   "title": "2026년 경기아트센터 제2차 하우스어셔 채용공고 2026.06.28 마감",
    "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2606090001226",
    "type": "계약직",
    "tags": [
@@ -977,12 +955,12 @@
    "career": null,
    "posted": "2026-06-28",
    "deadline": null,
-   "closed_mark": false,
+   "closed_mark": true,
    "source": "기관 홈페이지",
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1002,7 +980,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1022,7 +1000,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1042,7 +1020,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1062,7 +1040,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1082,7 +1060,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1102,7 +1080,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1124,7 +1102,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1144,7 +1122,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1164,7 +1142,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1184,7 +1162,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1204,7 +1182,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1244,7 +1222,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -1264,7 +1242,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -1284,7 +1262,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1304,7 +1282,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1324,7 +1302,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1344,7 +1322,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1364,27 +1342,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-64884",
-   "company": "씽유 대외활동: 영화제",
-   "company_id": "씽유-대외활동-영화제",
-   "group": "축제·대외활동",
-   "title": "제23회 EBS국제다큐영화제 자원활동가(VEF) 모집",
-   "url": "https://thinkyou.co.kr/extAct/64884/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2026-07-19",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1404,7 +1362,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1424,7 +1382,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1444,27 +1402,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-64686",
-   "company": "씽유 대외활동: 공연예술 축제",
-   "company_id": "씽유-대외활동-공연예술-축제",
-   "group": "축제·대외활동",
-   "title": "제14회 예당국제공연예술제 대학생 서포터즈 [ART:RUSH] 모집",
-   "url": "https://thinkyou.co.kr/extAct/64686/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2026-07-15",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1484,7 +1422,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1504,7 +1442,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -1524,127 +1462,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-55417",
-   "company": "씽유 대외활동: 무용 축제",
-   "company_id": "씽유-대외활동-무용-축제",
-   "group": "축제·대외활동",
-   "title": "제 22회 서울국제무용콩쿠르 서포터즈 모집",
-   "url": "https://thinkyou.co.kr/extAct/55417/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2025-06-28",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-54192",
-   "company": "씽유 대외활동: 무용 축제",
-   "company_id": "씽유-대외활동-무용-축제",
-   "group": "축제·대외활동",
-   "title": "제10회 대한민국장애인국제무용제 KIADA2025 키아다즈 9기 모집 안내",
-   "url": "https://thinkyou.co.kr/extAct/54192/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2025-05-25",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-25845",
-   "company": "씽유 대외활동: 무용 축제",
-   "company_id": "씽유-대외활동-무용-축제",
-   "group": "축제·대외활동",
-   "title": "SIDance2022 제 25회 서울세계무용축제 자원활동가 <시끌이> 모집",
-   "url": "https://thinkyou.co.kr/extAct/25845/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2022-06-24",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-25809",
-   "company": "씽유 대외활동: 무용 축제",
-   "company_id": "씽유-대외활동-무용-축제",
-   "group": "축제·대외활동",
-   "title": "2022년 제7회 대한민국장애인국제무용제 서포터즈 ‘키아다즈’ 공개 모집",
-   "url": "https://thinkyou.co.kr/extAct/25809/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2022-07-24",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-19524",
-   "company": "씽유 대외활동: 무용 축제",
-   "company_id": "씽유-대외활동-무용-축제",
-   "group": "축제·대외활동",
-   "title": "제6회 대한민국장애인국제무용제 서포터즈 키아다즈 모집",
-   "url": "https://thinkyou.co.kr/extAct/19524/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2021-08-13",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-14905",
-   "company": "씽유 대외활동: 무용 축제",
-   "company_id": "씽유-대외활동-무용-축제",
-   "group": "축제·대외활동",
-   "title": "[SIDance2020] 제23회 서울세계무용축제 자원활동가 '시끌이' 모집합니다!",
-   "url": "https://thinkyou.co.kr/extAct/14905/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2020-08-14",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1663,48 +1481,8 @@
    "source": "기관 홈페이지",
    "first_seen": "2026-11-12",
    "initial": true,
-   "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-8654",
-   "company": "씽유 대외활동: 무용 축제",
-   "company_id": "씽유-대외활동-무용-축제",
-   "group": "축제·대외활동",
-   "title": "제 21회 서울세계무용축제 자원활동가 모집",
-   "url": "https://thinkyou.co.kr/extAct/8654/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2018-08-07",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-6615",
-   "company": "씽유 대외활동: 무용 축제",
-   "company_id": "씽유-대외활동-무용-축제",
-   "group": "축제·대외활동",
-   "title": "제20회 서울세계무용축제 의전통역 자원봉사자 시끌이 추가 모집",
-   "url": "https://thinkyou.co.kr/extAct/6615/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2017-08-25",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1726,7 +1504,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -1746,7 +1524,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1826,29 +1604,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-62945",
-   "company": "씽유 대외활동: 문화·예술 기자단",
-   "company_id": "씽유-대외활동-문화-예술-기자단",
-   "group": "축제·대외활동",
-   "title": "제38회 고양행주문화제 SNS 기자단 '알맹이' 모집",
-   "url": "https://thinkyou.co.kr/extAct/62945/",
-   "type": "대외활동",
-   "tags": [
-    "홍보마케팅"
-   ],
-   "career": null,
-   "posted": null,
-   "deadline": "2026-05-15",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1868,49 +1624,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-63499",
-   "company": "씽유 대외활동: 문화·예술 예술",
-   "company_id": "씽유-대외활동-문화-예술-예술",
-   "group": "축제·대외활동",
-   "title": "2026 춘천공연예술제 자원활동가 모집",
-   "url": "https://thinkyou.co.kr/extAct/63499/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2026-06-07",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-61911",
-   "company": "씽유 대외활동: 문화·예술 예술",
-   "company_id": "씽유-대외활동-문화-예술-예술",
-   "group": "축제·대외활동",
-   "title": "한국문화예술위원회 아르코 썸 페스타 홍보 서포터즈 아썸즈 2기 모집",
-   "url": "https://thinkyou.co.kr/extAct/61911/",
-   "type": "대외활동",
-   "tags": [
-    "홍보마케팅"
-   ],
-   "career": null,
-   "posted": null,
-   "deadline": "2026-05-03",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1930,7 +1644,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1950,8 +1664,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "thinkyou-67626",
@@ -1970,7 +1684,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -1990,133 +1704,13 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-64275",
-   "company": "씽유 대외활동: 문화·예술 공연",
-   "company_id": "씽유-대외활동-문화-예술-공연",
-   "group": "축제·대외활동",
-   "title": "임박 K-POP 공연 크리에이터 과정",
-   "url": "https://thinkyou.co.kr/extAct/64275/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": null,
-   "closed_mark": true,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-63698",
-   "company": "씽유 대외활동: 문화·예술 공연",
-   "company_id": "씽유-대외활동-문화-예술-공연",
-   "group": "축제·대외활동",
-   "title": "K-POP 공연 크리에이터 과정 모집",
-   "url": "https://thinkyou.co.kr/extAct/63698/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2026-06-25",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-59963",
-   "company": "씽유 대외활동: 문화·예술 공연",
-   "company_id": "씽유-대외활동-문화-예술-공연",
-   "group": "축제·대외활동",
-   "title": "모든컴퍼니 씨름 공연 프로모션 크리에이터 1기 모집",
-   "url": "https://thinkyou.co.kr/extAct/59963/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2025-12-09",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-58693",
-   "company": "씽유 대외활동: 문화·예술 공연",
-   "company_id": "씽유-대외활동-문화-예술-공연",
-   "group": "축제·대외활동",
-   "title": "한일중 미래세대 장애무용 공동창작 네트워크 구축 프로젝트 BEYOND BORDERS 공연 준비 자원봉사자 모집",
-   "url": "https://thinkyou.co.kr/extAct/58693/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2025-11-21",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-58691",
-   "company": "씽유 대외활동: 문화·예술 공연",
-   "company_id": "씽유-대외활동-문화-예술-공연",
-   "group": "축제·대외활동",
-   "title": "한일중 미래세대 장애무용 공동창작 네트워크 구축 프로젝트 BEYOND BORDERS 본 공연 자원봉사자 모집",
-   "url": "https://thinkyou.co.kr/extAct/58691/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2025-11-21",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-58175",
-   "company": "씽유 대외활동: 문화·예술 공연",
-   "company_id": "씽유-대외활동-문화-예술-공연",
-   "group": "축제·대외활동",
-   "title": "2025 \"체코의 거장\" 야나첵 스트링 콰르텟(JSQ) 내한공연 서포터즈 모집",
-   "url": "https://thinkyou.co.kr/extAct/58175/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2025-09-28",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
    "id": "thinkyou-56711",
-   "company": "씽유 대외활동: 문화·예술 공연",
-   "company_id": "씽유-대외활동-문화-예술-공연",
+   "company": "씽유 대외활동: 공연예술 축제",
+   "company_id": "씽유-대외활동-공연예술-축제",
    "group": "축제·대외활동",
    "title": "2025 과천공연예술축제 자원활동가 '지팡이(G-PANG E)' 모집",
    "url": "https://thinkyou.co.kr/extAct/56711/",
@@ -2130,7 +1724,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -2153,7 +1747,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -2173,47 +1767,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-48646",
-   "company": "씽유 대외활동: 문화·예술 공연",
-   "company_id": "씽유-대외활동-문화-예술-공연",
-   "group": "축제·대외활동",
-   "title": "배리어프리(무장애)무용 공연 시각장애인 안내 자원봉사자 모집",
-   "url": "https://thinkyou.co.kr/extAct/48646/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2024-09-20",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
-   "closed": true
-  },
-  {
-   "id": "thinkyou-48120",
-   "company": "씽유 대외활동: 문화·예술 공연",
-   "company_id": "씽유-대외활동-문화-예술-공연",
-   "group": "축제·대외활동",
-   "title": "2024 과천공연예술축제 자원활동가 '지팡이(G-PANG E)' 모집",
-   "url": "https://thinkyou.co.kr/extAct/48120/",
-   "type": "대외활동",
-   "tags": [],
-   "career": null,
-   "posted": null,
-   "deadline": "2024-08-23",
-   "closed_mark": false,
-   "source": "기관 홈페이지",
-   "first_seen": "2026-11-12",
-   "initial": true,
-   "detail_checked": 2,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -2236,7 +1790,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "ae4306d13f58",
@@ -2258,7 +1812,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95695",
@@ -2281,7 +1835,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95694",
@@ -2303,7 +1857,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2326,7 +1880,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2350,7 +1904,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95689",
@@ -2373,7 +1927,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95688",
@@ -2439,7 +1993,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2461,7 +2015,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95682",
@@ -2481,7 +2035,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2502,7 +2056,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2523,7 +2077,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2544,7 +2098,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2552,7 +2106,7 @@
    "company": "주식회사 월간사진",
    "company_id": null,
    "group": "기타 문화예술 기관",
-   "title": "[월간사진] 부사장 수행비서 및 비즈니스 운영 담당자 채용",
+   "title": "[월간사진] 비즈니스 운영 및 Executive Assistant 채용",
    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95678",
    "type": null,
    "type_detail": "인턴",
@@ -2565,7 +2119,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2586,7 +2140,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2607,7 +2161,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2699,7 +2253,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2722,7 +2276,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2743,7 +2297,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2764,7 +2318,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2787,7 +2341,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2808,7 +2362,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2837,7 +2391,7 @@
    "company": "주식회사 수컴퍼니",
    "company_id": null,
    "group": "기타 문화예술 기관",
-   "title": "(주)수컴퍼니 기획/홍보팀 직원 채용 공고",
+   "title": "(주)수컴퍼니 기획피디 및 홍보팀 직원 채용 공고",
    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95645",
    "type": "정규직",
    "type_detail": "정규직",
@@ -2853,7 +2407,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2876,7 +2430,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2897,7 +2451,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2918,7 +2472,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2939,7 +2493,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2960,7 +2514,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -2983,7 +2537,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3006,7 +2560,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3030,7 +2584,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95639",
@@ -3052,7 +2606,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3074,7 +2628,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95626",
@@ -3094,7 +2648,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3118,7 +2672,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95623",
@@ -3140,7 +2694,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3163,7 +2717,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3186,7 +2740,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3207,7 +2761,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3228,7 +2782,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3249,7 +2803,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3270,7 +2824,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3291,7 +2845,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3313,7 +2867,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95613",
@@ -3336,7 +2890,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95609",
@@ -3357,7 +2911,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95607",
@@ -3379,7 +2933,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3400,7 +2954,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3423,7 +2977,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3446,7 +3000,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3468,7 +3022,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95590",
@@ -3489,7 +3043,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95589",
@@ -3512,7 +3066,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95588",
@@ -3532,7 +3086,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3554,7 +3108,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95594",
@@ -3574,7 +3128,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3595,7 +3149,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3616,7 +3170,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3639,7 +3193,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3662,7 +3216,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3683,7 +3237,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3704,7 +3258,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3726,7 +3280,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95575",
@@ -3746,7 +3300,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3769,7 +3323,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3812,7 +3366,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95567",
@@ -3853,7 +3407,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3874,7 +3428,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3897,7 +3451,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3919,7 +3473,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95584",
@@ -3941,7 +3495,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -3963,7 +3517,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95558",
@@ -4007,7 +3561,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95556",
@@ -4028,7 +3582,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95552",
@@ -4049,7 +3603,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95551",
@@ -4069,7 +3623,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4092,7 +3646,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4116,7 +3670,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95545",
@@ -4137,7 +3691,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95559",
@@ -4157,7 +3711,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4178,7 +3732,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4199,7 +3753,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4220,7 +3774,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4262,7 +3816,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4331,7 +3885,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4353,7 +3907,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95534",
@@ -4373,7 +3927,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4394,7 +3948,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4415,7 +3969,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4438,7 +3992,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4460,7 +4014,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95520",
@@ -4482,7 +4036,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4503,7 +4057,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4524,7 +4078,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4545,7 +4099,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4569,7 +4123,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95507",
@@ -4592,7 +4146,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95506",
@@ -4614,7 +4168,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4637,7 +4191,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4658,7 +4212,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4679,7 +4233,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4703,7 +4257,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95502",
@@ -4723,7 +4277,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4744,7 +4298,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4765,7 +4319,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4788,7 +4342,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4811,7 +4365,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4832,7 +4386,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4855,7 +4409,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4876,7 +4430,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4899,7 +4453,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4921,7 +4475,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95434",
@@ -4941,7 +4495,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4962,7 +4516,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -4983,7 +4537,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -5006,7 +4560,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -5029,7 +4583,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -5050,7 +4604,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -5074,7 +4628,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -5095,7 +4649,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -5116,8 +4670,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "artmore-95365",
@@ -5137,8 +4691,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "artmore-95364",
@@ -5161,7 +4715,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-12",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95358",
@@ -5181,8 +4735,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "artmore-95357",
@@ -5202,8 +4756,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "artmore-95342",
@@ -5223,8 +4777,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "artmore-95339",
@@ -5246,8 +4800,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "artmore-95337",
@@ -5269,8 +4823,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "artmore-95354",
@@ -5290,8 +4844,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "artmore-95330",
@@ -5313,8 +4867,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
-   "closed": false
+   "last_seen": "2026-11-18",
+   "closed": true
   },
   {
    "id": "artmore-95326",
@@ -5334,7 +4888,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5355,7 +4909,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5376,7 +4930,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5397,7 +4951,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5420,7 +4974,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -5441,7 +4995,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5464,7 +5018,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5485,7 +5039,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5506,7 +5060,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5527,7 +5081,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5550,7 +5104,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5571,7 +5125,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5594,7 +5148,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5618,7 +5172,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5639,7 +5193,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -5660,7 +5214,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5681,7 +5235,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -5702,7 +5256,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5726,7 +5280,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5747,7 +5301,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5768,7 +5322,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5789,7 +5343,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5812,7 +5366,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5833,7 +5387,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5854,7 +5408,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5875,7 +5429,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5896,7 +5450,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5919,7 +5473,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5940,7 +5494,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5961,7 +5515,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -5982,7 +5536,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6005,7 +5559,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6026,7 +5580,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6047,7 +5601,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6068,7 +5622,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6089,7 +5643,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6112,7 +5666,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6133,7 +5687,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6177,7 +5731,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6198,7 +5752,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6219,7 +5773,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6243,7 +5797,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6264,7 +5818,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6285,7 +5839,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6306,7 +5860,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6327,7 +5881,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6350,7 +5904,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6371,7 +5925,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6392,7 +5946,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": false
   },
   {
@@ -6413,7 +5967,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6434,7 +5988,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6455,7 +6009,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6476,7 +6030,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6497,7 +6051,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6521,7 +6075,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6542,7 +6096,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6563,7 +6117,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
    "closed": true
   },
   {
@@ -6587,7 +6141,1338 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-12",
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "alio-307009",
+   "company": "한국문화관광연구원",
+   "company_id": null,
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화관광연구원 위촉직원 채용 공고 [2026-42]",
+   "url": "https://job.alio.go.kr/recruitview.do?idx=307009",
+   "type": "계약직",
+   "type_detail": "비정규직",
+   "tags": [],
+   "posted": "2026-11-13",
+   "deadline": "2026-11-27",
+   "region": "서울",
+   "career": "신입",
+   "source": "공공기관 채용정보",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "a277e805b08d",
+   "company": "구로아트밸리",
+   "company_id": "구로아트밸리",
+   "group": "공연장",
+   "title": "2026년 구로아트밸리 예술극장 공연장 안내원 2차 모집 공고",
+   "url": "https://www.guroartsvalley.or.kr/user/board/boardDefaultView.do?menuCode=mn011801&boardId=13062&index=1",
+   "type": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": null,
+   "posted": "2026-11-16",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "12b4c13f480b",
+   "company": "쿼드(대학로)",
+   "company_id": "쿼드-대학로",
+   "group": "공연장",
+   "title": "2026년 서울문화재단 대학로 극장 쿼드 QUAD 하우스 안내원 모집 (~2026.10.21)",
+   "url": "https://www.quad.or.kr/community/notice/51093?q=null",
+   "type": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": "신입",
+   "posted": "2026-10-08",
+   "deadline": "2026-10-21",
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": true,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "1b42046e7b6f",
+   "company": "블루스퀘어",
+   "company_id": "블루스퀘어",
+   "group": "공연장",
+   "title": "(주)놀씨어터 Venue사업팀 PD 경력직 채용(~11/5)",
+   "url": "https://www.bluesquare.kr/pages/board/board.view.php?board_no=8&no=184&searchKeyword=&searchColumn=&page=1",
+   "type": "정규직",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-10-26",
+   "deadline": "2026-11-05",
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": true,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "08881299b531",
+   "company": "아트센터 인천",
+   "company_id": "아트센터-인천",
+   "group": "공연장",
+   "title": "2026 아트센터인천 공연장 안내원 모집",
+   "url": "https://www.aci.or.kr/PageLink.do?menuNo=040000&subMenuNo=040100&thirdMenuNo=&link=forward%3A%2Fcop%2Fbbs%2FselectBoardList.do%3FbbsId%3Dnotice_main&conText=%2Fmain&tempParam1=&spring-security-redirect=%2Fmain%2FmainPage.do",
+   "type": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": null,
+   "posted": "2026-10-16",
+   "deadline": "2026-10-16",
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": true,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "501a7033194a",
+   "company": "아트센터 인천",
+   "company_id": "아트센터-인천",
+   "group": "공연장",
+   "title": "2026 아트센터인천 매표요원 모집",
+   "url": "https://www.aci.or.kr/PageLink.do?menuNo=040000&subMenuNo=040100&thirdMenuNo=&link=forward%3A%2Fcop%2Fbbs%2FselectBoardList.do%3FbbsId%3Dnotice_main&conText=%2Fmain&tempParam1=&spring-security-redirect=%2Fmain%2FmainPage.do",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": "2026-10-16",
+   "deadline": "2026-10-16",
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": true,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "aa142a05225c",
+   "company": "한국문화관광연구원",
+   "company_id": "한국문화관광연구원",
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화관광연구원 위촉직원 채용 공고 [2026-41]",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "9332b9163dcf",
+   "company": "한국문화관광연구원",
+   "company_id": "한국문화관광연구원",
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화관광연구원 위촉직원 채용 공고 [2026-40]",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "7c4bc754b4dd",
+   "company": "한국문화관광연구원",
+   "company_id": "한국문화관광연구원",
+   "group": "문체부 산하 공공기관",
+   "title": "2026년 하반기 직원 채용(연구직 2명, 통계직 1명)",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
+   "type": "정규직",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "599abe8a2d35",
+   "company": "한국문화관광연구원",
+   "company_id": "한국문화관광연구원",
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화관광연구원 위촉직원 채용 공고[2026-39]",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "0c5a3a0bc38b",
+   "company": "한국문화관광연구원",
+   "company_id": "한국문화관광연구원",
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화관광연구원 제4차 청년인턴 채용",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
+   "type": "인턴",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "25ad259044d1",
+   "company": "한국문화관광연구원",
+   "company_id": "한국문화관광연구원",
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화관광연구원 위촉직원 채용 공고[2026-38]",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "269a9d56a6dc",
+   "company": "한국문화관광연구원",
+   "company_id": "한국문화관광연구원",
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화관광연구원 위촉직원 채용 공고[2026-37]",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "c4fb9b6e23ec",
+   "company": "한국문화관광연구원",
+   "company_id": "한국문화관광연구원",
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화관광연구원 문화예술정책연구실 휴직대체인력 채용",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "12c77779e693",
+   "company": "서울문화재단",
+   "company_id": "서울문화재단",
+   "group": "공공문화재단",
+   "title": "2026년 서울문화재단 제3차 직원 공개채용 공고",
+   "url": "https://www.sfac.or.kr/opensquare/notice/recruit_list.do",
+   "type": "정규직",
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-16",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "1e15073e88c4",
+   "company": "서울문화재단",
+   "company_id": "서울문화재단",
+   "group": "공공문화재단",
+   "title": "2026년 서울문화재단 직원 공개채용 변경 예정사항 공고",
+   "url": "https://www.sfac.or.kr/opensquare/notice/recruit_list.do",
+   "type": "정규직",
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-12",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "0774bbeddbab",
+   "company": "경기문화재단",
+   "company_id": "경기문화재단",
+   "group": "공공문화재단",
+   "title": "진행 2026년 경기문화재단 제5회 직원 채용(일반직 및 운영직) 공고",
+   "url": "https://www.ggcf.kr/boards/bulletinBoards/articles/21705",
+   "type": "정규직",
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-12",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "69aebfd9af13",
+   "company": "부평구문화재단",
+   "company_id": "부평구문화재단",
+   "group": "공공문화재단",
+   "title": "2027 꿈의 극단 ‘부평’ 창작인력 모집 공고 2026.11.13 공지사항",
+   "url": "https://www.bpcf.or.kr/bpcf/bbs/BMSR00001/view.do?boardId=14122&menuNo=200059&gubunCd=BBS1_001",
+   "type": null,
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-13",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "f5065fa4aa9b",
+   "company": "부평구문화재단",
+   "company_id": "부평구문화재단",
+   "group": "공공문화재단",
+   "title": "자세히보기 2026년 갈산도서관 자원활동가 재능기부 「책이랑 조물조물」",
+   "url": "https://www.bpcf.or.kr/bpcf/bbs/BMSR00070/posterView.do?boardId=14117&menuNo=200061",
+   "type": "대외활동",
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-12",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "437a5a5c60d8",
+   "company": "용산문화재단",
+   "company_id": "용산문화재단",
+   "group": "공공문화재단",
+   "title": "2026년 제4차 용산문화재단 직원 공개경쟁채용 공고",
+   "url": "https://yongsanculture.or.kr/site/main/archive/post/2026년-제4차-용산문화재단-직원-공개경쟁채용-공고?cp=1&sortDirection=DESC&listType=list&catId=2",
+   "type": "정규직",
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-16",
+   "deadline": "2026-11-16",
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": true,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "3fa9ce52e799",
+   "company": "용산문화재단",
+   "company_id": "용산문화재단",
+   "group": "공공문화재단",
+   "title": "2026년 제3차 용산문화재단 직원 공개경쟁채용",
+   "url": "https://yongsanculture.or.kr/site/main/archive/post/2026년-제3차-용산문화재단-직원-공개경쟁채용?cp=1&sortDirection=DESC&listType=list&catId=2",
+   "type": "정규직",
+   "tags": [],
+   "career": null,
+   "posted": "2026-08-27",
+   "deadline": "2026-09-06",
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": true,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "0f4d8f23306e",
+   "company": "수원문화재단",
+   "company_id": "수원문화재단",
+   "group": "공공문화재단",
+   "title": "2026년 제4회 수원문화재단 운영직 직원 공개채용 재공고[제한경쟁-매·...",
+   "url": "https://www.swcf.or.kr/?p=116&viewMode=view&idx=115080",
+   "type": "정규직",
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-16",
+   "deadline": "2026-11-20",
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "bbb8825a0389",
+   "company": "씨네21 영화인 JOB (영화제 스태프)",
+   "company_id": "씨네21-영화인-JOB-영화제-스태프",
+   "group": "축제·대외활동",
+   "title": "기타 한국문화예술교육진흥원 2026 문화다양성 기획영화제 '영화의 발견' 초대합니다. 2026-11-16 10:42",
+   "url": "https://cine21.com/community/recruit/view/?wr_id=22808",
+   "type": null,
+   "tags": [
+    "전략기획"
+   ],
+   "career": "신입",
+   "posted": "2026-11-16",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "thinkyou-68161",
+   "company": "씽유 대외활동: 영화제",
+   "company_id": "씽유-대외활동-영화제",
+   "group": "축제·대외활동",
+   "title": "[2027BIKY] 제22회 부산국제어린이청소년영화제 어린이청소년집행위원 '비키즈(BIKies)' 공개모집",
+   "url": "https://thinkyou.co.kr/extAct/68161/",
+   "type": "대외활동",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": "2026-11-29",
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95751",
+   "company": "다온갤러리",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "다온갤러리에서 함께할 매니저를 구합니다",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95751",
+   "type": "계약직",
+   "type_detail": "프리랜서",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-17",
+   "deadline": null,
+   "region": "부산 부산진구 신천대로 246 (부암동, 메리움아파트)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95749",
+   "company": "(주)케이옥션",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[케이옥션] 신입·경력 경매스페셜리스트 양성과정 채용 (11월)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95749",
+   "type": "정규직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-17",
+   "deadline": "2026-11-30",
+   "region": "서울 강남구 언주로172길 23 (신사동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95748",
+   "company": "홍익대학교 산학협력단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "홍익대 대학로 아트센터 하우스 안내원 기간제 근무자 모집",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95748",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": "신입",
+   "posted": "2026-11-17",
+   "deadline": "2026-11-25",
+   "region": "서울 종로구 대학로 57 (연건동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95747",
+   "company": "홍익대학교 산학협력단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "홍익대 대학로 아트센터 하우스 부매니저 기간제 근무자 모집",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95747",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": "경력",
+   "posted": "2026-11-17",
+   "deadline": "2026-11-25",
+   "region": "서울 종로구 대학로 57 (연건동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95745",
+   "company": "(주)시공사",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "(주)출판사 시공사에서 전시기획자를 채용합니다.",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95745",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [
+    "전략기획"
+   ],
+   "career": "경력",
+   "posted": "2026-11-17",
+   "deadline": null,
+   "region": "서울 성동구 광나루로 172 (성수동1가)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95754",
+   "company": "하나씨앤에스(주)",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[KBS 대구방송총국] 영상제작보조원 모집 (파견...",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95754",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-17",
+   "deadline": "2026-12-15",
+   "region": "대구광역시 수성구 달구벌대로496길 30",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95752",
+   "company": "강서구립마곡열린도서관",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "강서구립마곡열린도서관 시간제근로자(초단시간/주말)...",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95752",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-17",
+   "deadline": "2026-11-24",
+   "region": "서울특별시 강서구 공항대로 135",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95740",
+   "company": "브러쉬씨어터 주식회사",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[브러쉬씨어터] 공연 티켓 매니저 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95740",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-16",
+   "deadline": null,
+   "region": "서울 성동구 광나루로 130 (성수동1가)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95738",
+   "company": "박서보재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "박서보미술관 전시장 스태프 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95738",
+   "type": null,
+   "type_detail": "관계없음",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-16",
+   "deadline": null,
+   "region": "서울 서대문구 연희로24길 9-54 (연희동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95736",
+   "company": "온느뮤지엄",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "온느뮤지엄 미술전시 도슨트 모집",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95736",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-16",
+   "deadline": "2026-11-19",
+   "region": "서울 서초구 남부순환로 2406 (서초동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95730",
+   "company": "충남문화관광재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "2026년 제8차 직원(계약직) 경력.공개경쟁 채용_(센터장) 충남관광기업지원센터",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95730",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-16",
+   "deadline": "2026-11-22",
+   "region": "충남 예산군 삽교읍 예학로 10-22",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95727",
+   "company": "(재)서초문화재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "2026-09차 서초문화재단 직원 채용 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95727",
+   "type": "정규직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-16",
+   "deadline": "2026-11-26",
+   "region": "서울 서초구 사평대로 55 (반포동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95726",
+   "company": "(재)한국문화재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[리틀엔젤스예술단] 공연사업팀 직원 채용 (육아휴직 대체직)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95726",
+   "type": "계약직",
+   "type_detail": "대체인력",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-11-16",
+   "deadline": "2026-11-30",
+   "region": "서울 광진구 용마산로 9 (중곡동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95725",
+   "company": "광주광역시 서구문화원",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "2026년 광주광역시서구문화원 직원(사무국장) 채용 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95725",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [
+    "경영지원"
+   ],
+   "career": "경력",
+   "posted": "2026-11-16",
+   "deadline": "2026-12-07",
+   "region": "전남광주통합특별시 서구 상무대로1224번길 18 (양동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95741",
+   "company": "재단법인 횡성문화관광재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "횡성문화관광재단 2026년도 제2차 직원(정규직)...",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95741",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-16",
+   "deadline": "2026-11-30",
+   "region": "강원특별자치도 횡성군 횡성읍 문예로 41",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95724",
+   "company": "(유)플러스씨어터",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "(복사) 플러스씨어터에서 뮤지컬 <풍월주> 하우스 안내원을 모집합니다.",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95724",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": "신입",
+   "posted": "2026-11-15",
+   "deadline": "2026-11-20",
+   "region": "서울 종로구 대학로12길 73 (동숭동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95716",
+   "company": "(주)오픈갤러리",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[오픈갤러리] 미술 작품 물류팀 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95716",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-27",
+   "region": "서울 송파구 충민로 10 (문정동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95715",
+   "company": "(주)오픈갤러리",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[오픈갤러리] 마케팅팀 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95715",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [
+    "홍보마케팅"
+   ],
+   "career": "신입",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-27",
+   "region": "서울 성동구 왕십리로 115 (성수동1가)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95714",
+   "company": "(주)오픈갤러리",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[오픈갤러리] 고객관리팀 신입 채용 (미술 작품 추천 및 운영)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95714",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-27",
+   "region": "서울 성동구 왕십리로 115 (성수동1가)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95713",
+   "company": "(주)오픈갤러리",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[오픈갤러리] 학예팀 신입 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95713",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-27",
+   "region": "서울 성동구 왕십리로 115 (성수동1가)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95712",
+   "company": "온느뮤지엄",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "퐁피두 한화 ≪샤갈, 너머의 여정≫ 도슨트 프로그램 운영 매니저, 스태프 모집",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95712",
+   "type": "계약직",
+   "type_detail": "시간선택제",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-28",
+   "region": "서울 영등포구 63로 50 (여의도동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95711",
+   "company": "주안영상미디어센터",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "2027 꿈의 예술단(스튜디오) ‘미추홀’ 예술가 공개모집",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95711",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-28",
+   "region": "인천 미추홀구 석바위로 68 (주안동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95710",
+   "company": "충남문화관광재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "2026년 충남문화관광재단 제7차 직원(일반직) 공개경쟁 채용 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95710",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-22",
+   "region": "충남 예산군 삽교읍 예학로 10-22",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95708",
+   "company": "국립박물관문화재단",
+   "company_id": "국립박물관문화재단",
+   "group": "문체부 산하 공공기관",
+   "title": "국립중앙박물관 전문 공연장 극장 용 <티켓 및 고객만족센터 근로자> 채용 공고(~11.22.(일) 23:59까지)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95708",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-22",
+   "region": "서울 용산구 서빙고로 137 (용산동6가)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95707",
+   "company": "(재)대림문화재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[대림문화재단] 디뮤지엄 크루 모집(전시/인포/뮤지엄샵)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95707",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-13",
+   "deadline": "2026-12-13",
+   "region": "서울 성동구 왕십리로 83-21 (성수동1가, 아크로 서울포레스트)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95719",
+   "company": "구미시문화로자율상권조합",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "구미시 문화로 자율상권조합 직원 모집",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95719",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-11-13",
+   "deadline": "2026-11-22",
+   "region": "경상북도 구미시 구미중앙로17길 7",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95702",
+   "company": "갤러리박영",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[갤러리박영] 갤러리 매니저 채용｜갤러리 운영 서포트 및 전시 기획 및 프로그램 보조",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95702",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [
+    "전략기획"
+   ],
+   "career": "신입",
+   "posted": "2026-11-12",
+   "deadline": null,
+   "region": "경기 파주시 회동길 37-9 (문발동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95701",
+   "company": "갤러리박영",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "(복사) [갤러리박영] 큐레이터 채용｜전시기획 및 갤러리 운영",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95701",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [
+    "전략기획"
+   ],
+   "career": "신입",
+   "posted": "2026-11-12",
+   "deadline": null,
+   "region": "경기 파주시 회동길 37-9 (문발동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95700",
+   "company": "(주)인사이트모션",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "(주)인사이트모션 신입/경력(회계,인사/총무) 직원 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95700",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [
+    "경영지원"
+   ],
+   "career": "신입",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-23",
+   "region": "서울 영등포구 양평로22길 21 (양평동5가)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95699",
+   "company": "브러쉬씨어터 주식회사",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[브러쉬씨어터] 마케팅 담당자 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95699",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [
+    "홍보마케팅"
+   ],
+   "career": "신입",
+   "posted": "2026-11-12",
+   "deadline": null,
+   "region": "서울 성동구 광나루로 130 (성수동1가)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95698",
+   "company": "재단법인 칠곡문화관광재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "(재)칠곡문화관광재단 임기직 직원 6급(팀장) 채용 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95698",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-11-12",
+   "deadline": "2026-11-20",
+   "region": "경북 칠곡군 석적읍 강변대로 1570-1",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95704",
+   "company": "주식회사 지안에스앤디",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "전시디자인 설계직원 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95704",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-11-12",
+   "deadline": null,
+   "region": "경기도 성남시 수정구 위례광장로 322",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95703",
+   "company": "에로스박물관",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "신생 박물관에서 학예직원을 모집합니다.",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95703",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-12",
+   "deadline": null,
+   "region": "전남광주통합특별시 신안군 암태면 박달로 362-26",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": false
+  },
+  {
+   "id": "artmore-95188",
+   "company": "주식회사 에이씨피",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "공연 [점프] 해외 인바운드 세일즈 담당",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95188",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-10-01",
+   "deadline": null,
+   "region": "서울 중구 마른내로 47 (초동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "artmore-95125",
+   "company": "주식회사 수컴퍼니",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "(주)수컴퍼니 기획/홍보팀 직원 채용 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95125",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [
+    "전략기획",
+    "홍보마케팅"
+   ],
+   "career": "신입",
+   "posted": "2026-09-28",
+   "deadline": null,
+   "region": "서울 종로구 성균관로 90 (명륜1가)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "artmore-94990",
+   "company": "더컴퍼니씨 협동조합(The Company C)",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "사회문제해결, 창업인재 육성 교육사업 및 프로젝트...",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94990",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-09-14",
+   "deadline": null,
+   "region": "대구광역시 중구 북성로1가 태평로 160",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "artmore-94989",
+   "company": "송도교향악단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "송도교향악단에서 바이올린,첼로,플룻,클라리넷 선생...",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94989",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-09-14",
+   "deadline": null,
+   "region": "인천광역시 계양구 아나지로299번길 13",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "artmore-94972",
+   "company": "띠오(THEO)",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[갤러리 THEO] 코디네이터 (정규직) 채용 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94972",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-09-12",
+   "deadline": null,
+   "region": "서울 강남구 봉은사로68길 55-3 (삼성동, 플랜오B/D)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
+   "closed": true
+  },
+  {
+   "id": "artmore-94971",
+   "company": "막상뮤지컬컴퍼니",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "제작PD/공연/뮤지컬/콘서트및문화예술",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=94971",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-09-12",
+   "deadline": null,
+   "region": "서울 종로구 창경궁로 253-7 (명륜2가, 어젤리아 명륜2)",
+   "source": "아트모아",
+   "first_seen": "2026-11-18",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-18",
    "closed": true
   }
  ]
