@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-19T10:53+09:00",
+ "updated": "2026-11-19T12:34+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
    "count": 5,
-   "total_api": 540,
+   "total_api": 547,
    "matched": [
     "국악방송",
     "영화진흥위원회",
@@ -242,7 +242,7 @@
   },
   "경기문화재단": {
    "ok": true,
-   "count": 0,
+   "count": 12,
    "method": "static"
   },
   "부천문화재단": {
@@ -291,8 +291,9 @@
    "method": "static"
   },
   "우란문화재단": {
-   "ok": false,
-   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.jobkorea.co.kr/company/42220970/recruit\", waiting until \"load\"\n"
+   "ok": true,
+   "count": 1,
+   "method": "static"
   },
   "삼성문화재단-리움": {
    "ok": true,
@@ -305,8 +306,9 @@
    "method": "static"
   },
   "OD-컴퍼니": {
-   "ok": false,
-   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.odmusical.com/community/carreers\", waiting until \"load\"\n"
+   "ok": true,
+   "count": 0,
+   "method": "static"
   },
   "KBS교향악단-사무국": {
    "ok": true,

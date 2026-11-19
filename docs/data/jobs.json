@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:53+09:00",
+ "updated": "2026-11-19T12:34+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -980,7 +980,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1000,7 +1000,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1020,7 +1020,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1040,7 +1040,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1060,7 +1060,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1080,7 +1080,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1102,7 +1102,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1122,7 +1122,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1142,7 +1142,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1162,7 +1162,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -1182,7 +1182,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": true
   },
   {
@@ -6488,7 +6488,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-18",
+   "last_seen": "2026-11-19",
    "closed": false
   },
   {
