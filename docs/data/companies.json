@@ -1172,6 +1172,58 @@
    "group": "축제·대외활동",
    "recommended": true,
    "id": "문화체육관광부-정책기자단"
+  },
+  {
+   "name": "KBS 한국방송공사",
+   "source": "web",
+   "url": "https://recruit.kbs.co.kr/board/recruit.do",
+   "note": "KBS 채용 사이트 채용공고 게시판 · 계약직·방송지원직 공고가 자주 올라옴",
+   "aliases": [
+    "한국방송공사",
+    "KBS"
+   ],
+   "group": "기업",
+   "recommended": true,
+   "id": "KBS-한국방송공사"
+  },
+  {
+   "name": "MBC 문화방송",
+   "source": "web",
+   "url": "https://recruit.mbc.co.kr/",
+   "render": true,
+   "note": "MBC 채용 사이트 · 해외 접속을 막아 실패로 표시될 수 있음",
+   "aliases": [
+    "MBC",
+    "문화방송"
+   ],
+   "group": "기업",
+   "recommended": true,
+   "id": "MBC-문화방송"
+  },
+  {
+   "name": "SBS",
+   "source": "web",
+   "url": "https://sbs.careerlink.kr/",
+   "render": true,
+   "note": "SBS 채용 사이트 · 지금은 공고 0건",
+   "aliases": [
+    "에스비에스"
+   ],
+   "group": "기업",
+   "recommended": true,
+   "id": "SBS"
+  },
+  {
+   "name": "JTBC",
+   "source": "link",
+   "url": "https://www.catch.co.kr/Comp/GroupRecruit/X06",
+   "note": "자체 채용 사이트가 없어 채용 포털(캐치)·아트모아로 확인 · 중앙그룹 공채는 보통 6~7월",
+   "aliases": [
+    "제이티비씨"
+   ],
+   "group": "기업",
+   "recommended": true,
+   "id": "JTBC"
   }
  ]
 }
