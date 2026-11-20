@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:47+09:00",
+ "updated": "2026-11-20T12:23+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -21,7 +21,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -980,7 +980,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1000,7 +1000,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1020,7 +1020,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1040,7 +1040,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1060,7 +1060,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1080,7 +1080,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1102,7 +1102,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1122,7 +1122,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1142,7 +1142,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1162,7 +1162,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1182,7 +1182,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1387,8 +1387,8 @@
   },
   {
    "id": "thinkyou-66456",
-   "company": "씽유 대외활동: 공연예술 축제",
-   "company_id": "씽유-대외활동-공연예술-축제",
+   "company": "씽유 대외활동: 문화·예술 예술",
+   "company_id": "씽유-대외활동-문화-예술-예술",
    "group": "축제·대외활동",
    "title": "2026 서울국제공연예술제 자원활동가 'SPAFLE 스파플' 모집",
    "url": "https://thinkyou.co.kr/extAct/66456/",
@@ -1487,8 +1487,8 @@
   },
   {
    "id": "thinkyou-68042",
-   "company": "씽유 대외활동: 문화·예술 서포터즈",
-   "company_id": "씽유-대외활동-문화-예술-서포터즈",
+   "company": "씽유 대외활동: 문화·예술 문화",
+   "company_id": "씽유-대외활동-문화-예술-문화",
    "group": "축제·대외활동",
    "title": "2027 남이섬세계책나라축제 대학생 홍보 서포터즈 '아임나미'",
    "url": "https://thinkyou.co.kr/extAct/68042/",
@@ -1709,8 +1709,8 @@
   },
   {
    "id": "thinkyou-56711",
-   "company": "씽유 대외활동: 공연예술 축제",
-   "company_id": "씽유-대외활동-공연예술-축제",
+   "company": "씽유 대외활동: 문화·예술 공연",
+   "company_id": "씽유-대외활동-문화-예술-공연",
    "group": "축제·대외활동",
    "title": "2025 과천공연예술축제 자원활동가 '지팡이(G-PANG E)' 모집",
    "url": "https://thinkyou.co.kr/extAct/56711/",
@@ -6163,7 +6163,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6489,7 +6489,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7706,7 +7706,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7729,7 +7729,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -8330,6 +8330,131 @@
    "posted": "2026-10-20",
    "deadline": "2026-12-19",
    "region": "경상북도 포항시 남구 서동로 162",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "43890b73ddaf",
+   "company": "경기아트센터 (인크루트)",
+   "company_id": "경기아트센터-인크루트",
+   "group": "공연장",
+   "title": "2026년 제4차 경기아트센터 기간제근로자 채용 (사회형평적(장애인) 특별전형)(연장공고) 2026.06.23 마감",
+   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2606020002347",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": "2026-06-23",
+   "deadline": null,
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-20",
+   "closed": true
+  },
+  {
+   "id": "1c6053db2e2c",
+   "company": "경기아트센터 (인크루트)",
+   "company_id": "경기아트센터-인크루트",
+   "group": "공연장",
+   "title": "2026년 제3차 경기아트센터 기간제근로자 공개채용 (사회형평적(장애인) 특별채용 회계보조) (연장) 2026.04.09 마감",
+   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2604030001975",
+   "type": "계약직",
+   "tags": [
+    "경영지원"
+   ],
+   "career": null,
+   "posted": "2026-04-09",
+   "deadline": null,
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-20",
+   "closed": true
+  },
+  {
+   "id": "56c3dda9d882",
+   "company": "경기아트센터 (인크루트)",
+   "company_id": "경기아트센터-인크루트",
+   "group": "공연장",
+   "title": "2026년 경기아트센터 찾아가는 문화복지공연 출연단체 공개모집 2026.02.27 마감",
+   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2602120000985",
+   "type": null,
+   "tags": [],
+   "career": null,
+   "posted": "2026-02-27",
+   "deadline": null,
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-20",
+   "closed": true
+  },
+  {
+   "id": "9d0b5fd8408d",
+   "company": "경기아트센터 (인크루트)",
+   "company_id": "경기아트센터-인크루트",
+   "group": "공연장",
+   "title": "2026년 제2차 경기아트센터 기간제근로자 공개채용 (휴직대체, 리베라오케스트라 사무 등) 2026.02.19 마감",
+   "url": "https://job.incruit.com/jobdb_info/jobpost.asp?job=2602050002044",
+   "type": "계약직",
+   "tags": [
+    "경영지원"
+   ],
+   "career": null,
+   "posted": "2026-02-19",
+   "deadline": null,
+   "closed_mark": true,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-20",
+   "closed": true
+  },
+  {
+   "id": "eeee2973e024",
+   "company": "서울연구원",
+   "company_id": "서울연구원",
+   "group": "공공문화재단",
+   "title": "2026년 제2회 직원(연구직) 채용 공고",
+   "url": "https://www.si.re.kr/bbs/view.do?key=2024100071&pstSn=2611190002",
+   "type": null,
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-20",
+   "deadline": "2026-12-04",
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95781",
+   "company": "국립박물관문화재단",
+   "company_id": "국립박물관문화재단",
+   "group": "문체부 산하 공공기관",
+   "title": "국립중앙박물관 전문 공연장 극장 용 <티켓 및 고객만족센터 근로자> 채용 공고(~11.22.(일) 23:59까지)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95781",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-20",
+   "deadline": "2026-11-22",
+   "region": "서울 용산구 서빙고로 137 (용산동6가)",
    "source": "아트모아",
    "first_seen": "2026-11-20",
    "initial": false,
