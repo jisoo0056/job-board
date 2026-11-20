@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T12:34+09:00",
+ "updated": "2026-11-20T10:47+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -67,7 +67,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-19",
-   "closed": false
+   "closed": true
   },
   {
    "id": "alio-306559",
@@ -131,7 +131,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -151,7 +151,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -173,7 +173,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -193,7 +193,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -215,7 +215,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -237,7 +237,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -259,7 +259,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -279,7 +279,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -299,7 +299,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -319,7 +319,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -339,7 +339,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -381,7 +381,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -401,7 +401,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -421,7 +421,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -441,7 +441,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -461,7 +461,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -481,7 +481,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -501,7 +501,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -521,7 +521,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -543,7 +543,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -565,7 +565,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -585,7 +585,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -605,7 +605,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -627,7 +627,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -647,7 +647,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -689,7 +689,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -711,7 +711,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -734,7 +734,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -754,7 +754,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -774,7 +774,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -794,7 +794,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -816,7 +816,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -836,7 +836,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -856,7 +856,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -876,7 +876,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -898,7 +898,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -918,7 +918,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -938,7 +938,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -960,7 +960,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1222,7 +1222,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -1242,7 +1242,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1262,7 +1262,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1282,7 +1282,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1302,7 +1302,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1322,7 +1322,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1342,7 +1342,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1362,7 +1362,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1382,7 +1382,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1402,7 +1402,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1422,7 +1422,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1442,7 +1442,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -1462,7 +1462,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1482,7 +1482,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1504,7 +1504,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -1524,7 +1524,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1604,7 +1604,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1624,7 +1624,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1644,7 +1644,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1664,7 +1664,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1684,7 +1684,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1704,7 +1704,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1724,7 +1724,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1747,7 +1747,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1767,7 +1767,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -1857,7 +1857,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -1880,7 +1880,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -1993,7 +1993,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2035,7 +2035,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2056,7 +2056,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2077,7 +2077,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2098,7 +2098,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2119,7 +2119,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2140,7 +2140,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2161,7 +2161,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2276,7 +2276,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2297,7 +2297,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2318,7 +2318,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2341,7 +2341,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2362,7 +2362,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2407,7 +2407,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2430,7 +2430,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2451,7 +2451,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2473,7 +2473,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-18",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95656",
@@ -2494,7 +2494,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-18",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95653",
@@ -2514,7 +2514,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2537,7 +2537,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2560,7 +2560,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2606,7 +2606,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2648,7 +2648,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2695,7 +2695,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-18",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95622",
@@ -2717,7 +2717,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2740,7 +2740,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2761,7 +2761,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2803,7 +2803,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2845,7 +2845,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2933,7 +2933,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -2955,7 +2955,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-18",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95617",
@@ -2977,7 +2977,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3000,7 +3000,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3086,7 +3086,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3128,7 +3128,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3170,7 +3170,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3193,7 +3193,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3216,7 +3216,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3237,7 +3237,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3258,7 +3258,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3300,7 +3300,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3324,7 +3324,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-18",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95572",
@@ -3407,7 +3407,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3428,7 +3428,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3451,7 +3451,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3495,7 +3495,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3631,12 +3631,13 @@
    "company": "오차드뮤지컬컴퍼니",
    "company_id": null,
    "group": "기타 문화예술 기관",
-   "title": "[오차드뮤지컬컴퍼니] 기획PD / 컴퍼니매니저 구인 공고",
+   "title": "[오차드뮤지컬컴퍼니] 기획PD / 컴퍼니매니저 / 홍보매니저 구인 공고",
    "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95550",
    "type": "정규직",
    "type_detail": "정규직",
    "tags": [
-    "전략기획"
+    "전략기획",
+    "홍보마케팅"
    ],
    "career": "신입",
    "posted": "2026-11-02",
@@ -3646,7 +3647,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3711,7 +3712,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3732,7 +3733,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3753,7 +3754,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3774,7 +3775,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3816,7 +3817,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3885,7 +3886,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3927,7 +3928,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3948,7 +3949,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3969,7 +3970,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -3992,7 +3993,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4036,7 +4037,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4057,7 +4058,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4078,7 +4079,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4099,7 +4100,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4168,7 +4169,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4191,7 +4192,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4212,7 +4213,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4233,7 +4234,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4277,7 +4278,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4298,7 +4299,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4319,7 +4320,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4342,7 +4343,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4365,7 +4366,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4386,7 +4387,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4410,7 +4411,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-18",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95456",
@@ -4430,7 +4431,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4453,7 +4454,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4495,7 +4496,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4516,7 +4517,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -4537,8 +4538,8 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
-   "closed": false
+   "last_seen": "2026-11-20",
+   "closed": true
   },
   {
    "id": "artmore-95406",
@@ -4560,7 +4561,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4583,7 +4584,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4604,7 +4605,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4628,7 +4629,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4649,7 +4650,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4670,7 +4671,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4691,7 +4692,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4735,7 +4736,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4756,7 +4757,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4777,7 +4778,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4800,7 +4801,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4823,7 +4824,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4844,7 +4845,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4867,7 +4868,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4888,7 +4889,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4909,7 +4910,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4930,7 +4931,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4951,7 +4952,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -4995,7 +4996,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5018,7 +5019,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5039,7 +5040,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5060,7 +5061,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5081,7 +5082,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5104,7 +5105,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5125,7 +5126,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5148,7 +5149,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5172,7 +5173,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5214,7 +5215,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5235,7 +5236,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -5256,7 +5257,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5280,7 +5281,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5301,7 +5302,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5322,7 +5323,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5343,7 +5344,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5366,7 +5367,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5387,7 +5388,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5408,7 +5409,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5429,7 +5430,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5450,7 +5451,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5473,7 +5474,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5494,7 +5495,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5515,7 +5516,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5536,7 +5537,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5559,7 +5560,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5580,7 +5581,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5601,7 +5602,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5622,7 +5623,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5643,7 +5644,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5666,7 +5667,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5687,7 +5688,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5731,7 +5732,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5752,7 +5753,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5773,7 +5774,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5797,7 +5798,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5818,7 +5819,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5839,7 +5840,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5860,7 +5861,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5881,7 +5882,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5904,7 +5905,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5925,7 +5926,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5947,7 +5948,7 @@
    "initial": true,
    "detail_checked": false,
    "last_seen": "2026-11-18",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95065",
@@ -5967,7 +5968,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -5988,7 +5989,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6009,7 +6010,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6030,7 +6031,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6051,7 +6052,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6075,7 +6076,7 @@
    "first_seen": "2026-11-12",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6206,7 +6207,7 @@
    "first_seen": "2026-11-18",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6226,7 +6227,7 @@
    "first_seen": "2026-11-18",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6248,7 +6249,7 @@
    "first_seen": "2026-11-18",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6268,7 +6269,7 @@
    "first_seen": "2026-11-18",
    "initial": true,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6288,7 +6289,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6308,7 +6309,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6328,7 +6329,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6348,7 +6349,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6368,7 +6369,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6388,7 +6389,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6408,7 +6409,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6428,7 +6429,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6448,7 +6449,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6468,7 +6469,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6508,7 +6509,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6528,7 +6529,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6548,7 +6549,7 @@
    "first_seen": "2026-11-18",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6568,7 +6569,7 @@
    "first_seen": "2026-11-18",
    "initial": true,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -6588,7 +6589,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6610,7 +6611,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6630,7 +6631,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6651,7 +6652,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6672,7 +6673,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6695,7 +6696,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6718,7 +6719,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6741,7 +6742,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6762,7 +6763,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6783,7 +6784,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6804,7 +6805,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6825,7 +6826,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6847,7 +6848,7 @@
    "initial": false,
    "detail_checked": false,
    "last_seen": "2026-11-18",
-   "closed": false
+   "closed": true
   },
   {
    "id": "artmore-95730",
@@ -6867,7 +6868,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6888,7 +6889,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6932,7 +6933,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6953,7 +6954,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -6997,7 +6998,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7020,7 +7021,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7041,7 +7042,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7062,7 +7063,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7083,7 +7084,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7104,7 +7105,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7125,7 +7126,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7146,7 +7147,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7167,7 +7168,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7188,7 +7189,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7211,7 +7212,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7234,7 +7235,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7257,7 +7258,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7280,7 +7281,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7322,7 +7323,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7343,7 +7344,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7364,7 +7365,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7388,7 +7389,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7494,7 +7495,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7516,7 +7517,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7538,7 +7539,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7558,7 +7559,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7580,7 +7581,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7600,7 +7601,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7620,7 +7621,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7640,7 +7641,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7662,7 +7663,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7682,7 +7683,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7748,7 +7749,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7770,7 +7771,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7790,7 +7791,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7810,7 +7811,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": true
   },
   {
@@ -7831,7 +7832,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7852,7 +7853,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7873,7 +7874,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7896,7 +7897,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7917,7 +7918,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7938,7 +7939,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -7982,7 +7983,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -8005,7 +8006,7 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
    "closed": false
   },
   {
@@ -8028,7 +8029,312 @@
    "first_seen": "2026-11-19",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-19",
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "73ea11dba76a",
+   "company": "LG아트센터",
+   "company_id": "LG아트센터",
+   "group": "공연장",
+   "title": "LG아트센터 공연기획팀(공연기획) 정규직 경력사원 채용공고",
+   "url": "https://www.lgart.com/home/ko/main",
+   "type": "정규직",
+   "tags": [
+    "전략기획"
+   ],
+   "career": "경력",
+   "posted": "2026-11-19",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "81a71fbb658d",
+   "company": "구로아트밸리",
+   "company_id": "구로아트밸리",
+   "group": "공연장",
+   "title": "2026년 구로아트밸리 예술극장 공연장 안내원 2차 모집 공고",
+   "url": "https://www.guroartsvalley.or.kr/user/board/boardDefaultView.do?menuCode=mn011801&boardId=13062&index=2",
+   "type": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": null,
+   "posted": "2026-11-19",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "e73193a2d6e2",
+   "company": "한국문화관광연구원",
+   "company_id": "한국문화관광연구원",
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화관광연구원 위촉직원 채용 공고[2026-42]",
+   "url": "https://www.kcti.re.kr/web/user/main.do",
+   "type": "계약직",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95780",
+   "company": "성남문화재단",
+   "company_id": "성남문화재단",
+   "group": "공공문화재단",
+   "title": "성남아트센터 하우스매니저(기간제근로자) 채용 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95780",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": "신입",
+   "posted": "2026-11-20",
+   "deadline": "2026-12-07",
+   "region": "경기 성남시 분당구 성남대로 808 (야탑동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95779",
+   "company": "(재)구리문화재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "2026년 2차 구리문화재단 공연장 서비스인력 모집",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95779",
+   "type": null,
+   "type_detail": "관계없음",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-20",
+   "deadline": "2026-12-01",
+   "region": "경기 구리시 아차산로 453 (교문동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95777",
+   "company": "(재)한국문화재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[리틀엔젤스예술단] 공연사업팀 직원 채용 (육아휴직 대체직)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95777",
+   "type": "계약직",
+   "type_detail": "대체인력",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-11-20",
+   "deadline": "2026-11-30",
+   "region": "서울 광진구 용마산로 9 (중곡동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95772",
+   "company": "이랜드파크",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[이랜드뮤지엄] 그랜드켄싱턴 설악비치 학예사 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95772",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-11-19",
+   "deadline": "2026-12-18",
+   "region": "강원특별자치도 고성군 토성면 중앙로 650",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95771",
+   "company": "LG아트센터",
+   "company_id": "LG아트센터",
+   "group": "공연장",
+   "title": "LG아트센터 공연기획팀(기획제작) 정규직 경력사원 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95771",
+   "type": "정규직",
+   "type_detail": "계약직",
+   "tags": [
+    "전략기획"
+   ],
+   "career": "경력",
+   "posted": "2026-11-19",
+   "deadline": "2026-12-03",
+   "region": "서울 강서구 마곡중앙로 136 (마곡동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95769",
+   "company": "재단법인 포항문화재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "포항문화재단 시설운영팀 기간제근로자(하우스매니저) 채용 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95769",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": "신입",
+   "posted": "2026-11-19",
+   "deadline": "2026-12-06",
+   "region": "경북 포항시 남구 희망대로 850 (대도동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95776",
+   "company": "화성시 육아종합지원센터",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "화성시육아종합지원센터 화성형아이키움터 영천1호점 ...",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95776",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-19",
+   "deadline": "2026-12-04",
+   "region": "경기도 화성시 동탄구 동탄순환대로26길 81",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95775",
+   "company": "화성시 육아종합지원센터",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "화성시육아종합지원센터 화성형아이키움터 봉담점 직원...",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95775",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-19",
+   "deadline": "2026-12-04",
+   "region": "경기도 화성시 효행구 동화길 146",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95664",
+   "company": "LG아트센터",
+   "company_id": "LG아트센터",
+   "group": "공연장",
+   "title": "LG아트센터 서울 하우스 안내원 채용공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95664",
+   "type": "계약직",
+   "type_detail": "시간선택제",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": "신입",
+   "posted": "2026-11-10",
+   "deadline": "2026-11-23",
+   "region": "서울 강서구 마곡중앙로 136 (마곡동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95549",
+   "company": "오차드뮤지컬컴퍼니",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[오차드뮤지컬컴퍼니] 기획PD / 컴퍼니매니저 구인 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95549",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [
+    "전략기획"
+   ],
+   "career": "신입",
+   "posted": "2026-11-02",
+   "deadline": null,
+   "region": "서울 종로구 동숭길 101 (동숭동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
+   "closed": false
+  },
+  {
+   "id": "artmore-95425",
+   "company": "진 교육",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "코앤코교육 <포항 경주지사> 26년도 ...",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95425",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-10-20",
+   "deadline": "2026-12-19",
+   "region": "경상북도 포항시 남구 서동로 162",
+   "source": "아트모아",
+   "first_seen": "2026-11-20",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-20",
    "closed": false
   }
  ]
