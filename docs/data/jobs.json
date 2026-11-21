@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T10:32+09:00",
+ "updated": "2026-11-21T12:15+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -980,7 +980,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1000,7 +1000,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1020,7 +1020,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1040,7 +1040,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1060,7 +1060,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1080,7 +1080,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1102,7 +1102,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1122,7 +1122,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1142,7 +1142,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1162,7 +1162,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -1182,7 +1182,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": true
   },
   {
@@ -6489,7 +6489,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-21",
    "closed": false
   },
   {
@@ -8863,6 +8863,26 @@
    "detail_checked": false,
    "last_seen": "2026-11-21",
    "closed": false
+  },
+  {
+   "id": "thinkyou-64158",
+   "company": "씽유 대외활동: 영화제",
+   "company_id": "씽유-대외활동-영화제",
+   "group": "축제·대외활동",
+   "title": "28회 서울국제여성영화제 자원활동가 '시우프렌즈' 모집",
+   "url": "https://thinkyou.co.kr/extAct/64158/",
+   "type": "대외활동",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-21",
+   "initial": false,
+   "detail_checked": 2,
+   "last_seen": "2026-11-21",
+   "closed": true
   }
  ]
 }
