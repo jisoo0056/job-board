@@ -1,12 +1,13 @@
 {
- "updated": "2026-11-20T12:23+09:00",
+ "updated": "2026-11-21T10:32+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
-   "count": 4,
-   "total_api": 558,
+   "count": 5,
+   "total_api": 517,
    "matched": [
     "국악방송",
+    "세종학당재단",
     "영화진흥위원회"
    ]
   },
@@ -42,7 +43,7 @@
   },
   "세종학당재단": {
    "ok": true,
-   "count": 0,
+   "count": 1,
    "method": "api"
   },
   "국립박물관문화재단": {
@@ -142,7 +143,7 @@
   },
   "아트모아": {
    "ok": true,
-   "count": 227,
+   "count": 228,
    "method": "artmore"
   },
   "LG아트센터": {
@@ -177,7 +178,7 @@
   },
   "구로아트밸리": {
    "ok": true,
-   "count": 2,
+   "count": 3,
    "method": "static"
   },
   "쿼드-대학로": {
@@ -241,7 +242,7 @@
   },
   "경기문화재단": {
    "ok": true,
-   "count": 12,
+   "count": 0,
    "method": "static"
   },
   "부천문화재단": {
@@ -305,9 +306,8 @@
    "method": "static"
   },
   "OD-컴퍼니": {
-   "ok": true,
-   "count": 0,
-   "method": "static"
+   "ok": false,
+   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.odmusical.com/community/carreers\", waiting until \"load\"\n"
   },
   "KBS교향악단-사무국": {
    "ok": true,
@@ -356,7 +356,7 @@
   },
   "씨네21-영화인-JOB-영화제-스태프": {
    "ok": true,
-   "count": 3,
+   "count": 4,
    "method": "browser"
   },
   "씽유-대외활동-영화제": {
@@ -371,23 +371,23 @@
   },
   "씽유-대외활동-공연예술-축제": {
    "ok": true,
-   "count": 0,
-   "method": "static"
+   "count": 10,
+   "method": "browser"
   },
   "씽유-대외활동-무용-축제": {
    "ok": true,
-   "count": 0,
-   "method": "static"
+   "count": 17,
+   "method": "browser"
   },
   "씽유-대외활동-문화-예술-서포터즈": {
    "ok": true,
-   "count": 0,
-   "method": "static"
+   "count": 2,
+   "method": "browser"
   },
   "씽유-대외활동-문화-예술-기자단": {
    "ok": true,
-   "count": 0,
-   "method": "static"
+   "count": 2,
+   "method": "browser"
   },
   "씽유-대외활동-문화-예술-예술": {
    "ok": true,
@@ -405,6 +405,20 @@
    "method": "browser"
   },
   "예술의전당-소식-서포터즈-하우스-어텐던트": {
+   "ok": true,
+   "count": 0,
+   "method": "static"
+  },
+  "KBS-한국방송공사": {
+   "ok": true,
+   "count": 9,
+   "method": "browser"
+  },
+  "MBC-문화방송": {
+   "ok": false,
+   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://recruit.mbc.co.kr/\", waiting until \"load\"\n"
+  },
+  "SBS": {
    "ok": true,
    "count": 0,
    "method": "static"
