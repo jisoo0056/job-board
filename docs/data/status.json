@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:21+09:00",
+ "updated": "2026-11-22T11:17+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
@@ -242,7 +242,7 @@
   },
   "경기문화재단": {
    "ok": true,
-   "count": 0,
+   "count": 12,
    "method": "static"
   },
   "부천문화재단": {
@@ -306,8 +306,9 @@
    "method": "static"
   },
   "OD-컴퍼니": {
-   "ok": false,
-   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.odmusical.com/community/carreers\", waiting until \"load\"\n"
+   "ok": true,
+   "count": 0,
+   "method": "static"
   },
   "KBS교향악단-사무국": {
    "ok": true,
