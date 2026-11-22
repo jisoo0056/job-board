@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-21T12:15+09:00",
+ "updated": "2026-11-22T09:21+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
    "count": 5,
-   "total_api": 517,
+   "total_api": 516,
    "matched": [
     "국악방송",
     "세종학당재단",
@@ -143,7 +143,7 @@
   },
   "아트모아": {
    "ok": true,
-   "count": 228,
+   "count": 229,
    "method": "artmore"
   },
   "LG아트센터": {
@@ -242,7 +242,7 @@
   },
   "경기문화재단": {
    "ok": true,
-   "count": 12,
+   "count": 0,
    "method": "static"
   },
   "부천문화재단": {
