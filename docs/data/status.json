@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-22T11:17+09:00",
+ "updated": "2026-11-23T09:56+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
    "count": 5,
-   "total_api": 516,
+   "total_api": 521,
    "matched": [
     "국악방송",
     "세종학당재단",
@@ -143,7 +143,7 @@
   },
   "아트모아": {
    "ok": true,
-   "count": 229,
+   "count": 232,
    "method": "artmore"
   },
   "LG아트센터": {
@@ -357,7 +357,7 @@
   },
   "씨네21-영화인-JOB-영화제-스태프": {
    "ok": true,
-   "count": 4,
+   "count": 3,
    "method": "browser"
   },
   "씽유-대외활동-영화제": {
@@ -412,7 +412,7 @@
   },
   "KBS-한국방송공사": {
    "ok": true,
-   "count": 9,
+   "count": 5,
    "method": "browser"
   },
   "MBC-문화방송": {
