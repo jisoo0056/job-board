@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-23T09:56+09:00",
+ "updated": "2026-11-23T11:49+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
    "count": 5,
-   "total_api": 521,
+   "total_api": 529,
    "matched": [
     "국악방송",
     "세종학당재단",
@@ -143,7 +143,7 @@
   },
   "아트모아": {
    "ok": true,
-   "count": 232,
+   "count": 231,
    "method": "artmore"
   },
   "LG아트센터": {
@@ -362,22 +362,22 @@
   },
   "씽유-대외활동-영화제": {
    "ok": true,
-   "count": 41,
+   "count": 42,
    "method": "browser"
   },
   "씽유-대외활동-연극제": {
    "ok": true,
-   "count": 8,
+   "count": 9,
    "method": "browser"
   },
   "씽유-대외활동-공연예술-축제": {
    "ok": true,
-   "count": 10,
+   "count": 11,
    "method": "browser"
   },
   "씽유-대외활동-무용-축제": {
    "ok": true,
-   "count": 17,
+   "count": 18,
    "method": "browser"
   },
   "씽유-대외활동-문화-예술-서포터즈": {
@@ -397,7 +397,7 @@
   },
   "씽유-대외활동-문화-예술-문화": {
    "ok": true,
-   "count": 4,
+   "count": 3,
    "method": "browser"
   },
   "씽유-대외활동-문화-예술-공연": {

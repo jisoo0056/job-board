@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T09:56+09:00",
+ "updated": "2026-11-23T11:49+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -9032,6 +9032,68 @@
    "detail_checked": false,
    "last_seen": "2026-11-23",
    "closed": true
+  },
+  {
+   "id": "109f0b290ee1",
+   "company": "씽유 대외활동: 영화제",
+   "company_id": "씽유-대외활동-영화제",
+   "group": "축제·대외활동",
+   "title": "2026.12.02 ~ 2026.12.06 ( D-9 ) 2026 월드 웹툰 페스티벌",
+   "url": "https://thinkyou.co.kr/extAct/?searchstr=%EC%98%81%ED%99%94%EC%A0%9C",
+   "type": "대외활동",
+   "tags": [],
+   "career": null,
+   "posted": null,
+   "deadline": "2026-12-06",
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-23",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-23",
+   "closed": false
+  },
+  {
+   "id": "artmore-95793",
+   "company": "(재)한국문화재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "[리틀엔젤스예술단] 공연사업팀 직원 채용 (육아휴직 대체직)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95793",
+   "type": "계약직",
+   "type_detail": "대체인력",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-11-23",
+   "deadline": "2026-11-30",
+   "region": "서울 광진구 용마산로 9 (중곡동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-23",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-23",
+   "closed": false
+  },
+  {
+   "id": "artmore-95791",
+   "company": "한국문화예술회관연합회",
+   "company_id": "한국문화예술회관연합회",
+   "group": "문체부 산하 공공기관",
+   "title": "한국문화예술회관연합회 2026년 제5차 직원 채용 공고",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95791",
+   "type": "정규직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "경력",
+   "posted": "2026-11-23",
+   "deadline": "2026-12-08",
+   "region": "서울 서초구 남부순환로 2406 (서초동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-23",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-23",
+   "closed": false
   }
  ]
 }
