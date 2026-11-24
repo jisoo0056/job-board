@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-23T11:49+09:00",
+ "updated": "2026-11-24T13:48+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
-   "count": 5,
-   "total_api": 529,
+   "count": 6,
+   "total_api": 524,
    "matched": [
     "국악방송",
     "세종학당재단",
@@ -138,12 +138,12 @@
   },
   "국악방송": {
    "ok": true,
-   "count": 1,
+   "count": 2,
    "method": "api"
   },
   "아트모아": {
    "ok": true,
-   "count": 231,
+   "count": 230,
    "method": "artmore"
   },
   "LG아트센터": {
@@ -158,7 +158,7 @@
   },
   "두산아트센터": {
    "ok": true,
-   "count": 1,
+   "count": 2,
    "method": "static"
   },
   "GS아트센터": {
@@ -168,7 +168,7 @@
   },
   "경기아트센터": {
    "ok": true,
-   "count": 5,
+   "count": 4,
    "method": "static"
   },
   "경기아트센터-인크루트": {
@@ -178,7 +178,7 @@
   },
   "구로아트밸리": {
    "ok": true,
-   "count": 3,
+   "count": 4,
    "method": "static"
   },
   "쿼드-대학로": {
@@ -262,7 +262,7 @@
   },
   "인천연구원": {
    "ok": true,
-   "count": 5,
+   "count": 6,
    "method": "static"
   },
   "경기연구원": {
@@ -302,13 +302,12 @@
   },
   "KT-G-상상마당": {
    "ok": true,
-   "count": 0,
+   "count": 1,
    "method": "static"
   },
   "OD-컴퍼니": {
-   "ok": true,
-   "count": 0,
-   "method": "static"
+   "ok": false,
+   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.odmusical.com/community/carreers\", waiting until \"load\"\n"
   },
   "KBS교향악단-사무국": {
    "ok": true,
@@ -412,7 +411,7 @@
   },
   "KBS-한국방송공사": {
    "ok": true,
-   "count": 5,
+   "count": 8,
    "method": "browser"
   },
   "MBC-문화방송": {
