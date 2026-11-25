@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:34+09:00",
+ "updated": "2026-11-25T13:54+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -7993,7 +7993,7 @@
    "first_seen": "2026-11-20",
    "initial": false,
    "detail_checked": false,
-   "last_seen": "2026-11-20",
+   "last_seen": "2026-11-25",
    "closed": false
   },
   {
@@ -9871,6 +9871,73 @@
    "posted": "2026-11-24",
    "deadline": "2026-12-11",
    "region": "인천광역시 강화군 강화읍 강화대로470번길 16-1",
+   "source": "아트모아",
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-25",
+   "closed": false
+  },
+  {
+   "id": "artmore-95832",
+   "company": "재단법인 목목문화재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "(복사) [피크닉 piknic] 전시 주중 / 주말 운영 스태프 모집",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95832",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [],
+   "career": "신입",
+   "posted": "2026-11-25",
+   "deadline": null,
+   "region": "서울 중구 퇴계로6가길 30 (남창동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-25",
+   "closed": false
+  },
+  {
+   "id": "artmore-95831",
+   "company": "(재)국립합창단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "국립합창단 1차 채용 공고(홍보마케팅, 합창단 악보관리)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95831",
+   "type": "계약직",
+   "type_detail": "계약직",
+   "tags": [
+    "홍보마케팅"
+   ],
+   "career": "신입",
+   "posted": "2026-11-25",
+   "deadline": "2026-12-10",
+   "region": "서울 서초구 남부순환로 2406 (서초동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-25",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-25",
+   "closed": false
+  },
+  {
+   "id": "artmore-95830",
+   "company": "주식회사 에이씨피",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "공연 [점프] 국내 단체 세일즈 마케팅 담당자 모집",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95830",
+   "type": "정규직",
+   "type_detail": "정규직",
+   "tags": [
+    "홍보마케팅"
+   ],
+   "career": "신입",
+   "posted": "2026-11-25",
+   "deadline": "2026-12-04",
+   "region": "서울 중구 마른내로 47 (초동)",
    "source": "아트모아",
    "first_seen": "2026-11-25",
    "initial": false,
