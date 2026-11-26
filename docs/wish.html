@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>가고 싶은 기업</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">
+      <h1>채용 모아보기</h1>
+      <span class="updated" id="updated">불러오는 중…</span>
+    </div>
+    <nav class="views">
+      <a class="view" href="index.html">① 문화예술</a>
+      <a class="view" href="biz.html">② 기업 직무</a>
+      <button class="view on" type="button">③ 가고 싶은 기업</button>
+    </nav>
+  </div>
+</header>
+
+<main class="layout">
+  <aside class="filters">
+    <div class="fgroup">
+      <span class="flabel">회사 바로가기</span>
+      <div class="chips" id="jump"></div>
+    </div>
+    <div class="fgroup">
+      <span class="flabel">경력</span>
+      <div class="chips" id="careerChips"></div>
+    </div>
+    <div class="fgroup">
+      <label class="check"><input type="checkbox" id="openOnly" checked> 진행 중인 공고가 있는 회사만</label>
+      <label class="check"><input type="checkbox" id="showClosed"> 마감된 공고도 보기</label>
+    </div>
+    <p class="muted small">기업은 고른 직무와 맞는 공고만, 공공기관은 모든 채용 공고를 보여주고 관련 직무에 표시를 붙여요.</p>
+  </aside>
+  <section class="content">
+    <p class="muted small" id="summary"></p>
+    <div id="list"></div>
+  </section>
+</main>
+
+<script src="wish.js"></script>
+</body>
+</html>

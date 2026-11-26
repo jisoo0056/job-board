@@ -57,7 +57,7 @@ TARGETS = [
     ("JYP", r"제이와이피|JYP", "제이와이피엔터테인먼트", "엔터테인먼트"),
     ("CJ ENM", r"씨제이이엔엠|CJ\s*ENM", "CJ ENM", "콘텐츠"),
     ("네이버웹툰", r"네이버웹툰|웹툰", None, "콘텐츠"),
-    ("카카오엔터테인먼트", r"카카오엔터", "카카오엔터테인먼트", "콘텐츠"),
+    ("카카오엔터테인먼트", r"카카오엔터테인먼트|Kakao\s*Entertainment", "카카오엔터테인먼트", "콘텐츠"),
     ("삼성SDS", r"삼성에스디에스|삼성SDS", "삼성SDS", "IT·AX 솔루션"),
     ("LG CNS", r"엘지씨엔에스|LG\s*CNS", "LG CNS", "IT·AX 솔루션"),
     ("SK AX", r"SK\s*AX|에스케이에이엑스|SK\s*C&C|에스케이씨앤씨|SK주식회사", "SK AX", "IT·AX 솔루션"),
@@ -245,6 +245,13 @@ def main():
         if q:
             run("사람인", lambda q=q: saramin_search(q, pages=1))
             time.sleep(1.5)
+    wish = json.loads((DATA / "wishlist.json").read_text(encoding="utf-8"))["companies"] \
+        if (DATA / "wishlist.json").exists() else []
+    done_q = {q for _, _, q, _ in TARGETS if q}
+    for w in wish:  # 가고 싶은 기업: 회사 이름으로 사람인 검색
+        if w["kind"] == "company" and w.get("search") and w["search"] not in done_q:
+            run("사람인", lambda q=w["search"]: saramin_search(q, pages=1))
+            time.sleep(1.5)
     run("네이버 채용", naver_jobs)
     run("토스 채용", toss_jobs)
     # 사람인 상태는 검색 여러 번의 합
@@ -257,7 +264,9 @@ def main():
         if not cats and j["source"] == "사람인" and re.search(r"기획|전략|혁신|인사|HR|컨설|AX|DX", j["title"]):
             cats = classify_job(j.get("hint", ""))  # 제목이 애매하면 사람인 직무 분류로 보조
         tname, tcat = target_of(j["company"])
-        if not cats:
+        w = next((w for w in wish if w["kind"] == "company" and re.search(w["match"], j["company"], re.I)), None)
+        wish_roles = [r["label"] for r in (w["roles"] if w else []) if re.search(r["pattern"], j["title"], re.I)]
+        if not cats and not wish_roles:
             continue
         if base.unwanted(j["title"]):
             continue
@@ -268,6 +277,7 @@ def main():
         prev = old.get(j["id"])
         j.update({
             "jobs": cats, "target": tname, "target_cat": tcat,
+            "wish": w["name"] if wish_roles else None, "wish_roles": wish_roles,
             "headhunter": bool(re.search(HEADHUNTER, j["company"])) and not tname,
             "intern": bool(re.search(r"인턴", j["title"] + j.get("emp_type", ""))),
         })
@@ -291,7 +301,7 @@ def main():
 
     # 자격요건: 새 공고 위주로 상세 페이지 확인
     checked = 0
-    for j in sorted(jobs.values(), key=lambda j: (not j.get("target"), j["first_seen"]), reverse=False):
+    for j in sorted(jobs.values(), key=lambda j: (not j.get("wish"), not j.get("target"), j["first_seen"]), reverse=False):
         if j.get("req_checked") or not j.get("detail_url") or j["last_seen"] != TODAY.isoformat() or checked >= 150:
             continue
         checked += 1

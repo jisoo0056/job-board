@@ -38,6 +38,7 @@
     return { ...j, isNew: !j.initial && !j.closed && days(j.first_seen, ref) < NEW_DAYS, isRead: state.read.has(j.id) };
   }
   function matches(j) {
+    if (!(j.jobs || []).length) return false; // '가고 싶은 기업' 전용 공고(8개 직무 밖)는 ③ 탭에서만
     if (state.sel.size && !(j.jobs || []).some((x) => state.sel.has(x))) return false;
     if (state.career === "new" && !(j.career === "신입" || j.career === "신입 가능")) return false;
     if (state.career === "exp" && j.career !== "경력") return false;

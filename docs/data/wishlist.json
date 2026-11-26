@@ -1,0 +1,538 @@
+{
+ "note": "가고 싶은 기업과 직무. 기업 공고는 직무가 맞는 것만, 공공기관은 모든 채용 공고를 보여주고 관련 직무를 표시.",
+ "companies": [
+  {
+   "name": "CJ ENM",
+   "match": "씨제이이엔엠|CJ\\s*ENM|CJ이엔엠",
+   "search": "CJ ENM",
+   "kind": "company",
+   "url": "https://recruit.cj.net/",
+   "roles": [
+    {
+     "label": "경영전략",
+     "pattern": "경영\\s*전략|전략\\s*기획|Strategy"
+    },
+    {
+     "label": "HR",
+     "pattern": "\\bHR\\b|HR\\s*(기획|전략|운영)|인사|HRBP|People|조직\\s*문화|조직\\s*개발"
+    },
+    {
+     "label": "사업기획",
+     "pattern": "사업\\s*기획|사업\\s*개발|BD\\b|Business\\s*Development"
+    },
+    {
+     "label": "글로벌 사업",
+     "pattern": "글로벌|해외|Global|International"
+    }
+   ]
+  },
+  {
+   "name": "네이버웹툰",
+   "match": "네이버웹툰|NAVER\\s*WEBTOON|웹툰엔터",
+   "search": "네이버웹툰",
+   "kind": "company",
+   "url": "https://recruit.navercorp.com/rcrt/list.do",
+   "roles": [
+    {
+     "label": "사업전략",
+     "pattern": "사업\\s*전략|Biz\\s*Strategy|Business\\s*Strategy"
+    },
+    {
+     "label": "HR",
+     "pattern": "\\bHR\\b|HR\\s*(기획|전략|운영)|인사|HRBP|People|조직\\s*문화|조직\\s*개발"
+    },
+    {
+     "label": "서비스기획",
+     "pattern": "서비스\\s*기획|Service\\s*Planning|프로덕트\\s*(기획|매니저|오너)|Product\\s*(Manager|Owner|Planner)|\\bPO\\b"
+    }
+   ]
+  },
+  {
+   "name": "하이브",
+   "match": "하이브|HYBE",
+   "search": "하이브",
+   "kind": "company",
+   "url": "https://careers.hybecorp.com/",
+   "roles": [
+    {
+     "label": "경영전략",
+     "pattern": "경영\\s*전략|전략\\s*기획|Strategy"
+    },
+    {
+     "label": "조직문화",
+     "pattern": "조직\\s*문화|Culture|조직\\s*개발|\\bOD\\b"
+    },
+    {
+     "label": "사업혁신",
+     "pattern": "사업\\s*혁신|혁신"
+    }
+   ]
+  },
+  {
+   "name": "카카오엔터테인먼트",
+   "match": "카카오엔터테인먼트|Kakao\\s*Entertainment",
+   "search": "카카오엔터테인먼트",
+   "kind": "company",
+   "url": "https://careers.kakaoent.com/",
+   "roles": [
+    {
+     "label": "경영기획",
+     "pattern": "경영\\s*기획|기획\\s*조정|경영\\s*관리|Corporate\\s*Planning"
+    },
+    {
+     "label": "IP 사업전략",
+     "pattern": "IP\\s*(사업|전략|비즈니스)|IP\\s*Business"
+    }
+   ]
+  },
+  {
+   "name": "티빙",
+   "match": "티빙|TVING",
+   "search": "티빙",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=티빙",
+   "roles": [
+    {
+     "label": "경영기획",
+     "pattern": "경영\\s*기획|기획\\s*조정|경영\\s*관리|Corporate\\s*Planning"
+    },
+    {
+     "label": "AI 서비스기획",
+     "pattern": "AI\\s*(서비스|기획|PM|PO|Product)|생성형\\s*AI"
+    },
+    {
+     "label": "PM",
+     "pattern": "\\bPM\\b|\\bPO\\b|Product\\s*Manager|프로덕트\\s*매니저|프로젝트\\s*매니저"
+    }
+   ]
+  },
+  {
+   "name": "밀리의서재",
+   "match": "밀리의\\s*서재",
+   "search": "밀리의서재",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=밀리의서재",
+   "roles": [
+    {
+     "label": "서비스기획",
+     "pattern": "서비스\\s*기획|Service\\s*Planning|프로덕트\\s*(기획|매니저|오너)|Product\\s*(Manager|Owner|Planner)|\\bPO\\b"
+    },
+    {
+     "label": "사업전략",
+     "pattern": "사업\\s*전략|Biz\\s*Strategy|Business\\s*Strategy"
+    }
+   ]
+  },
+  {
+   "name": "SM엔터테인먼트",
+   "match": "에스엠|SM\\s*(엔터|Entertainment)",
+   "search": "에스엠엔터테인먼트",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=에스엠엔터테인먼트",
+   "roles": [
+    {
+     "label": "경영기획",
+     "pattern": "경영\\s*기획|기획\\s*조정|경영\\s*관리|Corporate\\s*Planning"
+    },
+    {
+     "label": "글로벌 사업",
+     "pattern": "글로벌|해외|Global|International"
+    }
+   ]
+  },
+  {
+   "name": "스튜디오드래곤",
+   "match": "스튜디오\\s*드래곤",
+   "search": "스튜디오드래곤",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=스튜디오드래곤",
+   "roles": [
+    {
+     "label": "경영기획",
+     "pattern": "경영\\s*기획|기획\\s*조정|경영\\s*관리|Corporate\\s*Planning"
+    },
+    {
+     "label": "사업관리",
+     "pattern": "사업\\s*관리|사업\\s*운영"
+    }
+   ]
+  },
+  {
+   "name": "인터파크트리플",
+   "match": "인터파크|트리플|놀유니버스|NOL",
+   "search": "인터파크트리플",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=인터파크트리플",
+   "roles": [
+    {
+     "label": "공연·여행 플랫폼 사업기획",
+     "pattern": "(공연|티켓|여행|투어).*(사업|기획|전략)|(사업|기획|전략).*(공연|티켓|여행|투어)"
+    },
+    {
+     "label": "사업기획",
+     "pattern": "사업\\s*기획|사업\\s*개발|BD\\b|Business\\s*Development"
+    }
+   ]
+  },
+  {
+   "name": "예스24",
+   "match": "예스24|YES24",
+   "search": "예스24",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=예스24",
+   "roles": [
+    {
+     "label": "사업기획",
+     "pattern": "사업\\s*기획|사업\\s*개발|BD\\b|Business\\s*Development"
+    },
+    {
+     "label": "서비스기획",
+     "pattern": "서비스\\s*기획|Service\\s*Planning|프로덕트\\s*(기획|매니저|오너)|Product\\s*(Manager|Owner|Planner)|\\bPO\\b"
+    }
+   ]
+  },
+  {
+   "name": "교보문고",
+   "match": "교보문고",
+   "search": "교보문고",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=교보문고",
+   "roles": [
+    {
+     "label": "경영기획",
+     "pattern": "경영\\s*기획|기획\\s*조정|경영\\s*관리|Corporate\\s*Planning"
+    },
+    {
+     "label": "디지털 사업혁신",
+     "pattern": "디지털|DX|혁신"
+    }
+   ]
+  },
+  {
+   "name": "LG CNS",
+   "match": "엘지씨엔에스|LG\\s*CNS",
+   "search": "LG CNS",
+   "kind": "company",
+   "url": "https://careers.lg.com/",
+   "roles": [
+    {
+     "label": "AX 컨설팅",
+     "pattern": "AX\\s*(컨설|전략|전환|추진|기획)|AI\\s*(컨설|전환|도입)|컨설팅|컨설턴트"
+    },
+    {
+     "label": "프로세스 혁신",
+     "pattern": "프로세스|PI\\b|BPR|혁신"
+    }
+   ]
+  },
+  {
+   "name": "네이버",
+   "match": "^네이버(?!웹툰)|^NAVER(?!\\s*WEBTOON)|네이버\\(주\\)|\\(주\\)\\s*네이버(?!웹툰)",
+   "search": "네이버",
+   "kind": "company",
+   "url": "https://recruit.navercorp.com/rcrt/list.do",
+   "roles": [
+    {
+     "label": "HR 기획",
+     "pattern": "HR\\s*(기획|전략|Planning)|인사\\s*기획|HRBP"
+    },
+    {
+     "label": "AI 서비스기획",
+     "pattern": "AI\\s*(서비스|기획|PM|PO|Product)|생성형\\s*AI"
+    }
+   ]
+  },
+  {
+   "name": "삼성SDS",
+   "match": "삼성에스디에스|삼성\\s*SDS",
+   "search": "삼성SDS",
+   "kind": "company",
+   "url": "https://www.samsungcareers.com/",
+   "roles": [
+    {
+     "label": "디지털 전환",
+     "pattern": "DX|디지털\\s*(전환|트랜스포메이션)|Digital\\s*Transformation"
+    },
+    {
+     "label": "IT 컨설팅",
+     "pattern": "IT\\s*컨설|컨설팅|컨설턴트"
+    }
+   ]
+  },
+  {
+   "name": "SK AX",
+   "match": "SK\\s*AX|에스케이에이엑스|SK\\s*C&C|에스케이씨앤씨",
+   "search": "SK AX",
+   "kind": "company",
+   "url": "https://www.skcareers.com/",
+   "roles": [
+    {
+     "label": "AX 컨설팅",
+     "pattern": "AX\\s*(컨설|전략|전환|추진|기획)|AI\\s*(컨설|전환|도입)|컨설팅|컨설턴트"
+    },
+    {
+     "label": "사업혁신",
+     "pattern": "사업\\s*혁신|혁신"
+    }
+   ]
+  },
+  {
+   "name": "카카오",
+   "match": "^\\(?주\\)?\\s*카카오$|^카카오\\s*\\(주\\)$|^\\(주\\)카카오$",
+   "search": "카카오",
+   "kind": "company",
+   "url": "https://careers.kakao.com/jobs",
+   "roles": [
+    {
+     "label": "경영기획",
+     "pattern": "경영\\s*기획|기획\\s*조정|경영\\s*관리|Corporate\\s*Planning"
+    },
+    {
+     "label": "조직문화",
+     "pattern": "조직\\s*문화|Culture|조직\\s*개발|\\bOD\\b"
+    },
+    {
+     "label": "서비스기획",
+     "pattern": "서비스\\s*기획|Service\\s*Planning|프로덕트\\s*(기획|매니저|오너)|Product\\s*(Manager|Owner|Planner)|\\bPO\\b"
+    }
+   ]
+  },
+  {
+   "name": "토스",
+   "match": "비바리퍼블리카|^토스",
+   "search": "비바리퍼블리카",
+   "kind": "company",
+   "url": "https://toss.im/career/jobs",
+   "roles": [
+    {
+     "label": "People",
+     "pattern": "\\bPeople\\b|\\bHR\\b|인사|HRBP|조직\\s*문화"
+    },
+    {
+     "label": "Business Operations",
+     "pattern": "Business\\s*Operations|Biz\\s*Ops|BizOps|사업\\s*운영|전략\\s*운영|BizOps"
+    }
+   ]
+  },
+  {
+   "name": "현대오토에버",
+   "match": "현대오토에버",
+   "search": "현대오토에버",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=현대오토에버",
+   "roles": [
+    {
+     "label": "경영혁신",
+     "pattern": "경영\\s*혁신|혁신"
+    },
+    {
+     "label": "IT 기획",
+     "pattern": "IT\\s*(기획|전략)|정보화|IT\\s*Planning"
+    }
+   ]
+  },
+  {
+   "name": "더존비즈온",
+   "match": "더존비즈온",
+   "search": "더존비즈온",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=더존비즈온",
+   "roles": [
+    {
+     "label": "기업 업무 혁신",
+     "pattern": "업무\\s*혁신|프로세스|혁신|PI\\b"
+    },
+    {
+     "label": "AI 서비스기획",
+     "pattern": "AI\\s*(서비스|기획|PM|PO|Product)|생성형\\s*AI"
+    }
+   ]
+  },
+  {
+   "name": "마이다스아이티",
+   "match": "마이다스아이티|마이다스\\s*IT",
+   "search": "마이다스아이티",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=마이다스아이티",
+   "roles": [
+    {
+     "label": "HR 솔루션",
+     "pattern": "HR\\s*(솔루션|Solution)|인사\\s*솔루션"
+    },
+    {
+     "label": "조직관리",
+     "pattern": "조직\\s*(관리|설계|개발)"
+    }
+   ]
+  },
+  {
+   "name": "원티드랩",
+   "match": "원티드랩|원티드",
+   "search": "원티드랩",
+   "kind": "company",
+   "url": "https://www.saramin.co.kr/zf_user/search/recruit?searchword=원티드랩",
+   "roles": [
+    {
+     "label": "HR Tech",
+     "pattern": "HR\\s*Tech|HRIS|HR\\s*(시스템|서비스|플랫폼)"
+    },
+    {
+     "label": "서비스기획",
+     "pattern": "서비스\\s*기획|Service\\s*Planning|프로덕트\\s*(기획|매니저|오너)|Product\\s*(Manager|Owner|Planner)|\\bPO\\b"
+    }
+   ]
+  },
+  {
+   "name": "예술경영지원센터",
+   "match": "예술경영지원센터",
+   "search": "",
+   "kind": "public",
+   "url": "https://www.gokams.or.kr/01_news/jobposting_list.aspx",
+   "roles": [
+    {
+     "label": "예술기업 육성",
+     "pattern": "예술\\s*기업|육성|창업"
+    },
+    {
+     "label": "예술금융 융합",
+     "pattern": "금융|융합"
+    },
+    {
+     "label": "해외진출",
+     "pattern": "해외|국제|글로벌"
+    }
+   ]
+  },
+  {
+   "name": "한국콘텐츠진흥원",
+   "match": "한국콘텐츠진흥원|콘진원",
+   "search": "",
+   "kind": "public",
+   "url": "https://www.kocca.kr",
+   "roles": [
+    {
+     "label": "콘텐츠 산업전략",
+     "pattern": "산업\\s*전략|정책|전략"
+    },
+    {
+     "label": "기업지원",
+     "pattern": "기업\\s*지원|지원\\s*사업"
+    },
+    {
+     "label": "신기술 사업",
+     "pattern": "신기술|AI|메타버스|XR|기술"
+    }
+   ]
+  },
+  {
+   "name": "한국국제문화교류진흥원",
+   "match": "국제문화교류진흥원|KOFICE",
+   "search": "",
+   "kind": "public",
+   "url": "https://kofice.or.kr",
+   "roles": [
+    {
+     "label": "국제교류",
+     "pattern": "국제|교류|해외"
+    },
+    {
+     "label": "한류 사업",
+     "pattern": "한류"
+    }
+   ]
+  },
+  {
+   "name": "한국문화정보원",
+   "match": "한국문화정보원",
+   "search": "",
+   "kind": "public",
+   "url": "https://www.kcisa.kr",
+   "roles": [
+    {
+     "label": "문화데이터",
+     "pattern": "데이터|빅데이터"
+    },
+    {
+     "label": "디지털 전환",
+     "pattern": "DX|디지털\\s*(전환|트랜스포메이션)|Digital\\s*Transformation"
+    }
+   ]
+  },
+  {
+   "name": "한국문화예술위원회",
+   "match": "한국문화예술위원회|아르코",
+   "search": "",
+   "kind": "public",
+   "url": "https://www.arko.or.kr",
+   "roles": [
+    {
+     "label": "예술지원 정책",
+     "pattern": "정책|지원"
+    },
+    {
+     "label": "경영기획",
+     "pattern": "경영\\s*기획|기획\\s*조정|경영\\s*관리|Corporate\\s*Planning"
+    }
+   ]
+  },
+  {
+   "name": "한국문화예술교육진흥원",
+   "match": "문화예술교육진흥원",
+   "search": "",
+   "kind": "public",
+   "url": "https://www.arte.or.kr",
+   "roles": [
+    {
+     "label": "경영기획",
+     "pattern": "경영\\s*기획|기획\\s*조정|경영\\s*관리|Corporate\\s*Planning"
+    },
+    {
+     "label": "정책 및 신사업 개발",
+     "pattern": "정책|신사업|사업\\s*개발"
+    }
+   ]
+  },
+  {
+   "name": "서울문화재단",
+   "match": "서울문화재단",
+   "search": "",
+   "kind": "public",
+   "url": "https://www.sfac.or.kr/opensquare/notice/recruit_list.do",
+   "roles": [
+    {
+     "label": "미래전략팀",
+     "pattern": "미래\\s*전략|전략"
+    },
+    {
+     "label": "인사혁신팀",
+     "pattern": "인사|\\bHR\\b"
+    },
+    {
+     "label": "기획조정팀",
+     "pattern": "기획\\s*조정|기획"
+    }
+   ]
+  },
+  {
+   "name": "세종문화회관",
+   "match": "세종문화회관",
+   "search": "",
+   "kind": "public",
+   "url": "https://www.sejongpac.or.kr/portal/bbs/B0000065/list.do?menuNo=200571",
+   "roles": [
+    {
+     "label": "기획조정팀",
+     "pattern": "기획\\s*조정|기획"
+    },
+    {
+     "label": "문화Biz개발팀",
+     "pattern": "Biz|비즈|사업\\s*개발"
+    },
+    {
+     "label": "공연DX팀",
+     "pattern": "DX|디지털"
+    }
+   ]
+  }
+ ]
+}
