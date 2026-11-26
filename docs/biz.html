@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>기업 직무 채용</title>
+<link rel="preconnect" href="https://cdn.jsdelivr.net">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/variable/pretendardvariable.min.css">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-inner">
+    <div class="brand">
+      <h1>채용 모아보기</h1>
+      <span class="updated" id="updated">불러오는 중…</span>
+    </div>
+    <nav class="views">
+      <a class="view" href="index.html">① 문화예술</a>
+      <button class="view on" type="button">② 기업 직무</button>
+    </nav>
+  </div>
+</header>
+
+<div id="alerts"></div>
+
+<main class="layout">
+  <aside class="filters">
+    <div class="fgroup">
+      <label class="flabel" for="q">검색</label>
+      <input id="q" type="search" placeholder="회사명, 공고 제목, 자격요건">
+    </div>
+    <div class="fgroup">
+      <span class="flabel">직무</span>
+      <div class="chips" id="jobChips"></div>
+    </div>
+    <div class="fgroup">
+      <span class="flabel">경력</span>
+      <div class="chips" id="careerChips"></div>
+    </div>
+    <div class="fgroup">
+      <span class="flabel">기업 유형 (관심 기업)</span>
+      <div class="chips" id="catChips"></div>
+    </div>
+    <div class="fgroup">
+      <label class="check"><input type="checkbox" id="targetOnly"> 관심 기업만</label>
+      <label class="check"><input type="checkbox" id="internOnly"> 인턴만</label>
+      <label class="check"><input type="checkbox" id="hideHH" checked> 헤드헌팅 공고 숨기기</label>
+      <label class="check"><input type="checkbox" id="newOnly"> NEW만 보기</label>
+    </div>
+    <button class="link-btn" id="resetFilters">필터 초기화</button>
+  </aside>
+
+  <section class="content">
+    <p class="muted small" id="summary"></p>
+    <div id="openList" class="list"></div>
+    <details class="closed-box" id="closedBox">
+      <summary>마감된 공고 <span id="closedCount"></span></summary>
+      <div id="closedList" class="list closed"></div>
+    </details>
+  </section>
+</main>
+
+<script src="biz.js"></script>
+</body>
+</html>

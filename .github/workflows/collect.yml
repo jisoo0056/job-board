@@ -18,7 +18,7 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 75
     steps:
       - uses: actions/checkout@v5
 
@@ -44,11 +44,22 @@ jobs:
           SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/
         run: python scraper/collect.py
 
+      - name: 수집 (탭2 기업 직무)
+        continue-on-error: true   # 탭2가 실패해도 탭1 결과는 저장
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          MAIL_TO: ${{ secrets.MAIL_TO }}
+          SITE_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/biz.html
+        run: python scraper/collect_biz.py
+
       - name: 결과 저장
         run: |
           git config user.name "job-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs/data/jobs.json docs/data/status.json
+          git add docs/data/jobs.json docs/data/status.json docs/data/biz_jobs.json 2>/dev/null || git add docs/data/jobs.json docs/data/status.json
           if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
           git commit -m "채용공고 수집 $(TZ=Asia/Seoul date +%F)"
           for i in 1 2 3; do git pull --rebase origin main && git push && break; sleep 5; done

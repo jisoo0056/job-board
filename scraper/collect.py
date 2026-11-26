@@ -497,7 +497,7 @@ def is_closed(j: dict) -> bool:
     return bool(base) and base < (TODAY - timedelta(days=NO_DEADLINE_DAYS)).isoformat()
 
 
-def send_mail(new_jobs: list[dict], failed: list[str]):
+def send_mail(new_jobs: list[dict], failed: list[str], subject_prefix: str = "[채용 모아보기]"):
     host, user, pw, to = (os.environ.get(k) for k in ("SMTP_HOST", "SMTP_USER", "SMTP_PASS", "MAIL_TO"))
     if not (host and user and pw and to):
         print("메일 설정 없음 → 발송 생략")
@@ -518,7 +518,7 @@ def send_mail(new_jobs: list[dict], failed: list[str]):
             + "".join(rows) + "</table>" + fail
             + (f'<p><a href="{site}">채용 모아보기 사이트 열기</a></p>' if site else "") + "</div>")
     msg = MIMEText(html, "html", "utf-8")
-    msg["Subject"] = f"[채용 모아보기] 새 공고 {len(new_jobs)}건 ({TODAY:%m/%d})"
+    msg["Subject"] = f"{subject_prefix} 새 공고 {len(new_jobs)}건 ({TODAY:%m/%d})"
     msg["From"] = user
     msg["To"] = to
     port = int(os.environ.get("SMTP_PORT", "465"))
