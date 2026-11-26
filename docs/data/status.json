@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-26T11:53+09:00",
+ "updated": "2026-11-26T13:11+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
    "count": 6,
-   "total_api": 565,
+   "total_api": 571,
    "matched": [
     "국악방송",
     "세종학당재단",
@@ -287,7 +287,7 @@
   },
   "수원문화재단": {
    "ok": true,
-   "count": 4,
+   "count": 0,
    "method": "static"
   },
   "우란문화재단": {
