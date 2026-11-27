@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T11:52+09:00",
+ "updated": "2026-11-27T13:18+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -980,7 +980,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -1000,7 +1000,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -1020,7 +1020,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -1040,7 +1040,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -1060,7 +1060,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -1080,7 +1080,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -1102,7 +1102,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -1122,7 +1122,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -1142,7 +1142,7 @@
    "first_seen": "2026-11-12",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -6389,7 +6389,7 @@
    "first_seen": "2026-11-18",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": true
   },
   {
@@ -9597,7 +9597,7 @@
    "first_seen": "2026-11-25",
    "initial": false,
    "detail_checked": 2,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-27",
    "closed": false
   },
   {
@@ -10660,6 +10660,72 @@
    "posted": "2026-11-20",
    "deadline": "2026-11-29",
    "region": "서울 구로구 가마산로25길 9-24 (구로동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-27",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-27",
+   "closed": false
+  },
+  {
+   "id": "84378cea5a43",
+   "company": "인천문화재단",
+   "company_id": "인천문화재단",
+   "group": "공공문화재단",
+   "title": "일반공고 제목 2026 인천아트플랫폼 작가교환 프로그램(호주, 2027년) 참여 예술가 모집 공고 2026-11-26 56 인천아트플랫폼",
+   "url": "https://www.ifac.or.kr/bbs/list.do?key=m2501152808232",
+   "type": null,
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-26",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
+   "first_seen": "2026-11-27",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-27",
+   "closed": false
+  },
+  {
+   "id": "artmore-95867",
+   "company": "예술의전당",
+   "company_id": "예술의전당",
+   "group": "공연장",
+   "title": "예술의전당 음악당.오페라하우스 하우스 어텐던트 2026년 12월 모집 (11/27 ~ 12/8)",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95867",
+   "type": "계약직",
+   "type_detail": "관계없음",
+   "tags": [
+    "하우스안내원"
+   ],
+   "career": "신입",
+   "posted": "2026-11-27",
+   "deadline": "2026-12-08",
+   "region": "서울 서초구 남부순환로 2406 (서초동)",
+   "source": "아트모아",
+   "first_seen": "2026-11-27",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-27",
+   "closed": false
+  },
+  {
+   "id": "artmore-95866",
+   "company": "재단법인 파마리서치문화재단",
+   "company_id": null,
+   "group": "기타 문화예술 기관",
+   "title": "파마리서치문화재단 운영·홍보팀 경력직 채용",
+   "url": "https://www.artmore.kr/sub/recruit/search_view.do?rec_idx=95866",
+   "type": "정규직",
+   "type_detail": "계약직",
+   "tags": [
+    "홍보마케팅"
+   ],
+   "career": "경력",
+   "posted": "2026-11-27",
+   "deadline": null,
+   "region": "경기 성남시 수정구 금토로40번길 22 (금토동)",
    "source": "아트모아",
    "first_seen": "2026-11-27",
    "initial": false,

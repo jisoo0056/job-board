@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-27T11:52+09:00",
+ "updated": "2026-11-27T13:18+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
    "count": 8,
-   "total_api": 580,
+   "total_api": 582,
    "matched": [
     "국악방송",
     "세종학당재단",
@@ -242,7 +242,7 @@
   },
   "경기문화재단": {
    "ok": true,
-   "count": 0,
+   "count": 11,
    "method": "static"
   },
   "부천문화재단": {
@@ -306,8 +306,9 @@
    "method": "static"
   },
   "OD-컴퍼니": {
-   "ok": false,
-   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.odmusical.com/community/carreers\", waiting until \"load\"\n"
+   "ok": true,
+   "count": 0,
+   "method": "static"
   },
   "KBS교향악단-사무국": {
    "ok": true,
@@ -356,7 +357,7 @@
   },
   "씨네21-영화인-JOB-영화제-스태프": {
    "ok": true,
-   "count": 2,
+   "count": 1,
    "method": "static"
   },
   "씽유-대외활동-영화제": {
