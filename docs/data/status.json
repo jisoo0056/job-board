@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-26T13:11+09:00",
+ "updated": "2026-11-27T11:52+09:00",
  "companies": {
   "__alio__": {
    "ok": true,
-   "count": 6,
-   "total_api": 571,
+   "count": 8,
+   "total_api": 580,
    "matched": [
     "국악방송",
     "세종학당재단",
@@ -63,7 +63,7 @@
   },
   "영화진흥위원회": {
    "ok": true,
-   "count": 2,
+   "count": 5,
    "method": "api"
   },
   "한국문화예술회관연합회": {
@@ -138,12 +138,12 @@
   },
   "국악방송": {
    "ok": true,
-   "count": 2,
+   "count": 1,
    "method": "api"
   },
   "아트모아": {
    "ok": true,
-   "count": 230,
+   "count": 229,
    "method": "artmore"
   },
   "LG아트센터": {
@@ -178,7 +178,7 @@
   },
   "구로아트밸리": {
    "ok": true,
-   "count": 4,
+   "count": 2,
    "method": "static"
   },
   "쿼드-대학로": {
@@ -237,12 +237,12 @@
   },
   "인천문화재단": {
    "ok": true,
-   "count": 0,
+   "count": 1,
    "method": "static"
   },
   "경기문화재단": {
    "ok": true,
-   "count": 11,
+   "count": 0,
    "method": "static"
   },
   "부천문화재단": {
@@ -257,7 +257,7 @@
   },
   "서울연구원": {
    "ok": true,
-   "count": 4,
+   "count": 1,
    "method": "browser"
   },
   "인천연구원": {
@@ -287,7 +287,7 @@
   },
   "수원문화재단": {
    "ok": true,
-   "count": 0,
+   "count": 4,
    "method": "static"
   },
   "우란문화재단": {
@@ -306,9 +306,8 @@
    "method": "static"
   },
   "OD-컴퍼니": {
-   "ok": true,
-   "count": 0,
-   "method": "static"
+   "ok": false,
+   "error": "TimeoutError: Page.goto: Timeout 45000ms exceeded.\nCall log:\nnavigating to \"https://www.odmusical.com/community/carreers\", waiting until \"load\"\n"
   },
   "KBS교향악단-사무국": {
    "ok": true,
@@ -407,8 +406,8 @@
   },
   "예술의전당-소식-서포터즈-하우스-어텐던트": {
    "ok": true,
-   "count": 0,
-   "method": "static"
+   "count": 1,
+   "method": "browser"
   },
   "KBS-한국방송공사": {
    "ok": true,
