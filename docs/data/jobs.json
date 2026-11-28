@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T11:43+09:00",
+ "updated": "2026-11-28T12:56+09:00",
  "jobs": [
   {
    "id": "alio-306917",
@@ -11073,6 +11073,26 @@
    "deadline": "2026-12-14",
    "region": "경기도 파주시 심학산로 551",
    "source": "아트모아",
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "detail_checked": false,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "fb7b4ca819e9",
+   "company": "인천문화재단",
+   "company_id": "인천문화재단",
+   "group": "공공문화재단",
+   "title": "일반공고 제목 2026 인천아트플랫폼 작가교환 프로그램(호주, 2027년) 참여 예술가 모집 공고 2026-11-26 89 인천아트플랫폼",
+   "url": "https://www.ifac.or.kr/bbs/list.do?key=m2501152808232",
+   "type": null,
+   "tags": [],
+   "career": null,
+   "posted": "2026-11-26",
+   "deadline": null,
+   "closed_mark": false,
+   "source": "기관 홈페이지",
    "first_seen": "2026-11-28",
    "initial": false,
    "detail_checked": false,

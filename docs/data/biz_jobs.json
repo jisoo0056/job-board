@@ -1,9 +1,9 @@
 {
- "updated": "2026-11-28T11:59+09:00",
+ "updated": "2026-11-28T13:11+09:00",
  "sources": {
   "사람인": {
    "ok": true,
-   "count": 710
+   "count": 938
   },
   "네이버 채용": {
    "ok": true,
@@ -138,7 +138,7 @@
    "initial": true,
    "requirements": "· 고 있어요!]\n· ㆍ4년제 학사 학위를 보유하신 분\n· ㆍ사업 성과를 창출하기 위한 강한 실행력과 커뮤니케이션 역량을 가지고 계신 분\n· ㆍData 분석과 보고서 작성 등 기획에 필요한 기본 역량을 가지고 계신 분\n· ㆍ신입 지원 가능, 전략기획 및 관련 업무(서비스 기획, 사업 개발 등)에서\n· 1년 이상 경력 보유 시 우대\n· ㆍ해외여행에 결격 사유가 없으신 분\n· [이런 경험을 가진 분이라면 더 좋아요!]\n· ㆍData 분석, 시각화 등 IT Tool에 많은 관심과 경험을 가지고 계신 분\n· ㆍAI를 활용한 바이브 코딩을 경험해 보신 분\n· ㆍ기획한 사업·서비스를 실제로 운영하여 성과를 만들어 낸 경험을 가지고 계신 분\n· ㆍ회사 내 다양한 이해관계자와 소통을 통해 성과를 만들어 낸 경험을",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -409,7 +409,37 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55146446",
+   "company": "(주)아톡",
+   "title": "(주 4.5일제 / 격주 금요 유급) 인사총무 팀장 정규직 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55146446",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55146446&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력10년↑",
+   "education": "학력무관",
+   "emp_type": "정규직",
+   "location": "서울 구로구",
+   "deadline": "2026-11-28",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "HR Planning"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": null,
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -439,7 +469,7 @@
    "initial": true,
    "requirements": "· 이런분들과 함께 하고 싶어요\n·  투자검토, 사업성 분석 또는 재무분석 관련 업무를 5년 이상 경험하신 분을 찾아요.\n· 재무모델을 직접 구축하고 수익성·현금흐름·민감도를 분석할 수 있는 분이어야 해요.\n· 재무제표와 회계·세무 업무 전반에 대한 이해가 있으신 분을 희망해요.\n· 분석 결과를 핵심이 잘 드러나는 경영진 보고자료로 정리할 수 있는 분을 찾아요.\n· 사업본부, 회계·세무 담당자 등 유관부서와 원활하게 협업할 수 있는 분이면 좋겠어요.",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -498,8 +528,38 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55151092",
+   "company": "(주)이플",
+   "title": "(주 4.5일제 / 격주 금요 유급) 인사총무 팀장 정규직 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55151092",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55151092&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력10년↑",
+   "education": "학력무관",
+   "emp_type": "정규직",
+   "location": "서울 구로구",
+   "deadline": "2026-11-28",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "HR Planning"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": null,
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -589,7 +649,7 @@
    "initial": true,
    "requirements": "· ㆍ학력 : 학사 이상\n· ㆍ경력 : 신입/경력\n· (경력 보유 시 3년이하)\n· ㆍMS Office 활용 능력 보유자\n· ㆍ자료 취합 및 문서 작성 역량 보유자\n· ㆍ원활한 커뮤니케이션 및 협업 역량 보유자",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -617,9 +677,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 1.  학력 : 초대졸 이상 (전공 무관)\n· 2.  경력 : 무관 (신입/경력)\n· 3.  PPT, Excel, Word 등 문서 작성 능력 보유자\n· 4.  논리적인 사고 및 문제 해결 능력 보유자\n· 5.  원활한 커뮤니케이션 및 협업 능력\n· 6.  새로운 IT 기술 및 시스템에 대한 학습 의지 보유자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -739,7 +799,7 @@
    "initial": true,
    "requirements": "· 경력 3년 이상 ~ 15년 이하\n· 대학교졸업(4년)이상\n·  학사 이상 학위 소유자\n·  FP&A 또는 관리회계/재무회계 유관 경력 3년 이상 ~ 15년 이하\n·  재무제표에 대한 기본 이해 및 데이터 분석 역량을 보유하신 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -767,9 +827,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 무관\n· 대학교졸업(4년)이상",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -1038,9 +1098,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· [신입]\n· 학사 이상의 학력을 보유하고, 재무제표 구조 및 매출·비용·이익·현금흐름의 차이를 이해하며 실무 지식을 꾸준히 학습하시는 분\n· 주요 함수와 피벗테이블을 활용해 여러 자료를 연결·분석하고, 데이터 오차의 원인을 끝까지 찾아 검증하실 수 있는 분\n· ChatGPT 등 생성형 AI에 적절한 맥락과 자료를 입력해 도출된 결과를 검토·보완하여 실제 문제 해결에 적용해 보신 분\n· 낯선 과제 앞에서도 무엇을 확인해야 하는지, 어떤 자료가 부족한지, 누구와 협의해야 하는지를 논리적으로 정리하여 해결의 실마리를 찾으시는 분\n· 숫자·단위·기간·출처를 교차 확인하는 습관을 지니고, 업무 진행 상황과 이슈를 적시에 공유하며 끝까지 완수하시는 분\n· 자격요건 [경력]\n· 유관 경력 2년 이상을 보유하신 분 (M&A, Corporate Finance 등)\n· 정해진 틀 안에서의 단순 실적 마감·운영을 넘어, 백지상태(Zero-base)에서 사업계획과 재무 프레임워크를 직접 설계하고 구축해 보신 분\n· 재무제표에 대한 깊은 이해를 바탕으로 사업 타당성 검토, 손익 시뮬레이션, 파이낸셜 모델링(Financial Modeling)을 직접 수행할 수 있는 분\n· 탄탄한 업무 기본기를 갖추고, 복잡한 숫자와 사업적 맥락을 유관부서 및 경영진에게 명확하고 설득력 있게 전달할 수 있는 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -1161,7 +1221,7 @@
    "initial": true,
    "requirements": "· 고객사가 처한 문제 상황을 분석하고, 그에 맞는 해결책을 스스로 도출해 내실 수 있는 분\r\n· 고객 관점에서 먼저 생각하고, 상대가 어떤 메시지에 설득되는지 고민하시는 분\r\n· 여러 건의 딜과 프로젝트를 동시에 쥐고 우선순위를 정해 처리해 보신 분\r\n· 사내외 이해관계자와 조율하며 일을 끝까지 진척시켜 보신 분\r\n· 반복되는 업무를 AI 도구나 자동화로 줄여 보신 분\r\n· 결과에 대한 오너십이 강하고, 받은 피드백을 빠르게 반영하시는 분",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -1378,38 +1438,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55200071",
-   "company": "(주) 씨나브로코리아",
-   "title": "운영관리 운영기획 경력직 모집",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55200071",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55200071&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력5년↑",
-   "education": "대졸↑",
-   "emp_type": "정규직·계약직",
-   "location": "경기 고양시 덕양구",
-   "deadline": "2026-11-30",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "경영혁신",
-    "PI",
-    "경영전략·경영기획"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-26",
-   "initial": true,
-   "requirements": "· 경력 3년 이상\n· 대졸 (4년)이상\n· 해외여행에 결격 사유가 없는 분, 꼼꼼한 성격, 목표지향적, 책임감, 날카로운 파악력, 창의성을 겸비하신 분, 긍정적 마인드 소지자",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55210357",
    "company": "(주)엔타스",
    "title": "[외식그룹 엔타스] 인사부서 경력직원 채용 (차/부장급)",
@@ -1435,8 +1463,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -1526,7 +1554,7 @@
    "initial": true,
    "requirements": "· 경력 7년 이하 (사원 ~ 대리급, 신입 지원 가능)\n· 대학교졸업(4년)이상\n· 📋 필요역량\n· 재무제표 및 경영실적 분석 역량\n· 상장회사 공시제도 및 관련 규정에 대한 이해\n· 경영진 보고자료 및 대외 발표자료 작성 능력\n· 사업부 등 유관부서와의 협업 및 조정 능력",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -1585,8 +1613,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -1616,7 +1644,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -1766,7 +1794,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -1794,9 +1822,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "·  신입 지원 가능 / 경력 무관\n·  교육기획 및 운영에 관심이 있는 분\n·  MS Office(한글·Excel·PowerPoint 등) 활용이 가능한 분\n·  원활한 커뮤니케이션 가능자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -1852,37 +1880,7 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
-   "closed": false
-  },
-  {
-   "id": "saramin-55228857",
-   "company": "법무법인(유)대륜",
-   "title": "법무법인(유한) 대륜 인사관리팀 부문별 경력직 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55228857",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55228857&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력3년↑",
-   "education": "대졸↑",
-   "emp_type": "정규직·계약직",
-   "location": "서울 서초구",
-   "deadline": null,
-   "always_open": true,
-   "source": "사람인",
-   "jobs": [
-    "DX 컨설팅"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "· 인사관리팀원\n· 경력직 0명\n· 지원자의 경력 및 강점에 따라 담당 부문을 배정하며, 일부 업무는 협업하여 수행합니다.\n· 복수 분야에서 역량을 보유한 경우 우대 적용됩니다.\n· 성과우수자 대상으로 조기 연봉인상, 성과급 , 인센티브 제도를 운영하고 있습니다.\n· 담당업무\n· 1.  HRM / 평가·보상\n· ㆍ인사평가 및 성과관리 운영\n· ㆍ성과급·연봉 등 보상제도 운영\n· ㆍ인사발령 및 조직·인력현황 관리\n· 2.  Payroll / 급여·4대보험\n· ㆍ급여, 수당, 퇴직금 산정 및 관리",
+   "requirements": "· 경력 5년 이상 ~ 10년 이하\n· 학력무관\n·  인사 관련 경력 5년 이상\n·  급여, 근태, 채용 등 인사 운영 전반에 대한 실무 경험을 보유하신 분\n·  근로기준법 등 기본적인 노동관계법령에 대한 이해가 있으신 분\n·  Excel 또는 Google Sheets 등을 활용한 데이터 관리 역량을 보유하신 분\n·  구성원 및 조직책임자와 원활하게 커뮤니케이션할 수 있으신 분\n·  인사정보 및 민감정보를 책임감 있고 정확하게 관리할 수 있으신 분",
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -2004,7 +2002,7 @@
    "initial": true,
    "requirements": "· 경력 5년 이상 ~ 10년 이하\n· 대학졸업(2,3년)이상",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -2087,13 +2085,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 무관 (신입 지원 가능)\n· 학력무관, 졸업 예정자 지원가능\n·  한글(HWP), Excel, PowerPoint 등 OA 활용 가능하신 분\n·  ChatGPT·Claude 등 생성형 AI를 문서작성·자료조사에 활용 가능하신 분\n·  자료를 조사·정리하고 논리적인 문서로 구성할 수 있으신 분\n·  다수 프로젝트의 일정과 서류를 체계적으로 관리할 수 있으신 분\n·  기관·기업 관계자와 원활하게 커뮤니케이션 가능하신 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -2183,7 +2183,7 @@
    "initial": true,
    "requirements": "· 경력 무관\n· 학력무관",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -2261,9 +2261,8 @@
    "always_open": true,
    "source": "사람인",
    "jobs": [
-    "경영혁신",
-    "PI",
-    "경영전략·경영기획"
+    "경영전략·경영기획",
+    "DX 컨설팅"
    ],
    "target": null,
    "target_cat": null,
@@ -2275,7 +2274,7 @@
    "initial": true,
    "requirements": "· 경력 : 경력 7년 이상 (금융, 핀테크, 가상자산 분야에서 3년 이상 보유)\n· 학력 : 대학교졸업(4년)이상\n· 사업기획 또는 전략기획 직무 경험이 있으신 분 (IR, 사업계획, 시장분석 등 실무 경험)\n· 가상자산·블록체인 산업에 대한 기본 높은 이해와 주요 매커니즘 (스테이블코인, 지갑, 거래소, AML/KYC 등)에 대한 전문성을 갖추신 분\n· 금융기관 또는 핀테크 기업과의 협업·제휴 경험이 있으신 분\n· 비즈니스 수준의 문서 작성 능력을 보유하신 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -2363,9 +2362,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 5년 이상 ~ 10년 이하\n· 학력무관\n·  패션/어패럴 분야 기획MD 경력 5년 이상 10년 이하이신 분\n·  연간 상품 기획(OTB 수립)부터 손익/재고 관리까지 브랜드 기획 전 과정을 주도해보신 분\n·  하이엔드 베이직 구성 및 최신 패션 트렌드에 대한 높은 이해도와 감도를 보유하신 분\n·  AI 툴 및 엑셀 활용 능력이 우수하며, 데이터 기반 의사결정이 익숙하신 분\n·  디자인/생산/마케팅 등 다양한 부서와의 원활한 소통 및 리딩 역량을 보유하신 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -2455,7 +2454,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -2514,8 +2513,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -2782,7 +2781,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -2858,8 +2857,8 @@
    "education": "대졸↑",
    "emp_type": "정규직",
    "location": "전남광주 북구",
-   "deadline": "2026-12-15",
-   "always_open": false,
+   "deadline": null,
+   "always_open": true,
    "source": "사람인",
    "jobs": [
     "DX 컨설팅"
@@ -2872,9 +2871,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 무관 (신입 지원 가능)\n· 대학교졸업(4년)이상\n·  운전가능자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -2964,7 +2963,7 @@
    "initial": true,
    "requirements": "· ㆍ학력 : 대학원 석사 이상 혹은 국내 명문대 출신\n· ㆍ경력 : 관련업계 경력 5년이상\n· ㆍ커뮤니케이션 역량 보유자, 발표경험이 풍부하신 분\n· ㆍ회계, 세무관리 지식을 지닌 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3022,9 +3021,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 사업기획, 경영전략, 영업\n· 마케팅 관련 업무 지식, 경험\n· 비즈니스 영어 커뮤니케이션 역량\n· 해외 출장 가능 인력\n· 계열사 겸직 또는 파견 근무 가능 인력",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3084,7 +3083,7 @@
    "initial": true,
    "requirements": "· [테스트 프로세스,TMMi 전문가]\n·  공학 계열 관련 학과 학사 이상 학위 소지자\n·  SW 테스트, QA 경력 7년 이상\n·  테스트 프로세스 수립 경험\n·  TMMi, CMMI, A-SPICE 중 1개 이상 실무 경험\n· [SW 전문 테스터]\n·  공학 계열 관련 학과 학사 이상 학위 소지자\n·  SW 테스트 경력 3년 이상\n·  테스트 기법 기반 TC 설계, 수행 경험\n·  Jira 등 결함 관리 경험",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3174,7 +3173,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3295,7 +3294,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3476,7 +3475,7 @@
    "initial": true,
    "requirements": "· 경력 3년 이상 ~ 10년 이하\n· 대학교졸업(4년) 이상",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3594,9 +3593,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 1. 1인 HR 운영 경험\n· 채용, 온보딩, 근태·연차, 근로계약,",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3716,7 +3715,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3744,9 +3743,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 10년 이상\n· 대학교졸업(4년)이상\n· 경영지원, 재무·회계, 인사·총무 등 관련 경력 10년 이상\n· 중소·중견기업에서 경영지원 업무를 종합적으로 수행한 경험\n· 예산, 자금, 손익 및 경영실적 관리 역량\n· 인사·노무 관련 법규 및 실무에 대한 이해\n· 관리직으로서 직접 실무 수행이 가능한 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3807,7 +3806,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3837,7 +3836,7 @@
    "initial": true,
    "requirements": "· 관련 경력 3년~5년\n· 또는 이에 준하는 실무 경험을 보유하신 분\n· 정부지원사업 또는 국가 R&D 과제의 기획·제안·수행관리 경험이 있으신 분\n· 한글, PowerPoint, Excel 등을 활용한 사업계획서 및 보고자료 작성 역량이 우수하신 분\n· 기술적 내용을 이해하고 사업 목적과 평가 기준에 맞춰 논리적으로 구조화하는 역량을 갖추신 분\n· 유관 부서와 협업하며 일정과 산출물을 주도적으로 관리하는 역량을 보유하신 분\n· ⭐ 4. 이런 경험이 있다면 더욱 좋습니다 (",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3871,38 +3870,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55363937",
-   "company": "(주)세미티에스",
-   "title": "기획/영업/개발(SW/HW)/기술(PM)/고객지원(CS)/QA/재무 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55363937",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55363937&rec_seq=0",
-   "career": "신입 가능",
-   "career_detail": "신입·경력",
-   "education": "초대졸↑",
-   "emp_type": "정규직·계약직",
-   "location": "경기 용인시 기흥구",
-   "deadline": "2026-11-30",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "경영혁신",
-    "PI",
-    "경영전략·경영기획"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-26",
-   "initial": true,
-   "requirements": null,
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55364097",
    "company": "티엔에이치(주)",
    "title": "티엔에이치(주)에서 인사담당자를 모시고 있어요",
@@ -3928,8 +3895,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -3957,9 +3924,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 실무형 인사총무팀장\n· (근무지 : 본사 서울 사무실)\n· 담당업무\n· 1. 인사(GHR) 실무 및 제도 운영\n· 급여(Payroll) 정산, 4대보험 관리 및 원천징수 등 인사\n· 급여 행정 전반 직접 총괄 및 수행\n· 채용 프로세스(서류 검토, 면접 조율, 처우 협의 등) 실무 리딩 및 온보딩 운영\n· 인사 평가, 보상, 승진 프로세스 기획 및 운영 관리\n· 근로기준법 및 노동관계법령 준수 모니터링, 각종 계약서 및 인사이트 문서 관리\n· 업무규정 및",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -4073,13 +4040,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -4109,7 +4078,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -4234,37 +4203,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55388483",
-   "company": "(주)시월기획",
-   "title": "[시월기획]HR담당 경력직 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55388483",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55388483&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 5~10년",
-   "education": "학력무관",
-   "emp_type": "계약직",
-   "location": "세종특별자치시",
-   "deadline": null,
-   "always_open": true,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning",
-    "DX 컨설팅"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "· 경력 5년 이상 ~ 10년 이하\n· 학력무관\n·  HR 관련 경력 5년 이상\n·  평가·KPI 또는 보상제도를 직접 기획·운영·개선해 본 경험\n·  노동관계법 및 인사 운영 실무에 대한 이해\n·  데이터를 기반으로 문제를 구조화하고 우선순위를 판단할 수 있는 분\n·  팀장·경영진 등 다양한 이해관계자와 소통하고 설득해 본 경험",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55388714",
    "company": "인바이오(주)",
    "title": "인바이오(주) 전략기획팀 경력직 모집",
@@ -4320,8 +4258,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -4441,7 +4379,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -4535,36 +4473,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55394206",
-   "company": "아남전자(주)",
-   "title": "아남전자(주) 총무팀 인사담당자 경력 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55394206",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55394206&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 10~15년",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "서울 구로구",
-   "deadline": "2026-12-25",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-28",
-   "initial": false,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55394391",
    "company": "주식회사 세나클",
    "title": "[네이버계열사]영업전략기획",
@@ -4621,7 +4529,7 @@
    "initial": true,
    "requirements": "· ㆍ경영기획, 재무기획, IR 등 유관업무 경력 보유\n· ㆍ재무제표 및 주요 재무지표에 대한 기본적인 이해\n· ㆍ논리적 사고를 바탕으로 한 자료 분석 및 문제해결 역량\n· ㆍ 다양한 경영이슈에 대한 신속한 이해 및 핵심내용 정리 능력\n· ㆍ Excel 및 PowerPoint 활용 역량 우수자\n· ㆍ 경영진 보고자료 및 기획문서 작성 역량",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -4887,7 +4795,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -5367,7 +5275,7 @@
    "initial": true,
    "requirements": "· 경력 무관 (신입 지원 가능)\n· 고등학교졸업이상",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -5582,36 +5490,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55427591",
-   "company": "(주)맨파워그룹코리아",
-   "title": "[서울역/6M] 글로벌 반도체 소재 기업 HR Specialist",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55427591",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55427591&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력3년↑",
-   "education": "대졸↑",
-   "emp_type": "파견직",
-   "location": "서울 중구",
-   "deadline": null,
-   "always_open": true,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": null,
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55427795",
    "company": "(주)뉴로코어",
    "title": "병역특례(전문연구요원) 채용 - SCM PI/모델링",
@@ -5638,7 +5516,7 @@
    "initial": true,
    "requirements": "· 경력 무관 (신입 지원 가능)\n· 전문연구요원 대상자\n· 이공계 석사 이상\n· 졸업 예정자 지원가능\n· ), 병역 미필자\n· 산업 공학\n· 컴퓨터 공학, 인공지능 및 유관 전공\n· , 통계학",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -5874,7 +5752,7 @@
    "initial": true,
    "requirements": "· 이런 인재를 찾아요 !\n· ▪ 경력\n· 5년 이상~ (경영관리 및 손익관리 경력)\n· ▪ 학력 : 대학졸업(4년) 이상\n· 무회계 및 관리회계에 대한 기본 지식 보유\n·  관리회계 관점의 손익 분석 및 수익성 분석 능력\n·  MS Office(Excel, PowerPoint 등) 활용 능력",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -6091,6 +5969,36 @@
    "closed": false
   },
   {
+   "id": "saramin-55430935",
+   "company": "재영솔루텍(주)",
+   "title": "[경영지원실] 인사총무 담당자",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55430935",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55430935&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력3년↑",
+   "education": "대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 서초구",
+   "deadline": "2026-11-30",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "HR Planning"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "· 학사 이상(경영학 관련 전공자)\n· 경력 3년 이상\n· Microsoft Excel, Power Point 사용 숙련자\n· 근로기준법에 대한 이해도 높은 자\n· 원만한 커뮤니케이션 능력 보유자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
    "id": "saramin-55434409",
    "company": "쿠팡풀필먼트서비스(유)",
    "title": "[쿠팡CFS] 물류 프로세스 혁신 책임자 (Inbound Procces)",
@@ -6117,7 +6025,7 @@
    "initial": true,
    "requirements": "· 담당 업무\n· 자격요건 및",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -6165,6 +6073,7 @@
    "always_open": false,
    "source": "사람인",
    "jobs": [
+    "HR Planning",
     "DX 컨설팅"
    ],
    "target": null,
@@ -6199,13 +6108,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ채용 프로세스 (Full Cycle) 이해도가 있는 분\n· ㆍ서치펌/헤드헌터 혹은 다이렉트 소싱 경험\n· ㆍ온라인 커머스 인사관리 경험이 있으신 분\n· ㆍ신뢰를 구축할 수 있는 커뮤니케이션 스킬을 가지신 분\n· ㆍ주도적으로 문제를 분석하고 해결하는 자세와 역량을 갖추신 분\n· ㆍ디테일한 부분까지 꼼꼼하게 업무를 수행할 수 있는 분\n· [지원 전 확인해주세요!]\n· ㆍHR 파트 구성원은 총 3명이며, 사세확장 추가 채용 건입니다.\n· ㆍ구성원 목표\n· 파트 합류 시 , 속도감 있는 대규모 인원 채용 및 인사 프로세스 0 to 1 시스템 정립 경험 가능합니다.\n· 글로벌 시장 확장으로 인해 영어 가능자 우대 중 입니다.",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -6325,7 +6236,7 @@
    "initial": true,
    "requirements": "· 비영리법인 회계·세무·총무 업무 경력 2년 이상이신 분\n· 숫자의 흐름을 읽고, 매출과 비용 구조를 분석해 보신 분\n· 더존 위하고(WEHAGO) 프로그램 사용이 능숙하신 분\n· 반복되는 백오피스 업무를 자동화하거나 AI 도구를 활용해 효율적으로 최적화해 본 경험이 있으신 분\n· 빠른 업무 온보딩을 통해 즉시 출근이 가능하신 분\n· 우대조건",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -6475,7 +6386,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -6505,7 +6416,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -6535,7 +6446,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -6686,7 +6597,7 @@
    "initial": true,
    "requirements": "· ㆍISP, PI, BPR, 정보화 컨설팅 등 관련 업무 경력\n· 2년 이상\n· ㆍ고객 인터뷰 및 요구사항 분석 경험\n· ㆍ업무 프로세스를 논리적으로 구조화할 수 있는 역량\n· ㆍ보고서, 제안서, 업무분석 자료 작성 역량\n· ㆍ새로운 산업 및 업무영역을 빠르게 이해할 수 있는 분",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -6897,7 +6808,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7105,7 +7016,7 @@
    "initial": true,
    "requirements": "·  경력: 1년 이상 ~ 15년 이하\n·  학력: 무관\n·  자격요건\n· a. 디지털전환, 경영기획, IT 전략, 프로세스 혁신 분야 경력 1년 이상\n· b. AI 활용 역량: 생성형 AI 모델의 특성을 이해하고, 이를 비즈니스 업무에 접목하여 성과를 낸 경험 보유\n· c. 기획능력: 복잡한 업무 프로세스를 단순화하여 설계하고, 이를 데이터나 AI로 자동화하는 로직의 설계 가능\n· d. 소통능력: 현장의 목소리를 기술 언어로 바꾸고, 새로운 기술 도입에 대한 현업의 변화를 이끌어 낼 수 있는\n· 추진력과 친화력을 갖춘 분",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7135,7 +7046,7 @@
    "initial": true,
    "requirements": "· ㆍ학사 이상\n· ㆍ신입 또는 HR 관련 경력 2년 이하\n· ㆍ경영·심리·교육·인사 관련 전공 / IT 전공\n· ㆍHR 분야에 대한 관심과 성장 의지를 보유한 분\n· ㆍ원활한 문서 작성 및 커뮤니케이션 역량을 보유한 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7225,7 +7136,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7374,8 +7285,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7435,7 +7346,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7614,8 +7525,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7705,7 +7616,7 @@
    "initial": true,
    "requirements": "· 경력 3년 이상 ~ 10년 이하\n· 대학교졸업(4년)이상\n·  상경계열 전공자\n·  IR/공시 담당 경력 3년 이상자\n·  Data 분석 및 MS Office 활용 역량 보유자",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7734,8 +7645,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7765,7 +7676,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7825,7 +7736,7 @@
    "initial": true,
    "requirements": "· 경영기획 업무 경력 5년 이상\r\n· 밝고 긍정적이며, 성실하고 책임감 강하신 분\r\n· 커뮤니케이션에 능숙하고 협업에 유연하여 주변 동료들과 원만한 관계를 유지하고 계신 분\r\n· MS Office 능숙하게 다루시는 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -7855,7 +7766,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8125,7 +8036,7 @@
    "initial": true,
    "requirements": "·  학력 : 대졸 이상\n·  경력 : 5년 이상\n·  IT/AX 기본 지식 보유",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8275,7 +8186,7 @@
    "initial": true,
    "requirements": "· ㆍ학력 : 대졸 4년 이상\n· ㆍ경력 : 12년 ~ 18년\n· ㆍ경영기획 / 전략 / 관리회계 경력 10년 이상\n· ㆍ경영진 보고 / 임원 커뮤니케이션 경험",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8325,13 +8236,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8421,7 +8334,7 @@
    "initial": true,
    "requirements": "· 경력 무관 (신입 지원 가능)\n· 대학교졸업(4년)이상",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8443,13 +8356,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 5년 이상 ~ 15년 이하\n· 대학교졸업(4년)이상\n· ◎ 어학 능력: 한국어 및 중국어 비즈니스 유창자 (필수)\n· ◎ 경력 연차: HR(인사) 실무 경력 5년 이상 (단독 업무 수행 가능하신 분)\n· ◎ 대만 본사와 업무 논의, 규정 제정 및 적용을 독립적으로 원활히 진행할 수 있는 수준\n· ◎ 양국어 구사 능력을 바탕으로 본사와 한국 법인 간의 가교 역할을 수행할 수 있는 분\n· ◎ 컴퓨터 활용 능력: 오피스 프로그램 능숙자 (본사 ERP 시스템 적응력 우수자 우대)",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8497,7 +8412,8 @@
    "always_open": false,
    "source": "사람인",
    "jobs": [
-    "경영전략·경영기획"
+    "경영전략·경영기획",
+    "DX 컨설팅"
    ],
    "target": null,
    "target_cat": null,
@@ -8537,9 +8453,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ경력 3년 이상\n· ㆍ채용 · 평가 · 보상 중 두 개 이상 영역에서 제도를 직접 설계하고 운영해 보신 분\n· ㆍGoogle Workspace · flex · Slack · Notion 등 협업 · 관리 솔루션 활용에 능숙하신 분\n· ㆍ근태 · 급여 등 숫자가 맞아야 하는 업무를 꼼꼼하게 처리하실 수 있는 분\n· ㆍ정해진 틀이 없는 상황에서 체계를 만들어 가는 과정을 즐기실 수 있는 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8569,7 +8485,7 @@
    "initial": true,
    "requirements": "· 경력 (연수 무관)\n· 대학교졸업(4년)이상\n·  Synthesis 실무 경험\n·  Block 또는 Top-level Implementation 경험\n·  SDC/STA, Formal Verification, Low Power (UPF) 경험\n·  Timing/Power Optimization 이해\n·  STA/SDC, Low Power 설계 이해\n·  SoC 설계 Flow 이해\n·  Script 활용 가능 하신 분\n·  유관 분야 경력 3년 이상",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8599,7 +8515,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8657,39 +8573,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
-   "closed": false
-  },
-  {
-   "id": "saramin-55478190",
-   "company": "(주)팬딩",
-   "title": "인사운영 담당자",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55478190",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55478190&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 3~7년",
-   "education": "고졸↑",
-   "emp_type": "정규직",
-   "location": "서울 강남구",
-   "deadline": "2026-12-03",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-27",
+   "requirements": "· 경력 무관 (신입 지원 가능)\n· 대학교졸업(4년)이상",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8809,7 +8695,7 @@
    "initial": true,
    "requirements": "· 기업 대상 영업, 고객관리, 사업개발 또는 사업운영 관련 업무 경험\n· 기업 담당자와 원활하게 소통하고 고객 요청사항을 책임감 있게 처리할 수 있는 분\n· 업무지시를 정확하게 이해하고 실행계획 수립부터 결과 보고까지 수행할 수 있는 분\n· 엑셀·파워포인트 등 기본적인 문서작성 및 업무도구 활용 능력\n· 고객사 방문 및 외근이 가능한 분",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -8897,9 +8783,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 8년 이상\n· 대학졸업(2,3년)이상\n·  급여·4대보험·원천세·연말정산 독립 수행 경험\n·  퇴직연금(DB/DC) 운영 또는 퇴직급여 실무 경험\n·  노동관계법령 이해 및 엑셀(함수·피벗) 활용 능력\n·  수도권 내 근무지 조정에 유연하게 대응 가능한 분\n· (사업장 운영 여건에 따라 서울 동남권 등 수도권 내 근무지 조정 가능)\n·  즉시 입사 가능자로 입사 일정 협의 가능한 분 (경력직 특성상 인수인계 일정 고려)",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9016,8 +8902,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9048,7 +8934,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9108,7 +8994,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9198,7 +9084,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9318,7 +9204,7 @@
    "initial": true,
    "requirements": "· ㆍ경영학 또는 약학, 화학, 생명과학 등 바이오/제약 관련 전공자\n· ㆍ학사 이상 + 경력 2~3년 이하\n· 직무 설명\n· Job Position\n· ㆍ시장·산업 분석 및 인사이트 도출\n· ㆍ사업 전략 및 포지셔닝 수립\n· ㆍ글로벌 사업개발 및 수주 확대\n· ㆍ고객 및 KOL 네트워크 관리\n· ㆍ대외 커뮤니케이션 및 브랜드 구축\n· 담당업무\n· Description\n· ㆍ제약ㆍ바이오 산업 및 CRO 시장 동향 조사ㆍ분석",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9346,9 +9232,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ해당 직무 경력 10년 이상\n· ㆍ인사 전반에 대한 깊은 이해와 실무 경험 보유자\n· ㆍ팀장급 이상 관리직 경험자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9410,7 +9296,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9432,13 +9318,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 모집부문\n· 업무내용\n· 자격요건 및",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9466,9 +9354,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ기업의 비즈니스 모델 및 업무 프로세스에 대한 관심과 고객사가 보유한 문제를 해결해주는 능력\n· ㆍ고객업무 및 요구사항을 잘 이해하고, 우리가 하고자 하는 바를 고객에게 설명할 수 있는\n· 커뮤니케이션 능력\n· ㆍ본인이 이해한 바를 고객 및 팀원에게 잘 전달할 수 있도록 구조화하고 문서화 하는 능력\n· ㆍ대부분의 솔루션 자료가 영어로 제공되므로, 영어 독해 능력 필수, 영어 회화 가능자 우대\n· 성장경로\n· ㆍ프로젝트 경험을 기반으로 시니어 컨설턴트로 성장 가능\n· ㆍ장기적으로 프로젝트 매니저(PM), 비즈니스 컨설턴트 등 상위 역할 수행 가능\n· 자격요건\n· ㆍ학사 이상 학력 보유자\n· ㆍ영어 능력 : TOEIC 700점 이상 또는 이에 준하는 영어 실무 역량\n· ㆍ해외 여행의 결격 사유가 없는 자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9558,7 +9446,7 @@
    "initial": true,
    "requirements": "· 경력 무관 (신입 지원 가능)\n· 학력무관",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9580,13 +9468,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9644,9 +9534,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 6.1.  학력 : 초대졸 이상 (전공 무관)\n· 6.2.  경력 : 무관 (신입/경력)\n· 6.3.  PPT, Excel, Word 등 문서 작성 능력 보유자\n· 6.4.  논리적인 사고 및 문제 해결 능력 보유자\n· 6.5.  원활한 커뮤니케이션 및 협업 능력\n· 6.6.  새로운 IT 기술 및 시스템에 대한 학습 의지 보유자\n· 7.     ",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9676,7 +9566,7 @@
    "initial": true,
    "requirements": "· ㆍ학력 : 대졸이상\n· ㆍ경력 : 3년 미만",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9734,9 +9624,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· Data 기반의 기획 및 문제해결 역량\n· 엑셀 및 파워포인트 능숙자\n· 300인 이상 기업 경력자(500인 이상 사업장 경험자 우대)\n· 평가 보상 full Cycle 운영 경험자(최소 3년)\n· 근로기준법 등 노동관계법에 대한 전반적 이해를 갖춘 자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9766,7 +9656,7 @@
    "initial": true,
    "requirements": "· 컴퓨터공학, 산업공학, 통계학 등 데이터 및 자동화 관련 전공 학위를 보유하신 분\n· SQL·Tableau 등을 활용한 데이터 처리 및 시각화 역량, 또는 이에 준하는 관련 자격증을 보유하신 분\n· Python 등 프로그래밍 기본기와 함께 Claude Code·Devin 등 AI 도구를 적극 활용해 개발 및 업무 자동화를 주도할 수 있는 분\n· 명확하고 꼼꼼하게 커뮤니케이션할 수 있는 분\n· 새로운 도구·업무 방식을 빠르게 습득하는 학습 능력을 갖추신 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9796,7 +9686,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9916,7 +9806,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9944,9 +9834,9 @@
    "intern": false,
    "first_seen": "2026-11-27",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-27",
+   "requirements": "· ㆍ경력 20년 이상\n· ㆍ대학졸업(2,3년)이상\n· ㆍ엘리베이터 경력 20년 이상 (필수)\n· ㆍ제조업 또는 건설/설비 산업 경험\n· ㆍ경영기획 또는 조직관리 경험(팀장급 이상)",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -9976,7 +9866,7 @@
    "initial": true,
    "requirements": "· 경영기획/전략기획/경영관리 경력 13년 이상\n· 학사 이상\n· 사업계획 수립 및 경영관리 경험 보유\n· 재무 및 손익 분석에 대한 이해\n· 경영진 보고 및 전략 문서 작성 능력\n· 조직 간 협업 및 프로젝트 관리 경험\n· 📋 우대조건\n· 전략기획 및 사업계획 수립 경험 보유자\n· 제조/의료기기/덴탈 산업 경험\n· 손익 및 예산 관리 경험 보유자\n· 영어 커뮤니케이션 가능자\n· 대기업 근무 경험자 우대",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10035,8 +9925,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10126,7 +10016,7 @@
    "initial": true,
    "requirements": "· 영어 업무 커뮤니케이션 가능자  (해외법인과 회의)\n· ㆍ 사업계획 수립 및 실적 분석 경험자\n· ㆍ학력 : 대졸이상\n· ㆍ경력 : 경영기획 , 경영관리, 예산관리 관련 업무  경력7년↑",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10156,7 +10046,7 @@
    "initial": true,
    "requirements": "· 모집부문\n· 상세내용\n· POS 프로세스 혁신 및\n· 프로젝트 담당자 (차장)\n· [주요 업무]\n· ㆍ계약관리 프로세스 개선\n· 계약 체결 이후(청약 후~만기/해지) 배서, 만기, 해지 등 계약 생애주기(Life Cycle)전반의\n· 업무 흐름 분석 및 병목 구간 개선\n· ㆍ계약관리 업무 자동화 과제 발굴을 통한 업무 효율화 추진\n· 매뉴얼 업무의 디지털/시스템 자동화(RPA, AI) 과제 발굴 및 실행\n· ㆍ계약관리 비용 효율화\n· 페이퍼리스(Paperless) 환경 구축 및 모바일/디지털 채널 안내 전환율 극대화를 통한",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10216,7 +10106,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10305,8 +10195,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10388,13 +10278,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· [이런 분과 함께하고 싶어요]\n· ㆍ사업 데이터 기획, 분석, 운영 또는 관련 실무 경험이 있으신 분\n· ㆍ여러 채널과 시스템에 흩어진 데이터를 일관된 기준으로 구조화하고 관리할 수 있는 분\n· ㆍExcel, Google 스프레드시트, BI 도구, SQL 등 데이터 분석 & 관리 도구를 활용하여 데이터 간 차이와\n· 오류 원인을 분석할 수 있는 분\n· ㆍ유관부서와 소통하며 데이터 기준을 조율하고, 업무의 문제를 구체적인 개선 과제로 연결할 수 있는 분\n· ㆍAI 및 자동화 도구로 업무에 필요한 기능을 직접 구현하고 결과의 정확성을 검증할 수 있는 분\n· 지원 시 포트폴리오를 필수로 제출해 주시기 바랍니다.",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10514,7 +10406,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10542,9 +10434,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 10년 이상 ~ 15년 이하\n· 대학교졸업(4년)이상",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10573,8 +10465,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10632,9 +10524,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ경력 8년 이상\n· ㆍ대학졸업(2,3년)이상\n· ㆍ급여·4대보험·원천세·연말정산 독립 수행 경험\n· ㆍ퇴직연금(DB/DC) 운영 또는 퇴직급여 실무 경험\n· ㆍ노동관계법령 이해 및 엑셀(함수·피벗) 활용 능력\n· 수도권 내 근무지 조정에 유연하게 대응 가능한 분\n· (사업장 운영 여건에 따라 서울 동남권 등 수도권 내 근무지 조정 가능)\n· 즉시 입사 가능자로 입사 일정 협의 가능한 분 (경력직 특성상 인수인계 일정 고려)",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10725,7 +10617,7 @@
    "initial": true,
    "requirements": "· ㆍIT 서비스 관리(ITSM/SI/SM) 프로젝트 수행 또는 운영 관리 경력 7년 이상 12년 이하\n· ㆍ대내외 SLA(서비스 수준 계약) 지표 수립, 체결 및 관리 프로세스를\n· 주도적으로 리드해 본 경험자\n· ㆍITIL 프레임워크 및 IT 프로세스 혁신(PI)에 대한 깊은 이해가 있는 자\n· ㆍ다수의 이해관계자(고객사 현업, 경영진, 개발자) 간의 이해관계를 조율할 수 있는\n· 커뮤니케이션 및 문서화(보고서 작성) 능력\n· ㆍ해외여행 결격사유가 없는 자",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -10877,7 +10769,7 @@
    "initial": true,
    "requirements": "· 고 있어요\n· 경력 무관 (신입 지원 가능)\n· 컴퓨터공학, 소프트웨어, 인공지능, 데이터사이언스 관련 전공 (2·3년제 포함, 졸업예정자 지원 가능)\n· Python으로 직접 프로젝트를 개발해 본 분\n· 자료구조와 알고리즘 기초가 탄탄한 분\n· AI 도구를 활용해 개발하고, 그 결과를 스스로 검증할 수 있는 분\n· 무엇을 만드는지보다 왜 만드는지를 먼저 설명할 수 있는 분\n· 제조 현장에 직접 가서 문제를 이해하고 해결하는 분\n· 신발 산업을 몰라도, 새로운 분야를 빠르게 이해하고 제품에 적용할 수 있는 분\n· 자기 의견을 분명히 말하면서도 다른 의견에 열려 있는 분\n· 사용자 입장에서 결과물의 가치를 판단할 수 있는 분\n· ✨ 이런 경험이 있다면 더 좋아요",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -11175,9 +11067,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ3PL 또는 물류센터 현장 시스템 운영/컨설팅 업무 경험 5년 이상\n· ㆍOM, WM, TM 기획 및 시스템 설계 경험이 있으신 분\n· ㆍ물류 시스템 전략 수립 프로젝트 수행 경험이 있으신 분\n· ㆍMS-Office 활용 및 원활한 의사소통 능력을 갖추신 분\n· ㆍ최신 물류 IT 기술 트렌드에 대한 높은 관심과 이해도를 보유하신 분\n· ㆍ해외 출장 가능자, 운전면허 소지자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -11295,7 +11187,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -11385,7 +11277,7 @@
    "initial": true,
    "requirements": "· 경력 8년 이상\n· 대학교졸업(4년)이상\n·  제조업 경영기획 및 관리업무 경력자",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -11415,7 +11307,7 @@
    "initial": true,
    "requirements": "· 경력 5년 이상\n· 대학교졸업(4년)이상\n·  제조업 원가 및 사업운영관리 경력자",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -11535,7 +11427,7 @@
    "initial": true,
    "requirements": "· 학력 : 초대졸(2년제) 이상\n· 경력 : 10년 이상(MES 개발/운영 및 IT 인프라 관리 경력必)\n· 핵심 역량\n· MES/ERP 등 제조 시스템 개발·운영에 대한 깊은 이해도\n· 데이터베이스(SQL 등)활용 및 인프라(서버/네트워크) 구축·운영 역량\n· 해외 법인과의 원활한 소통 및 리더십·매니지먼트 역량",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -11626,7 +11518,7 @@
    "initial": true,
    "requirements": "· 신입 지원 가능\n· 학력 무관\n· 문서 작성 능력 보유자\n· (한글, PowerPoint 활용 가능자)\n· 커뮤니케이션 및 협업이 원활한 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -11654,9 +11546,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 인사(HR) 관련 경력\n· 10년 이상\n· 평가·보상체계 기획 및 운영 경력\n· 5년 이상\n· IT 업계 근무 경력\n· 5년 이상\n· IT 직무 특성 및 성과관리 체계에 대한 높은 이해도 보유자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -11953,9 +11845,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 3년 이상 ~ 7년 이하\n· 대학교졸업(4년)이상",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12015,7 +11907,7 @@
    "initial": true,
    "requirements": "· 경력 5년 이상\n· 대학교졸업(4년)이상\n·  해운·물류·트레이딩 등 관련 산업 경력 5~10년 보유하신 분\n·  해운·물류 사업구조 및 시장에 대한 이해를 갖춘 분\n·  사업성·재무·리스크 분석 및 보고서 작성 역량을 갖춘 분\n·  복잡한 경영 현안을 논리적으로 분석하고 실질적인 대안을 제시할 수 있는 분\n·  영어 자료 분석 및 비즈니스 커뮤니케이션이 가능한 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12134,9 +12026,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 10년 이상 페이롤 및 인사 업무 경험\n·  노동법 등 관련 법류 이해도가 높으신 분\n·  과장 / 차장 직급\n·  원활한 대인관계 및 커뮤니케이션 능력을 갖추신 분\n·  MS OFFICE",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12195,36 +12087,6 @@
    "first_seen": "2026-11-27",
    "initial": false,
    "requirements": "· 경력 8년 이상 ~ 12년 이하\n·  전략기획/사업기획/PMO 등 관련분야 경력 8년 이상 ~ 12년 이하\n·  End-to-End 프로젝트 리딩 경험\n·  전사 cross-functional 팀 협력 경험자\n·  디지털 서비스/플랫폼 산업의 데이터 기반 의사결정 경험 보유자\n·  계약 및 분쟁·이슈 대응 경험 보유자 (법무·계약관리·소송 지원 포함)\n·  학사 학위 이상",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
-   "id": "saramin-55524091",
-   "company": "(주)와이어트",
-   "title": "HR 평가/보상 담당자",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55524091",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55524091&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 3~6년",
-   "education": "고졸↑",
-   "emp_type": "정규직",
-   "location": "서울 강남구",
-   "deadline": "2026-12-08",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "· ㆍ3년 이상의 평가/보상 실무 경력이 있으신 분\n· ㆍ성과평가 또는 보상 프로세스를 직접 운영해 본 경험이 있으신 분\n· ㆍ인원 및 인건비 데이터 정리 및 분석 능력을 보유하신 분\n· ㆍ현업 부서 및 경영진과 원활하게 소통하고 협업할 수 있는 역량을 갖추신 분",
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -12316,7 +12178,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12407,7 +12269,7 @@
    "initial": true,
    "requirements": "· [필수 사항]\n· Scripting (shell, tcl, perl, phython, etc.)\n· Version Control system (Git, CVS, ClearCase, Perforce, etc.)\n· Bus protocol (AMBA, NoC etc)",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12437,7 +12299,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12645,9 +12507,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 인사·노무 관련 업무 경력 10년 이상\n· 기업 인사팀 관리자 또는 인사 총괄 업무 경험자\n· 인사·노무·급여·4대보험 등 HR 전반에 대한 실무 이해도가 높은 분\n· 노동관계법령 및 인사 관련 법률에 대한 이해와 실무 적용 능력을 갖춘 분\n· 원천세 신고 및 연말정산 업무 수행 경험이 있는 분\n· 인사 관련 업무를 주도적으로 수행하고 문제 해결이 가능한 분\n· 조직 내 원활한 커뮤니케이션 및 협업 능력을 갖춘 분\n· [필수조건]\n· 임직원 근태관리 및 연차·휴가 관리 실무 경험\n· 급여 및 퇴직금 산정·지급 업무 실무 경험\n· 원천세 신고 및 연말정산 업무 실무 경험\n· 4대보험 취득·상실 및 관련 신고 업무 경험",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12707,7 +12569,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12738,7 +12600,7 @@
    "initial": true,
    "requirements": "· 습니다 (자격요건)\n· IT계열 학과 졸업자 / 경력 0~3년 (신입 지원 환영)\n· ChatGPT, Claude 등 생성형 AI를 업무에 실제로 써본 경험과 그 작동 원리에 대한 기본 이해\n· 엑셀 초급 이상\n· 모르는 업무를 사람에게 적극적으로 물어보고, 듣고, 글로 정리할 수 있는 분 (AI사용 정리)\n· 서울 본사(성수동 소재) 상주 근무 가능한 분\n· ■ 이런 경험이 있다면 더 좋습니다 (",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12828,9 +12690,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ학력 : 전문대졸 이상(상경계열, 회계/세무 관련 전공자 우대)\n· 경영지원\n· 인사총무 1명\n· 담당업무\n· [ 인사관리 및 인사제도 운영 ]\n· 채용 계획\n· 수립 및 채용 프로세스 전반 관리\n· 인사평가\n· 및 성과관리 제도 운영·개선\n· 직급·직책·승진·보상\n· 및 연봉관리\n· 근태, 휴가, 휴직 등 인사 운영 및 관리",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12892,7 +12754,7 @@
    "initial": true,
    "requirements": "· 경력 무관 (신입 지원 가능)\n· 학력무관",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -12910,8 +12772,6 @@
    "always_open": false,
    "source": "사람인",
    "jobs": [
-    "경영혁신",
-    "PI",
     "경영전략·경영기획"
    ],
    "target": null,
@@ -13045,7 +12905,7 @@
    "initial": true,
    "requirements": "·  관련 경력 8년 이상\n·  상장사 또는 상장 준비 기업(Pre-IPO) 재무/회계 총괄 경험 위주\n·  K-IFRS 기준 결산 및 외부 감사 수감 경험 보유자",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -13075,7 +12935,7 @@
    "initial": true,
    "requirements": "·  경영기획, 사업관리, 국가R&D 공공사업 관리 중 하나 이상 분야\n· 경력 5년 이상\n· 이신 분\n·  국가연구개발과제 또는 공공 용역사업의 사업비 관리•정산•감사 대응 실무 경험이 있는 분\n·  사업계획•예산 수립 및 재무 현황 분석이 가능하신 분\n·  팀 리딩 또는 조직 운영 경험이 있는 분\n·  대내외 이해관계자와 원활하게 협의할 수 있는 커뮤니케이션 역량을 갖춘 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -13374,8 +13234,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -13405,7 +13265,7 @@
    "initial": true,
    "requirements": "· 경력 5년 이상 ~ 10년 이하\n· 대학교졸업(4년)이상",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -13902,8 +13762,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -13963,7 +13823,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -14412,36 +14272,6 @@
    "closed": true
   },
   {
-   "id": "saramin-55547480",
-   "company": "(주)비케이브",
-   "title": "[비케이브] 인사실 인사관리(Payroll) 경력채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55547480",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55547480&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 3~8년",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "서울 마포구",
-   "deadline": "2026-12-11",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": null,
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55547709",
    "company": "(주)비카인드크리에이티브",
    "title": "[BKIND 2027년 첫번째 채용공고] - BTL마케팅 전략기획팀",
@@ -14682,7 +14512,7 @@
   },
   {
    "id": "saramin-55551971",
-   "company": "현대오토에버 (주)",
+   "company": "현대오토에버(주)",
    "title": "[공통] HRM - HR 전략/제도 기획",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55551971",
    "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55551971&rec_seq=0",
@@ -14797,7 +14627,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -14887,7 +14717,7 @@
    "initial": true,
    "requirements": "· ㆍ경력 : 프로젝트 단독 리딩 및 실무 수행이 가능한\n· 경력 3년 이상 ~ 15년 이하\n· ㆍ근무지 : 서울 강남, 서울 가산, 울산, 대구, 창원 중 선택 (후보자 선호에 따라 최종 근무지 논의 가능)\n· ㆍ전문성 : 아래 두 가지 트랙 중 하나 이상의 확실한 전문성을 보유하신 분\n· [Track A. AI / 대형 SI 프로젝트 배경]\n· 대기업 SI사 또는 주요 협력사에서 PM/PL로서 프로젝트를 리딩하며 최종 딜리버리까지\n· 완수해 본 경험\n· 다양한 이해관계자 사이에서 요구사항 변화를 명확하게 조율하고 범위를 관리해 본 경험\n· [Track B. 제조 도메인 및 혁신 배경]\n· 제조 기업의 생산/품질관리/공정기술 부서에서 제조 데이터 흐름과 공정 프로세스를 깊게 이해하고\n· 혁신 프로젝트를 주도해 본 경험\n· 제조 현장 실무자 및 관리자들을 대상으로 원활한 소통과 매니징이 가능하신 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -15005,7 +14835,7 @@
    "initial": true,
    "requirements": "· ㆍ경력 : 프로젝트 단독 리딩 및 실무 수행이 가능한\n· 경력 3년 이상 ~ 15년 이하\n· ㆍ근무지 : 서울 강남, 서울 가산, 울산, 대구, 창원 중 선택 (후보자 선호에 따라 최종 근무지 논의 가능)\n· ㆍ전문성 : 아래 두 가지 트랙 중 하나 이상의 확실한 전문성을 보유하신 분\n· [Track A. AI / 대형 SI 프로젝트 배경]\n· ㆍ대기업 SI사 또는 주요 협력사에서 PM/PL로서 프로젝트를 리딩하며 최종 딜리버리까지\n· 완수해 본 경험\n· ㆍ다양한 이해관계자 사이에서 요구사항 변화를 명확하게 조율하고 범위를 관리해 본 경험\n· [Track B. 제조 도메인 및 혁신 배경]\n· ㆍ제조 기업의 생산/품질관리/공정기술 부서에서 제조 데이터 흐름과 공정 프로세스를\n· 깊게 이해하고 혁신 프로젝트를 주도해 본 경험\n· ㆍ제조 현장 실무자 및 관리자들을 대상으로 원활한 소통과 매니징이 가능하신 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -15268,8 +15098,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -15298,36 +15128,6 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": "· HR 운영 또는 HRM 기획 경력 1년 이상\n· 근태/입퇴사/계약관리 등 HR Operation 전반에 대한 실무 경험 및 프로세스 설계 경험\n· 인사 시스템(Flex, ERP 등) 운영 및 데이터 관리 경험\n· 문제를 스스로 정의하고 구조적으로 해결하며, 업무 개선을 주도해본 경험\n· 다양한 이해관계자와 신뢰감 있게 커뮤니케이션 할 수 있는 분",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
-   "id": "saramin-55555381",
-   "company": "라온피플(주)",
-   "title": "[라온피플]인사팀 1-5년차 경력직 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55555381",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55555381&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 1~5년",
-   "education": "초대졸↑",
-   "emp_type": "정규직",
-   "location": "경기 과천시",
-   "deadline": null,
-   "always_open": true,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "· 경력 1년 이상 ~ 5년 이하\n· 대학졸업(2,3년)이상\n· 인사 실무 경력 1년 이상 5년 이하이신 분\n· 급여, 4대보험, 연말정산 등 인사 행정 업무 경력 필수\n· Excel 등 데이터 정리 및 분석 도구 활용이 가능하신 분\n· 유관부서 및 구성원과 원활하게 협업할 수 있는 커뮤니케이션 역량을 보유하신 분\n· 더존 ERP10 인사모듈 혹은 기타 인사관리 ERP 사용 경험하신 분",
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -15377,7 +15177,8 @@
    "always_open": false,
    "source": "사람인",
    "jobs": [
-    "경영전략·경영기획"
+    "경영전략·경영기획",
+    "DX 컨설팅"
    ],
    "target": null,
    "target_cat": null,
@@ -15407,7 +15208,7 @@
    "always_open": false,
    "source": "사람인",
    "jobs": [
-    "경영전략·경영기획"
+    "DX 컨설팅"
    ],
    "target": null,
    "target_cat": null,
@@ -15531,13 +15332,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "·  정부지원사업·국가 R&D 과제관리 또는 관련 사업기획 경력 5년 이상\n·  지원사업 신청 또는 사업계획서 작성을 주도하고, 과제 운영과 사업비 정산까지 담당한 경험이 있는 분\n·  복수 과제의 예산·마감·보고 일정을 관리하고, 집행 기준이 불명확한 경우 근거를 확인해 대응할 수 있는 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -15601,36 +15404,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55557224",
-   "company": "(주)스킨푸드",
-   "title": "[강남/정규직] 스킨푸드 경영지원팀장(인사·총무 중심,10~15년)",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55557224",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55557224&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 10~15년",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "서울 강남구",
-   "deadline": "2027-01-11",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-26",
-   "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
-   "closed": false
-  },
-  {
    "id": "saramin-55557354",
    "company": "(주)지쓰리씨",
    "title": "2026 하반기 인사팀장 채용 (경력직)",
@@ -15656,8 +15429,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -15836,7 +15609,7 @@
    "initial": true,
    "requirements": "· 3년 이상의 사업 전략 업무 경험을 보유하신 분 (사업기획·전략, IT 서비스 기획, 클라우드·인프라 사업, 기술 컨설팅 등)\n· 클라우드·IT 인프라에 대한 기본 이해도가 있으신 분 (컴퓨트·스토리지·네트워크·GPU 등 상품 구조 기본 개념)\n· 분석 결과를 논리적으로 구조화해 보고서로 작성하고, 이해관계자를 설득하는 커뮤니케이션 역량을 보유하신 분\n· 이런 분이면 더 좋아요 (",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -16163,8 +15936,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "·  상위권 대학교 학사 이상\n·  유관 경력 5년이상\n·  현업 및 유관부서와 원활한 커뮤니케이션 및 협업이 가능한 분\n·  현황 분석을 통한 문제점 도출 및 개선방안 수립 역량을 보유한 분\n·  IT 인프라·시스템 운영 및 정보보안에 대한 이해를 보유한 분\n·  최신 IT 트렌드에 대한 이해와 실무 적용 역량을 보유한 분",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -16243,8 +16016,6 @@
    "always_open": false,
    "source": "사람인",
    "jobs": [
-    "경영혁신",
-    "PI",
     "경영전략·경영기획",
     "DX 컨설팅"
    ],
@@ -16287,8 +16058,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -16412,36 +16183,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55567505",
-   "company": "㈜한익스프레스",
-   "title": "(주)한익스프레스 HR팀 경력 모집(근무지 서울)",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55567505",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55567505&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력2년↑",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "서울 서초구",
-   "deadline": null,
-   "always_open": true,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "· 경력 2년 이상\n· 대학교졸업(4년)이상",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55567837",
    "company": "주식회사 엠티데이타",
    "title": "[판교] 인사.경영지원업무 인재 채용",
@@ -16466,9 +16207,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "·  경력: 신입 또는 3년이하의 경력\n·  학력: 전문학사 이상",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -17035,9 +16776,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 5년 이상 ~ 10년 이하\n· 대학교졸업(4년)이상, 졸업 예정자 지원가능\n· 보유역량: 해당직무 근무경험, 문서작성 우수자, 엑셀 고급능력자, PPT능력 우수자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -17185,7 +16926,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -17215,7 +16956,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -17244,8 +16985,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "·  총 경력 9년~13년 (경영기획, 관리회계, 전략기획 등 유관 경력)\n·  전사 경영관리 및 조직 성과관리 경험 • 경영진 보고 경험 또는 Skill 보유자\n·  원활한 커뮤니케이션 역량\n·  전사 경영관리 및 조직 성과관리 경험\n·  경영진 보고 경험 또는 Skill 보유자\n·  원활한 커뮤니케이션 역량",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -17275,8 +17016,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 10년 이상\n· 대학교졸업(4년)이상\n· [자격 요건]\n·  필요 경력\n· . ISP 및 PI 프로젝트 수행 경력\n· . ERP 구축 PM/PMO 경험 필수\n· [핵심 역량]\n·  ISP, IT, 프로세스 혁신에 대한 전반적인 지식 보유\n·  전략 기획, 컨설팅, 문제 해결, 커뮤니케이션, Reporting 및 프로젝트 리딩 역량",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -17305,8 +17046,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 대학교졸업(4년)이상\n·   전략기획, 경영기획, 컨설팅 등 관련 업무 경험 10년 이상\n·   제조업종 대기업(지주사 우대) 또는 중견그룹 전략기획/계열사관리 경험\n·   전략기획/신사업 추진 실무 및 Deal 완료 경험",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -17336,8 +17077,8 @@
    "first_seen": "2026-11-27",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-27",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -17483,8 +17224,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· [필수요건]\n· 경영학 / 회계학 등 상경계열 전공 학사 이상\n· 경영기획/관리, FP&A 등 관련 분야 경력 5년 ~ 12년 (선임급)\n· 손익관리, 예산, KPI 사업계획 관련 실무경험\n· Excel, PowerPoint를 활용한 분석 및 보고서 작성 능력",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -17515,7 +17256,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -17575,36 +17316,6 @@
    "initial": true,
    "requirements": "·  글로벌 또는 국내 중견기업 이상 기업에서 해외법인 HR 경험이 있는분\n·  인사기획 경험 10년 이상 (해외 인사기획 5년 이상)\n·  외국어 능통자(영어, 중국어, 베트남어 등)\n·  다양한 HR 관련 정략 지표 분석 및 인사이트 도출 능력\n·  해외 노동법, 근로기준법 등 인사 관련 법률 지식\n·  해외 여행에 결격 사유가 없는 자",
    "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
-   "id": "saramin-55578580",
-   "company": "제이씨코리아(주)",
-   "title": "[뷰티/네일] 데싱디바 인사 담당 모집",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55578580",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55578580&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 5~11년",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "경기 안양시 만안구",
-   "deadline": null,
-   "always_open": true,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-28",
-   "initial": false,
-   "requirements": null,
-   "req_checked": false,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -17843,8 +17554,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 학력 : 대졸 이상\n· 경력 : 10~15년\n· 직급 : 과장~차장급\n· 팀장 직책 수행자(조직 관리 경험)",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -17905,7 +17616,7 @@
    "initial": true,
    "requirements": "·  테크기업, 스타트업 또는 성장단계 조직에서 HR/People 리더 역할을 수행한 경험\n·  조직개편, R&R 정립, 성과관리, 리더 선발·육성 등을 직접 설계·실행한 경험\n·  CEO/C-Level과 조직 이슈를 논의하고 실제 조직 변화로 연결한 경험\n·  현업과 밀착하여 조직 문제를 해결할 수 있는 Hands-on 실행력\n·  평가·보상·노무 등 HR 전반에 대한 기본적인 이해",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -17964,8 +17675,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -17994,8 +17705,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -18119,36 +17830,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55581493",
-   "company": "(주)하이브랩",
-   "title": "[하이브랩] 콘텐츠 기획자, 마케터 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55581493",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55581493&rec_seq=0",
-   "career": "신입",
-   "career_detail": "신입",
-   "education": "학력무관",
-   "emp_type": "정규직",
-   "location": "경기 성남시 분당구",
-   "deadline": "2026-12-16",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "경영전략·경영기획"
-   ],
-   "target": "HYBE",
-   "target_cat": "엔터테인먼트",
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-26",
-   "initial": true,
-   "requirements": "· 여러 프로젝트를 동시에 운영하고 우선순위를 조율할 수 있는 분\n· 디자이너 및 다양한 직군과 원활한 커뮤니케이션 가능하신 분\n· 책임감과 주도적인 업무 태도를 갖추신 분\n· 생성형 AI 툴에 대한 이해가 있거나 관심이 있으신 분",
-   "req_checked": true,
-   "last_seen": "2026-11-26",
-   "closed": false
-  },
-  {
    "id": "saramin-55581496",
    "company": "(주)삼광",
    "title": "(주)삼광 AI혁신팀 채용 모집 (경력)",
@@ -18204,8 +17885,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 모집 인원\n· 근무지역\n· 전략기획실\n· 경영전략 및 중장기 사업계획\n· 경영진 의사결정 지원\n· 신사업 및 사업개발\n· 글로벌 사업전략 수립\n· 전략 프로젝트 관리\n· [필수 요건]\n· ㆍ해외 여행에 결격 사유가 없는 자\n· ㆍ4년제 학사 학위 이상\n· ㆍ유관 경력 4년 이상",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -18354,9 +18035,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 법인카드·인감·비용 처리 등 회사 자산을 높은 윤리의식과 책임감을 가지고 꼼꼼하게 다룰 수 있는 분\n· 구성원 및 외부 업체와 원활하게 소통하고 협업할 수 있는 분\n· 여러 업무를 동시에 진행하면서도 우선순위를 정해 일정 안에 처리할 수 있는 분\n· 반복되는 업무에서도 더 나은 방법을 찾아 실행하는 분\n· 처음 접하는 업무도 빠르게 배우고 적극적으로 시도하는 분\n· 이런 분이라면 더 좋아요!\n· 인사총무 관련 인턴, 아르바이트 또는 실무 경험이 있는 분\n· Notion, Slack, Google Workspace, 다우오피스 등 협업 도구 활용에 익숙한 분\n· 구성원을 지원하고 더 나은 업무환경을 만드는 일에 보람을 느끼는 분\n· 지원서에서 확인하고 싶어요\n· 기존 방식에서 불편한 점을 발견하고 직접 개선해 본 경험\n· 여러 업무를 동시에 진행하며 우선순위를 정해 처리해 본 경험",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -18384,9 +18065,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· [이런 분과 함께하고 싶어요]\n· 대기업/스타트업에서 온라인 서비스 전반을 경험하여 보신 분\n· 고객 및 서비스에 대한 이해를 바탕으로 구성원과 협업하여 제안서를 작성해본 경험이 있는 분\n· 논리적이고 구조화된 사고가 가능하신 분\n· 자기 주도적으로 일하고 배움에 대한 의지를 가진 분\n· 다양한 대내외 이해관계자 또는 동료들과 원활하게 소통하실 수 있는 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -18414,9 +18095,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "·  전략기획, 사업기획, 경영기획 또는 신규사업 관련 경력자\n·  사업모델과 수익구조를 분석할 수 있는 분\n·  시장조사와 경쟁사 분석을 통해 전략을 수립할 수 있는 분\n·  아이디어를 구체적인 사업계획으로 전환할 수 있는 분\n·  사업계획서, 제안서 및 경영보고서 작성이 가능한 분\n·  데이터와 현황을 바탕으로 문제를 분석할 수 있는 분\n·  경영진의 방향을 이해하고 실행계획으로 구체화할 수 있는 분\n·  부서 간 업무를 조율하며 프로젝트를 추진할 수 있는 분\n·  한글, 엑셀, 파워포인트 등 문서작성 프로그램 활용 가능자\n·  새로운 사업과 조직환경에 유연하게 대응할 수 있는 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -18468,13 +18149,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -18534,7 +18217,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -18654,7 +18337,7 @@
    "initial": true,
    "requirements": "· 필요역량\n· [지원 자격은 어떻게 되나요?]\n· ㆍ전공 무관\n· ㆍ유관 경력 5년 이상\n· 다음의 경력만 인정\n· ㆍ입찰/제안서 작성, 기획/전략/컨설팅, 사업개발PM/PL, IT 교육 분야에 대한\n· 경력 5년 이상\n· ㆍ혹은 이에 준하는 석박사 학위가 있는 자\n· 관련 레퍼런스 제출자\n· 기획서, 제안서 등 공유 가능한 레퍼런스(포트폴리오)\n· 제출이 불가능하다면, 인터뷰 현장에서 직접 보여주시는 방식도 무방합니다.\n· ㆍ해당 경우, 자료 제출이 아닌 '인터뷰 현장에서 직접 보여주겠다'는 내용으로",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -18683,8 +18366,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -18804,36 +18487,6 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": "· 전문학사 이상이신 분\n· MS Office 활용 능력이 우수하신 분 (Excel, PowerPoint)\n· 꼼꼼하고 책임감 있는 업무 수행이 가능하신 분\n· 다수의 이해관계자와 원활한 커뮤니케이션이 가능하신 분\n· 일정 및 데이터 관리 역량을 갖추신 분",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
-   "id": "saramin-55584997",
-   "company": "㈜씨엔티드림",
-   "title": "HR&GA Manager 모집(인사총무팀장)",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55584997",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55584997&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력6년↑",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "충남 천안시 서북구",
-   "deadline": null,
-   "always_open": true,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": null,
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -19016,7 +18669,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -19165,8 +18818,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -19256,7 +18909,7 @@
    "initial": true,
    "requirements": "· ㆍToeic 800점, TOEFL iBT 4.0점, IELTS 6.0, OPIC IM3, TOEIC Speaking 140점 이상 중\n· 하나의 공인어학성적 증명 필수\n· ㆍ전략적 사고력: 시장과 산업의 변화를 분석하고 새로운 사업기회를 발굴하는 역량\n· ㆍ기획·분석 능력: 논리적 사고를 기반으로 전략을 구체화하고 실행계획을 수립하는 역량\n· ㆍ주도성과 실행력: 스스로 업무를 발굴하고 적극적으로 추진하는 능동적인 업무 태도\n· ㆍ유연성과 민첩성: 급변하는 상황과 다양한 변수에 신속하고 유연하게 대응하는 역량\n· ㆍ문제해결능력: 복잡한 현안의 핵심을 파악하고 실질적인 해결방안을 도출하는 역량\n· ㆍ소통협업능력: 경영진 및 유관부서, 국내외 파트너와 원활하게 소통하고 협력하는 역량",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -19286,7 +18939,7 @@
    "initial": true,
    "requirements": "· 경력 무관 (신입 지원 가능)\n· 대학교졸업(4년)이상, 졸업 예정자 지원가능",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -19304,8 +18957,7 @@
    "always_open": false,
    "source": "사람인",
    "jobs": [
-    "HR Planning",
-    "DX 컨설팅"
+    "HR Planning"
    ],
    "target": null,
    "target_cat": null,
@@ -19619,7 +19271,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -19859,7 +19511,7 @@
    "initial": true,
    "requirements": "· 국방,방산, 항공,우주,  분야 중 하나 이상에서 사업기획, 솔루션 영업 또는 프로젝트 관리 관련 경력이 3년 이상인 분\n· IT,SW 또는 AI 솔루션 사업에서 고객 제안,영업, 서비스,상품기획, 프로젝트 관리 중 하나 이상의 업무를 주도해본 분\n· 담당 산업의 고객 업무와 사업 환경을 이해하고, 고객 요구를 솔루션의 기능과 제공 범위로 정리할 수 있는 분\n· 고객 요구 분석, 제안서 작성, 서비스,상품기획 또는 프로젝트 산출물 관리 경험이 있고, 자신의 역할과 결과를 구체적으로 설명할 수 있는 분\n· 고객사, 개발팀 및 협력사와 업무 범위,일정,도입 조건을 협의하고, 합의 내용을 문서로 정리할 수 있는 분\n· 이런 경험이 있다면 더 좋아요\n· 국방,방산, 항공,우주,  분야의 기업,기관과 협업하거나, 신규 고객 발굴부터 제안,계약 또는 납품,검수까지 사업을 진행해본 분\n· AI,드론 또는 데이터 기반 솔루션의 PoC,실증,구축 프로젝트를 수행하거나 관리해본 분\n· 체계개발 또는 체계공학(SE) 업무에 참여하여 요구사항, 변경 이력 또는 시험평가 관련 산출물을 관리해본 경험이 있는 분\n· 국방 R&D 또는 정부과제의 제안,협약,성과관리,결과보고 업무를 수행해본 분\n· 체계개발,체계공학(SE) 또는 HW,SW 연계 솔루션 프로젝트에서 요구사항,변경 이력,시험평가 산출물을 관리해본 분",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -19889,7 +19541,7 @@
    "initial": true,
    "requirements": "· 습니다 .\n· IT/SW 프로젝트에서 PM 역할로 3년 이상 프로젝트를 관리해본 분\n· 제안서 작성부터 프로젝트 수행 및 완료까지 프로젝트 전체 과정을 경험해본 분\n· 고객의 요구사항을 파악하고 프로젝트에 필요한 내용으로 정리할 수 있는 분\n· 고객, 개발팀, 협력사 등 다양한 관계자와 원활하게 소통하고 조율할 수 있는 분\n· 프로젝트 진행 중 발생하는 이슈를 파악하고 해결 과정을 관리해본 경험이 있는 분\n· 이런 경험이 있다면 더 좋아요 .\n· AI 관련 프로젝트를 수행하거나 관리해본 경험이 있는 분\n· 최신 AI 기술과 산업 트렌드에 관심이 많고 새로운 내용을 꾸준히 학습하는 분\n· 새로운 기술을 검토하거나 선행연구, PoC, 실증 프로젝트를 진행해본 경험이 있는 분\n· 새로운 기술이나 업무 분야를 빠르게 이해하고 프로젝트에 적용해본 경험이 있는 분\n· 여러 업무의 우선순위를 정하고 체계적으로 관리할 수 있는 분",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -19911,13 +19563,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -20036,8 +19690,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 3년 이상\n· 대학교졸업(4년)이상\n· 어학: 한국어, 영어(네이티브 수준)",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -20066,8 +19720,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "·  전사 손익관리 관련 업무 경험(매출/원가/판관비 등)\n·  조직 단위별 이슈 진단/발굴 능력\n·  경영관리 관련 경영진 수명 업무 직접 수행 경험\n·  내/외부 커뮤니케이션 능력\n· ((담당업무))\n· [전사 손익관리 및 기획조정 업무 담당]\n· ㅇ 사업본부별 손익관점 주요 관리포인트 발굴/개선\n· ㅇ 사업본부/기타 조직별 이슈진단/관리\n· ㅇ 경영진 수명업무 수행\n· 연봉:대기업 수준 (예상 6,500~8,000만원+복지금+성과급)\n· 근무지: 경기도 과천시\n· 제출서류:국문이력서",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -20396,8 +20050,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 8년 이상\n· 대학교졸업(4년)이상\n·  경영기획·FP&A·재무기획 관련 경력 8~12년 및 해당 기능의 리딩 경험\n·  경영계획·예산·손익 전망 수립과 실적 분석의 독립적 수행 경험\n·  재무제표·관리손익에 대한 이해 및 Excel 기반 재무 모델링 역량\n·  사업 현안을 분석하여 실행 가능한 대안과 경영진 보고자료로 구체화하는 역량\n·  유관 조직과의 협의·조정 및 구성원 업무 리딩 경험",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -20427,8 +20081,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -20540,13 +20194,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 3년 이상 ~ 8년 이하\n· 대학교졸업(4년)이상\n·  (필수) 상장사 출신 '내부회계관리제도' 기준으로 운영한 분\n·  인사·노무 실무 경험이 있으신 분\n·  급여·4대보험 이해 및 실무 경험자\n·  근태·인사데이터 관리 해보신 분\n·  노동관계 법령 이해를 가진 분\n·  새로운 인사, 경영 프로세스를 도입 운영을 하셨던 분 또는 개선 하셨던 분\n·  유관부서와 원활히 소통하시는 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -20634,9 +20290,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 모집부문\n· 업무내용\n· 자격요건 및",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -20787,36 +20443,6 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": "· 경력 5년 이상\n· 대학교졸업(4년)이상",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
-   "id": "saramin-55599352",
-   "company": "(주)알피바이오",
-   "title": "[제약바이오/상장사] 인사 경력 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55599352",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55599352&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력3년↑",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "서울 강남구",
-   "deadline": "2026-12-17",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": null,
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -21086,37 +20712,7 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
-   "closed": false
-  },
-  {
-   "id": "saramin-55605089",
-   "company": "주식회사 세오",
-   "title": "(주)세오 인사담당자 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55605089",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55605089&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력3년↑",
-   "education": "초대졸↑",
-   "emp_type": "정규직",
-   "location": "경기 안양시 동안구",
-   "deadline": "2027-01-17",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "· 경력 3년 이상\n·  인사 실무 경력 3년 이상\n·  인하우스 환경에서 급여 Full-cycle 직접 수행 경험자\n·  연말정산 단독 수행 및 신고 경험자\n·  근로기준법 및 노동관계법령에 대한 실무 이해도 바탕으로 노무 이슈 대응 경험자\n·  더존 ERP 사용 가능자",
+   "requirements": "· 4년대졸 이상\n· 정보보안, 보안 컨설팅, 모의해킹 등 유관 경력을 6년 이상\n· 보유하신 분\n· 웹 및 모바일 어플리케이션 구조에 대한 깊은 이해와 모의해킹/취약점 진단 실무 역량을 갖추신 분\n· 퍼블릭 클라우드(AWS, Azure, GCP 등 최소 1개 이상) 환경에 대한 이해와 클라우드 보안 점검 경험이 있으신 분\n· 주요 OS(Linux, Windows) 및 네트워크/DB 인프라 전반에 대한 보안 취약점 점검 및 분석이 가능하신 분\n· 발견된 취약점에 대해 개발 및 인프라 엔지니어와 원활하게 소통하고, 실효성 있는 조치 방안을 제시할 수 있는\n· 커뮤니케이션 역량을 갖추신 분",
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -21238,7 +20834,7 @@
    "initial": true,
    "requirements": "· 경력 3년 이상/이하\n· 대학교졸업(4년)이상\n·  전략기획 수행 유관 경력 (대기업, 컨설팅펌) 3년 이상으로 유관 프로젝트 수행\n·  국내외 4년제 대학 이상 졸업자\n·  Global Talent Standards 에 따른 역량을 보유한 자",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -21602,36 +21198,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55609125",
-   "company": "토스뱅크(주)",
-   "title": "여신운영 담당자 (Loan Operations Manager)",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55609125",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55609125&rec_seq=0",
-   "career": "신입 가능",
-   "career_detail": "신입·경력",
-   "education": "학력무관",
-   "emp_type": "정규직",
-   "location": "서울 강남구",
-   "deadline": "2026-11-30",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [],
-   "target": "토스",
-   "target_cat": "IT·플랫폼",
-   "wish": "토스",
-   "wish_roles": [
-    "Business Operations"
-   ],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-26",
-   "initial": true,
-   "requirements": "· 전월세 보증금 대출 또는 주택 담보대출 등 여신상품별 규정과 업무 프로세스에 대한 높은 이해도를 갖춘 분이 필요해요.\r\n· 주택 담보 및 가계/기업 담보대출에 대한 전반적인 이해와 함께, 관련 심사 및 운영 실무 경험이 있으신 분이 필요해요.\r\n· 다양한 보증대출 또는 담보대출 운영 경험과 부동산 관련 정책 대응 경험이 있으면 더 좋아요.\r\n· 새로운 정책을 수립하거나, 기존의 업무 프로세스를 개선했던 경험이 있는 분이면 더 좋아요.\r\n· 원활한 커뮤니케이션 능력을 바탕으로 고객 응대 및 상담 경험이 풍부한 분이면 좋겠어요.",
-   "req_checked": true,
-   "last_seen": "2026-11-26",
-   "closed": false
-  },
-  {
    "id": "saramin-55609151",
    "company": "(주)포컴퍼니",
    "title": "[포컴퍼니] 본부 전략 기획 Staff",
@@ -21809,7 +21375,7 @@
    "initial": true,
    "requirements": "· 경력 1년 이상 ~ 8년 이하\n· 대학교졸업(4년)이상",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -21838,36 +21404,6 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": "· Experience in hotels, resorts, restaurant groups, QSR, café chains and multi-site F&B operations\n· Background in other customer-facing service industries with substantial frontline workforces and multi-site operational complexity\n· Proven country-level or senior HR leadership experience with full-function HR responsibility\n· Experience in succession planning, talent development and organisational change\n· Strong business acumen and experience partnering directly with CEOs or senior business leaders\n· Demonstrated ownership of organisational transformation, including measurable business impact\n· Hands-on leadership style with genuine willingness to engage directly with frontline operations\n· Strong employee relations, stakeholder management and problem-solving capabilities\n· Mature, proactive and resilient leadership approach with sound judgment and accountability\n· Genuine motivation t",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
-   "id": "saramin-55609520",
-   "company": "(주)맨파워그룹코리아",
-   "title": "[강남/글로벌 헬스케어] HR 급여&인사운영",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55609520",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55609520&rec_seq=0",
-   "career": "신입 가능",
-   "career_detail": "경력무관",
-   "education": "대졸↑",
-   "emp_type": "계약직·파견직",
-   "location": "서울 강남구",
-   "deadline": null,
-   "always_open": true,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "· Set up all new employees and process terminations for payroll purposes.\n· Manage ad hoc and one-off payments.\n· Cooperate with the third-party payroll service provider in line with the SLA.",
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -22021,7 +21557,7 @@
    "initial": true,
    "requirements": "· 신입 / 경력 (연수 무관)\n· 고등학교졸업이상\n· 보유역량: 운전가능자, 차량소지자, 컴퓨터활용능력 우수",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -22170,9 +21706,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 3년 이상 ~ 19년 이하\n· 대학교졸업(4년)이상",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -22230,9 +21766,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 모집부문\n· 담당업무\n· 자격요건 및",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -22284,13 +21820,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -22318,9 +21856,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 5년 이상 ~ 10년 이하\n· 학력무관\n·  인사 전반 실무 경험을 보유하신 분\n·  노무관리 및 규정 운영 경험 있으신 분\n·  제도 기획부터 운영까지 가능하신 분\n·  조직 커뮤니케이션 역량을 갖추신 분\n·  문서화 및 보고 체계 운영 가능하신 분\n·  AI를 적극활용해 인사기획 및 운영하실수 있는 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -22440,7 +21978,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -22531,7 +22069,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -22681,7 +22219,7 @@
    "initial": true,
    "requirements": "· 경력 5년 이상 ~\n· 대학교졸업(4년)이상",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -22772,7 +22310,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -22929,6 +22467,36 @@
    "closed": false
   },
   {
+   "id": "saramin-55616798",
+   "company": "네이버웹툰(유)",
+   "title": "[네이버웹툰] 일본 콘텐츠 프로그래밍 전략 매니저 (경력)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55616798",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55616798&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력4년↑",
+   "education": "학력무관",
+   "emp_type": "정규직",
+   "location": "경기 성남시 분당구",
+   "deadline": "2026-11-29",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "경영전략·경영기획"
+   ],
+   "target": "네이버",
+   "target_cat": "IT·플랫폼",
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "· 일본어 및 한국어로 원활한 비즈니스 커뮤니케이션이 가능한 분\r\n· 일본 유저의 콘텐츠 취향과 트렌드에 대한 이해가 깊은 분\r\n· 정량/정성 데이터를 분석하고 인사이트를 도출하는 데 강점이 있는 분\r\n· 연차 4년 이상이신 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
    "id": "saramin-55616929",
    "company": "지지무역(주)",
    "title": "[서울본사] 2026년 각 부문별 신입/경력직 채용(TD, 해외영업, 디자인, 경영기획, CAD)",
@@ -23016,7 +22584,7 @@
    "initial": true,
    "requirements": "· 신입 / 경력 1년 이상 ~ 10년 이하\n· 대학교졸업(4년)이상\n·  컴퓨터공학, AI 학과, 산업공학, 정보통신 관련 전공\n·  AI / 데이터 분석  관련 프로젝트 리딩 또는 실무 경험자\n·  데이터 엔지니어링 AI 프로젝트 운영 경험자\n· 정부 R&D사업 과제 참여 유경험자 (",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23046,7 +22614,7 @@
    "initial": true,
    "requirements": "· ㆍ경력 무관 (신입 지원 가능)\n· ㆍ대학교졸업(4년)이상,\n· 졸업 예정자 지원가능",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23136,7 +22704,7 @@
    "initial": true,
    "requirements": "· 여신 상품에 대한 전반적인 이해와 기본적인 정책, 규정에 대한 이해가 있으신 분이 필요해요.\r\n· 금융권에서 여신 상품의 운영/관리를 위한 실무를 경험해 보신 분이 필요해요.\r\n· 꼭 신규 상품 기획 경험이 있지 않더라도 여신 업무 전반에 대한 이해도와 전문성, 나아가 상품 전략의 성공을 위한 전략과 실행 방안을 가지고 계신 분과 함께하고 싶어요.\r\n· 상품을 기획하고 직접 요건을 정의하고, 정책을 수립해본 경험이 있으면 좋아요.\r\n· 모바일 서비스 혹은 코어뱅킹 기획 등 IT와의 협업 경험이 있으면 좋아요.\r\n· 새로운 금융 상품을 만들어내는 도전을 해보고 싶은 분과 함께하고 싶어요.",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23194,9 +22762,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ인사업무 경력 15년 이상이신 분\n· ㆍ채용·평가·보상·급여·노무 등 인사 전반의 실무 이해와 운영 경험을 보유하신 분\n· ㆍ팀장 또는 이에 준하는 조직·프로젝트 리딩 경험이 있으신 분\n· ㆍ노동관계법 및 인사규정에 대한 이해를 바탕으로 노무 이슈에 대응할 수 있는 분\n· ㆍ경영진 보고자료 작성 및 유관부서·외부 전문가와의 원활한 조율이 가능하신 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23286,7 +22854,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23408,36 +22976,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55621886",
-   "company": "퓨처스엔터테인먼트(주)",
-   "title": "[MCN] 사업기획 PM 채용 (경력 3년이상)",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55621886",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55621886&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력3년↑",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "서울 강남구",
-   "deadline": "2027-01-18",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "경영전략·경영기획"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "· 4년제 대학 졸업 이상\n· 사업기획·PM 관련 경력 3년 이상\n· 사업계획서·제안서·보고서 등 문서 작성 능력이 뛰어난 분\n· ChatGPT 등 생성형 AI를 리서치·분석·문서 작성에 능숙하게 활용하는 분",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55622075",
    "company": "피앤오파트너스",
    "title": "전자기기제조업-총무팀 인사담당자",
@@ -23463,6 +23001,66 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": "· (Qualifications)\n· 1. 인사 및 급여관리 업무 경력 10년 이상 ~ 15년 이하자\n· 2. 인사평가제도 기획 및 운영 유경험자\n· 3. 4년제 대학교 졸업 이상 학력 소지자\n· 4. 원활한 대인관계 역량 및 커뮤니케이션 스킬 보유자\n· 5. 영어 가능자 (비즈니스 커뮤니케이션 가능 수준 우대)",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55622122",
+   "company": "(주)디쉐어",
+   "title": "[디쉐어] 인사총무 팀장 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55622122",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55622122&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력8년↑",
+   "education": "대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 강남구",
+   "deadline": "2026-12-19",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "HR Planning"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "·  인사(HR) 분야 실무 경력 8년 이상\n·  인사팀장 혹은 이에 준하는 리더십 경험\n·  채용, 평가, 보상, 조직관리, 노무 등 HR 전반에 대한 실무 경험\n·  인사제도 및 프로세스를 직접 기획/설계하거나 개선해서 현업에 도입해본 경험",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55622173",
+   "company": "(주)디쉐어",
+   "title": "[디쉐어] 인사총무 팀원 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55622173",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55622173&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력3년↑",
+   "education": "대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 강남구",
+   "deadline": "2026-12-19",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "HR Planning"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "·  HR 관련 실무 경력 3년 이상 또는 이에 준하는 역량을 보유하신 분\n·  인바운드 및 아웃바운드 채용 프로세스에 대한 실무 경험이 있으신 분\n·  다양한 채용 채널을 활용하여 후보자를 발굴하고 채용을 진행한 경험이 있으신 분\n·  채용공고 작성부터 후보자 커뮤니케이션, 면접, 입사까지 채용 전 과정을 이해하고 계신 분\n·  다양한 직무의 실무자 및 경영진과 원활하게 커뮤니케이션할 수 있는 분\n·  업무의 우선순위를 스스로 판단하고 주도적으로 실행할 수 있는 분",
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -23524,7 +23122,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23672,7 +23270,7 @@
    "initial": true,
    "requirements": "· 경력 4년 이상 ~ 10년 이하\n· 대학졸업(2,3년)이상",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23731,8 +23329,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 20년 이상\n· 대학교졸업(4년)이상",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -23795,7 +23393,7 @@
    "initial": true,
    "requirements": "· 경력 4년 이상 ~ 10년 이하\n· 대학교졸업(4년)이상\n·  경력 : 경영기획, 전략, 재무, PI 등 관련 업무 경력 4년 ~ 10년 (대리~과장급)\n·  전사 단위의 프로젝트(TF) 또는 프로세스 개선(PI) 과제를 주도적으로 기획하고 리딩해 본 경험이 있는 분\n·  원가 회계 및 재무 지식을 바탕으로 논리적인 데이터 분석이 가능한 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23855,7 +23453,37 @@
    "initial": true,
    "requirements": "· ㆍ학력 : 대졸 이상\n· ㆍ경력 : 전략. 경영기획 관련 경력 7년 이상(과장, 차장, 부장)\n· ㆍ 전사 전략기획을 주도적으로 수행한 경험\n· ㆍ 전략 수립부터 기획 조직 전반을 총괄할 수 있는 분\n· ㆍ 기업회계에 대한 이해도가 우수한 분\n· 전략기획실\n· 경력사원 모집\n· (전략기획실 00명)\n· 담당업무\n· 경영전략, 중장기 전략, 사업계획 및 실적관리\n· 신규사업 제안 및 검토\n· 경영현황 및 경쟁환경 분석",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55626729",
+   "company": "SB성보",
+   "title": "[SB성보] 인사 팀장급 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55626729",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55626729&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력 10~15년",
+   "education": "대졸↑",
+   "emp_type": "계약직",
+   "location": "서울 강남구",
+   "deadline": "2026-12-03",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "HR Planning"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": null,
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23883,9 +23511,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 서비스 전체의 기능/정책/운영 구조에 대한 높은 이해로 신규 서비스를 정의하고 개발/외주개발사 및 운영 조직을 조율할 수 있는 키즈/시니어 서비스기획자 및 실무경력자\n· A.  자녀보호 서비스 기획·개발·운영 경험\n· B.  키즈폰, 워치, 스마트폰, IoT 트래커 등 전용 단말 연계 서비스 경험\n· C. 관리자 페이지, 고객센터 시스템 및 서비스 운영도구 기획 유경험자\n· D. 외주 개발사 또는 해외 개발사와의 프로젝트 수행 경험\n· E.  서비스 구축 초기 단계부터 상용 출시 및 운영 안정화까지 전 과정에 대한 유경험자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -23914,36 +23542,6 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": "· 제조업 기반 기획업무 경력 10년 이상•데이터 분석 및 문서 작성 역량 보유자",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
-   "id": "saramin-55627049",
-   "company": "(주)HR컨설팅그룹",
-   "title": "[외국계] 인사담당(HR Generalist) 대리~차장",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55627049",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55627049&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 3~15년",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "경기 양주시",
-   "deadline": null,
-   "always_open": true,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": true,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "·  (Minimum Requirements)\n· 학력: 관련 고등교육 이수 또는 이에 상응하는 실무 HR 경력\n· 경력: HR 프로세스 운영 및 직원 문의 응대 관련 실무 경력 3~5년; 기밀 정보를 다룰 수 있는 능력\n· 기술/직무 역량: HRIS 및 인사 기록 정확성 보유; 한국 고용 관행에 대한 실무 지식; 강력한 조직력, 커뮤니케이션 능력, 서비스 마인드 및 에스컬레이션 판단력\n· 언어 요건: 글로벌 HR 동료들과의 협업을 위한 영어 소통 능력\n· 제조업 환경에서의 HR 경력 (강력 우대); 참여도 프로그램, 급여 조율, 성과 관리 경험 우대\n· 【근무지】  경기도 양주시(양주역에서 회사셔틀버스 운행)\n· 【연봉】  면접후 협의(경력에 따라 상이)\n· 【제출서류】 국영문 이력서\n· 📋 자격요건\n· 경력 3년 이상 ~ 15년 이하\n· 대학교졸업(4년)이상",
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -24396,7 +23994,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -24426,7 +24024,7 @@
    "initial": true,
    "requirements": "· 경영기획·사업기획·경영관리·영업기획 등 유관업무 경력 1~6년\n· Excel, PowerPoint 등을 활용한 데이터 분석 및 보고자료 작성이 가능하신 분\n· 기본적인 경영·재무지표에 대한 이해를 보유하신 분\n· 원활한 커뮤니케이션 및 유관부서 협업 역량을 갖추신 분",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -24456,7 +24054,7 @@
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -24486,7 +24084,7 @@
    "initial": true,
    "requirements": "· 경력 무관 (신입 지원 가능)\n· 대학졸업(2,3년)이상\n·  기본적인 문서 프로그램 활용 가능자 (한글, 워드, 파워포인트, 엑셀 등)",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -24867,13 +24465,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ학력 : 학사 이상\n· ㆍ경력 : 3년 이상 10년 미만\n· 보유역량\n· ㆍPC web & mobile, tablet App 서비스 및 UI 기획 역량\n· ㆍFigma 를 이용한 UI설계 역량\n· ㆍ데이터 시각화와 논리적인 구조설계 역량\n· ㆍ복잡하고 어려운 장기 프로젝트를 리드할 수있는 역량",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -24901,9 +24501,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 모집부문\n· 담당업무\n· ㆍ국내외 AI 및 반도체 산업 동향 조사 및 시장·경쟁사 분석\n· ㆍAI 및 반도체 산업 관련 중장기 사업전략 및 사업계획 수립\n· ㆍ신규 사업 발굴 및 사업성 검토\n· ㆍAI 및 반도체 관련 M&A, 투자 및 전략적 제휴 검토 및 추진 지원\n· ㆍ시장 및 기술 분석을 통한 경영진 의사결정 자료 작성\n· ㆍ사업 타당성 분석, 재무 모델 검토 및 투자 제안서 작성\n· ㆍ유관 부서 및 외부 파트너와의 협업을 통한 프로젝트 관리\n· 자격요건\n· ㆍ학사 이상(경영학, 경제학, 산업공학, 전자공학, 반도체, AI 관련 전공 우대)\n· ㆍ경력 7년 이상 (과장급)",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -25139,9 +24739,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ유관 업무 경력 5년 이하\n· ㆍ기본적인 문서 작성 및 커뮤니케이션 역량을 보유하신 분\n· ㆍ여러 업무를 동시에 관리하고 우선순위를 조율할 수 있는 분\n· ㆍ맡은 업무를 책임감 있게 수행하고 끝까지 마무리할 수 있는 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -25170,8 +24770,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -25201,7 +24801,7 @@
    "initial": true,
    "requirements": "· 경영기획\n· ㆍ모회사 포함 관계사의 주요 의사결정 사항,\n· 안건, 이슈사항 정리 및 관리\n· ㆍ안건·이슈사항의 진행 현황 점검 및\n· 실행 관리\n· ㆍ경영진의 전략적 판단을 위한 검토자료\n· 작성 및 의사결정 지원\n· ㆍ중장기 경영전략 수립 및 관리\n· ㆍ자회사 지배구조 및 출자 현황 관리\n· ㆍ투자안 검토 및 관련 자료 작성\n· ㆍ임원 워크숍(Executive WS) 기획 및 운영\n· ㆍ전사 MBO 중점과제 이행 점검 및 관리",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -25321,7 +24921,7 @@
    "initial": true,
    "requirements": "· 경력 3년 이상 ~ 15년 이하\n· 학력무관",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -25381,6 +24981,36 @@
    "req_checked": true,
    "last_seen": "2026-11-26",
    "closed": true
+  },
+  {
+   "id": "saramin-55633058",
+   "company": "유닛블랙",
+   "title": "[유닛블랙] 고객경험 전략기획 담당자",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55633058",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55633058&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력 5~8년",
+   "education": "대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 강남구",
+   "deadline": null,
+   "always_open": true,
+   "source": "사람인",
+   "jobs": [
+    "경영전략·경영기획"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": null,
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
   },
   {
    "id": "saramin-55633076",
@@ -25705,7 +25335,7 @@
    "initial": true,
    "requirements": "· 경력 10년 이상\n· 대학교졸업(4년)이상\n·  경영기획 분야 실무 경험 보유자예요\n·  전략적 사고와 문제 해결 능력 있어요\n·  팀 리더십과 커뮤니케이션 능력 중요해요\n·  데이터 분석 및 보고서 작성 능력 있어요\n·  Microprocessor 업종 경험자 환영해요",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -25823,8 +25453,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 학사이상(전공무관)\n· 유관 경력 13년 ~20년\n· 경영전략, 시장분석 및 사업성\n· 분석 역량보고서 작성 및 경영진\n· 커뮤니케이션 역량비즈니스 레벨 수준의 영어 커뮤니케이션(업무/보고) 가능자\n· 해외 출장 가능자",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -25913,9 +25543,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 8년 이상\n· 학력무관\n· ■ 8년 이상 B2B Web/App 또는 플랫폼 서비스 기획 경험\n· ■ 프로젝트 또는 제품의 기획 리드/PM·PO 역할 경험\n· ■ 고객 및 시장 요구사항을 분석하여 제품 Concept, 기능을 구체화할 수 있는 역량\n· ■ UI/UX에 대한 이해를 바탕으로 User Flow, IA, 화면 및 정책 설계가 가능한 분\n· ■ 데이터 구조와 시스템 연계를 이해하고 데이터 기반 서비스를 설계할 수 있는 분\n· ■ 개발 프로세스에 대한 이해와 개발자·엔지니어와 원활한 커뮤니케이션이 가능한 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -26097,7 +25727,7 @@
    "initial": true,
    "requirements": "· 모집부문\n· 담당업무\n· 자격요건",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -26119,13 +25749,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -26243,9 +25875,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 신입 / 경력 2년 이상\n· 대학졸업(2,3년)이상\n· ㆍ학력 : 대졸 이상\n· ㆍ신입 : 문서작성 및 기획업무 가능한 자\n· ㆍ경력 : 2년 이상 (담당업무 관련 유경험자)\n· ㆍ해외 출장시 결격사유가 없는 자\n· ㆍ공공기관 제출 서류(범죄경력·수사경력 회보서 등) 발급 시 결격사유가 없는 자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -26365,7 +25997,7 @@
    "initial": true,
    "requirements": "· 신입 / 경력 3년 이상\n· 학력무관, 졸업 예정자 지원가능\n·  전기산업기사 / 전기공사산업기사 이상의 전기관련 자격증 필수",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -26425,7 +26057,7 @@
    "initial": true,
    "requirements": "· 경영학과 등 관련학과 전공자\n· 대리~과장급(\n· 경력 6년 ~ 12년 이하)",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -26599,9 +26231,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ학력 : 대졸 이상 (4년) 석사(MOT / 행정학 / 산업공학의 석사 이상 전공자 우대)\n· ㆍMOT/행정학/산업공학 석사 이상 제시 조건보다 우대하고 있음\n· ㆍ관련 업계 종사 경력 인정시  제시 조건보다 우대하고 있음\n· ㆍ초임 근무자는 3개월 수습기간 적용(수습기간 연봉의 80% 적용)\n· ㆍ경력 근무자는 3개월 수습기간 적용(만1년 이상 계약연봉의 100% 적용)\n· 정부연구개발 신규사업기획/정책수립/타당성조사 등\n· 신사업기획/타당성분석업무/사업기획전략/ 0명\n· 담당업무\n· 주요업무\n· 지원자격\n· ㆍ경력 : 신입/경력 1년 ~ 10년\n· (전임/선임/책임 연구원급)",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -26683,13 +26315,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -26875,11 +26509,11 @@
   {
    "id": "saramin-55646991",
    "company": "(주)비아이매트릭스",
-   "title": "[코스닥상장사] 인사 대리과장급 채용",
+   "title": "[코스닥상장사] 인사 담당자 채용(사원-과장급)",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55646991",
    "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55646991&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력3년↑",
+   "career": "신입 가능",
+   "career_detail": "신입·경력",
    "education": "대졸↑",
    "emp_type": "정규직",
    "location": "서울 강남구",
@@ -26897,9 +26531,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 신입 / 경력 1년 이상\n· 대학교졸업(4년)이상\n· ㆍ학력 : 대졸(4년)이상\n· ㆍ경력 및 신입 : 유관 경력 보유자\n· ㆍ필요 스킬 : 업무상 AI 활용 능력",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -27197,7 +26831,7 @@
    "initial": true,
    "requirements": "· 물류 / Supply Chain Consulting 관련 경력 5년 이상\n· 물류 프로세스 개선 또는 Transformation 프로젝트 경험\n· 입고·출고·재고·창고·운송 등 물류 프로세스에 대한 이해\n· 업무 요구사항 분석 및 To-Be 프로세스 설계 역량",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -27375,9 +27009,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 4년제 대학교 학사 학위 이상\n· 인사 업무 경력 10년 이상\n· 급여 실무를 포함한 인사 업무 전반 수행할 수 있는 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -27643,9 +27277,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 관련 경력 5년 이상\n· Application / Solution Architecture 경험\n· 대규모 Application 구축 또는 Transformation 경험\n· 시스템 Integration 및 Interface 설계 경험",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -28035,7 +27669,7 @@
   },
   {
    "id": "saramin-55649521",
-   "company": "(주) 더존비즈온",
+   "company": "(주)더존비즈온",
    "title": "[IT기획]더존비즈온 IT솔루션(전용) 웹기획자 신입 채용(계약직)",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55649521",
    "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55649521&rec_seq=0",
@@ -28226,8 +27860,7 @@
    "source": "사람인",
    "jobs": [
     "경영혁신",
-    "PI",
-    "경영전략·경영기획"
+    "PI"
    ],
    "target": null,
    "target_cat": null,
@@ -28239,7 +27872,7 @@
    "initial": true,
    "requirements": "· ㆍ학력 : 대졸 이상 ( 전문대학 2,3년이상 )\n· 온오프라인 신사업 책임자 ( 영업기획 성과관리 )\n· 경영전략본부 0명\n· 담당업무\n· 주요업무\n· 지원자격\n· ㆍ신입 + 경력 : 신입 / 경력 3년 ~ 15년\n· (차장, 부장, 과장급)\n· ㆍ기타 필수 사항",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -28475,9 +28108,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 신입 또는 HR 관련 경력 2년 미만이신 분\r\n· HR 직무에 대한 관심을 바탕으로 인사 운영 업무의 전문성을 쌓고자 하는 분\r\n· 업무의 정확성과 완결성을 중요하게 생각하며, 세부 사항까지 꼼꼼하고 책임감 있게 처리할 수 있는 분\r\n· AI를 적극 활용하여 Excel, Google Sheets 등 기본적인 문서 및 데이터 관리 도구를 운영할 수 있는 분\r\n· 자신의 의견을 논리적으로 표현하면서도, 다른 사람의 의견과 피드백을 열린 태도로 수용하고 협업할 수 있는 분\r\n· 새로운 업무를 적극적으로 학습하고, 정해진 기준과 프로세스를 이해하여 성실하게 실행할 수 있는 분\r\n· 포트폴리오 제출(형식 무관)",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -28506,8 +28139,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -28717,9 +28350,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 반도체 상품기획\n· (경력/3년 이상)\n· Automotive 제품의 개발 관리 및\n· 설계·응용업무 경력\n· (Functional safety manager or\n· Functional Safety engineer 역할)\n· Automotive MCU 설계 검증 및 검증    system개발\n· MCU를 포함한 Application Specific IC에\n· 대한 제품 Spec 확정 및 검증\n· (IC 개발/검증, Promotion PKG 제작,\n· 고객 기술지원(H/W, S/W))\n· Digital 회로 및 Analog IP interface를 설계,    검증, 제작, test 등",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -28778,7 +28411,7 @@
    "initial": true,
    "requirements": "·  대학교(학사)졸 이상\n·  경력 3년 이상 이하\n·  HRST 관련 분야 동종컨설팅펌 컨설턴트로서 2년 이상 프로젝트 수행 경력\n·  HR 현업 또는 IT 협업에서 HR AX, DX, PI, HR 시스템 관련 경력 2년 이상 경력\n·  HR 시스템 Architect 또는 Data Migration, Integration 분야에서 2년 이상 경력\n·  해외여행에 결격 사유가 없는 자\n·  Global Talent Standards에 따른 역량을 보유한 자",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -29078,7 +28711,7 @@
    "initial": true,
    "requirements": "· ㆍ학력 : 초대졸이상\n· ㆍ경력 : 고급 1명",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -29153,7 +28786,7 @@
    "education": "학력무관",
    "emp_type": "계약직",
    "location": "서울 강서구",
-   "deadline": "2026-12-24",
+   "deadline": "2027-01-23",
    "always_open": false,
    "source": "사람인",
    "jobs": [
@@ -29169,7 +28802,7 @@
    "initial": true,
    "requirements": "· 우리는 아래 자격들을 갖춘 지원자를 원해요.\n· [ 필수 ] 마인드셋\n· 업무 과정에서 비효율성을 자주 인식하고 문제의식을 자주 느끼는 분\n· 도전적이고 실험적인 환경에서 성장하고 싶은 분\n· 문제 정의부터 기획, 설계, 간단한 도구화까지 혼자서도 시도해본 경험이 있으신 분\n· [ 필수 ] 스킬셋\n· Notion, Google Sheets, PPT 등 협업 툴을 주도적으로 활용해 본 경험이 있으신 분\n· 생성형 AI 도구(GPT, Claude 등)를 능동적으로 활용해 본 경험이 있으신 분\n· 다양한 사람들과의 협업 커뮤니케이션 능력이 뛰어나신 분\n· [ 우대 ] 스킬셋\n· Codex, Claude Code 등 바이브코딩 툴 활용 경험이 있으신 분\n· 업무 자동화 도구(Zapier, Make 등) 활용 경험이 있으신 분",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -29556,9 +29189,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 이런 분을 찾습니다 :)\n· 신입 or 경력 1년 이상 ~ 3년 이하\n·  학력: 4년제 대학교 졸업 이상(졸업예정자 지원 가능)\n·  전공: 환경공학, 환경과학, 화학공학, 에너지공학 등 환경 관련 학과 및 기타 이공계열\n·  스킬: 한글, MS Office 등 기본적인 컴퓨터 활용이 가능하신 분\n·  맡은 업무를 책임감 있게 마무리하고, 작은 일도 꼼꼼하게 챙기시는 분\n·  함께 일하는 사람들과 원활하게 소통하며 배려하는 태도를 가지신 분\n·  새로운 업무를 배우는 데 적극적이고, 회사와 함께 꾸준히 성장하고 싶으신 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -29587,8 +29220,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -29617,8 +29250,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -29648,7 +29281,7 @@
    "initial": true,
    "requirements": "·  4년제 대학 졸업 이상\n·  신업 또는 관련 경력 경력 5년 미만\n·  경영기획, 재무기획(FP&A), 관리회계 분야에 관심과 역량을 보유한 자\n·  재무기반 경영기획, 재무기획 또는 관리회계 업무에 대한 이행 또는 경험 보유\n·  재무 데이터를 기반으로 경영현황을 분석하고 인사이트를 도출할 수 있는 역량\n·  유관부서와의 원활한 협업 및 커뮤니케이션 역량 보유\n· <필수사항>\n·  남자의 경우 병역필 또는 면제자\n·  해외여행에 결격사유가 없는 자",
    "req_checked": true,
-   "last_seen": "2026-11-27",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -30005,7 +29638,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -30095,8 +29728,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -30273,9 +29906,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "·   채용 전 과정을 독립적으로 운영한 경험\n·   구성원 면담, 고충관리 또는 조직 내 갈등 조정 경험\n·   경영진·부서장과 협의하고 개선과제를 실행한 경험\n·   인사정보와 민감 정보를 책임감 있게 관리하는 직업윤리",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -30334,6 +29967,36 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": "· 경력 9년 이상 ~ 15년 이하\n· 대학교졸업(4년)이상\n· 자격요건\n· 학사 이상 (경영, 경제, 회계, 통계, 산업공학 등 관련 전공 우대)\n· 관련 업무 경력 9년 이상\n· 전략기획, 전략 컨설팅 / 경영기획, 재무기획(FP&A), 관리회계 / 회계법인 감사·재무자문, IB 등 유관 경력 포함\n· 연결 기준 재무제표 및 관리회계에 대한 실무 수준의 이해\n· 월간 또는 분기 단위 정기 보고 업무를 담당자로서 운영한 경험\n· 최고경영진 및 외부 이해관계자 대상 보고자료 작성 경력\n· Excel 및 PowerPoint 고급 활용 능력\n· 요구 역량\n· 재무 수치를 사업 내용과 연결하여 분석할 수 있는 능력",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55665114",
+   "company": "(주)삼화에이스",
+   "title": "[삼화에이스] 인사총무팀장 모집 (서울 본사)",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55665114",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55665114&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력 12~20년",
+   "education": "대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 서초구",
+   "deadline": "2026-12-25",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "HR Planning"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "· 모집부문\n· 담당업무\n· 자격요건 및",
    "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
@@ -30687,13 +30350,15 @@
    ],
    "target": null,
    "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -30741,6 +30406,7 @@
    "always_open": false,
    "source": "사람인",
    "jobs": [
+    "HR Planning",
     "DX 컨설팅"
    ],
    "target": null,
@@ -30781,9 +30447,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· 경력 7년 이상\n· 학력무관",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -30813,7 +30479,7 @@
    "initial": true,
    "requirements": "· 경력 5년 이상\n· 대학졸업(2,3년)이상, 졸업 예정자 지원가능",
    "req_checked": true,
-   "last_seen": "2026-11-26",
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -31054,8 +30720,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -31299,36 +30965,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55669568",
-   "company": "(주)제테마",
-   "title": "[제테마/판교] HR 담당자 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55669568",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55669568&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 5~8년",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "경기 성남시 분당구",
-   "deadline": "2026-12-25",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": null,
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55669580",
    "company": "(주)스카우트",
    "title": "[국내 최고 대기업 계열] AX 컨설턴트",
@@ -31416,36 +31052,6 @@
    "initial": true,
    "requirements": "· 법령, 규정 및 가이드라인을 바탕으로 내규, 업무 절차를 만들어 본 경험이 있으면 좋아요.\r\n· 정보처리 업무 위탁, 일반 업무 위·수탁에 대한 이해도와 운영 경험(현황 관리, 보고서 작성 등)을 가지고 계신 분이면 더욱 좋아요.\r\n· 제3자 리스크를 최소화하기 위해 주요 계약에 대해 검토하고 관리한 경험이 있으면 좋아요.\r\n· 다양한 인증 대응, 협력사 점검(서면, 현장 점검) 경험, 개인(신용) 정보 수탁사 점검 경험 등이 있으면 더욱 좋아요.",
    "req_checked": true,
-   "last_seen": "2026-11-26",
-   "closed": false
-  },
-  {
-   "id": "saramin-55669916",
-   "company": "(주)호반호텔앤리조트",
-   "title": "[호반호텔앤리조트] 본사 인사총무팀(인사) 경력채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55669916",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55669916&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 4~8년",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "서울 서초구",
-   "deadline": "2026-12-02",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": null,
-   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -31505,8 +31111,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -31811,6 +31417,36 @@
    "closed": false
   },
   {
+   "id": "saramin-55671008",
+   "company": "(주)야다",
+   "title": "[YADAH] 경영지원(재무, 인사) 총괄 리드 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55671008",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55671008&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력7년↑",
+   "education": "대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 성동구",
+   "deadline": "2026-12-25",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "경영전략·경영기획"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "· 경영지원 실무 경력 7년 이상, 그중 재무·회계 실무 5년 이상\n· 소규모 조직에서 경영지원 업무를 단독으로 수행해 본 경험\n· 숫자에 강하신 분: 자금계획표·손익 리포트를 직접 설계할 수 있는 수준\n· 재무제표(손익·재무상태·현금흐름)를 읽고 해석해 대표에게 설명할 수 있는 역량\n· 정부지원사업 집행·정산 실무 경험\n· 세무사·정부기관 등 외부 이해관계자와 원활한 소통 능력",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
    "id": "saramin-55671276",
    "company": "베스트네트워크㈜",
    "title": "39. 국내 금융사의 AI 데이터 전략 총괄 부서장 (경력 12년+)",
@@ -31855,8 +31491,7 @@
    "always_open": false,
    "source": "사람인",
    "jobs": [
-    "경영전략·경영기획",
-    "HR Planning"
+    "경영전략·경영기획"
    ],
    "target": null,
    "target_cat": null,
@@ -32254,9 +31889,9 @@
    "intern": false,
    "first_seen": "2026-11-26",
    "initial": true,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "requirements": "· ㆍ학력 : 무관\n· ESG 컨설턴트\n· (경력) 모집\n· 담당업무\n· ㆍ지속가능경영보고서 기획 및 관리 등 총괄\n· ㆍESG 전략 컨설팅\n· ㆍESG 평가대응\n· 자격요건\n· ㆍ경력 : ESG 혹은 경영/환경 컨설팅 경력 3년 이상\n· (대리, 매니저급)\n· 주요업무",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -32284,8 +31919,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 4년 이상\r\n· 사업기획, 경영전략, 영업·마케팅 관련 업무 지식\r\n· 비즈니스 영어 커뮤니케이션 역량\r\n· 사업기획, 경영전략, 영업·마케팅 관련 업무 경험\r\n· 해외 출장 가능 인력\r\n· 계열사 겸직 또는 파견 근무 가능 인력",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -32350,6 +31985,37 @@
    "closed": false
   },
   {
+   "id": "saramin-55676216",
+   "company": "(주)글로비트",
+   "title": "전략실 실장(제주 숙소 제공), 팀장, 팀원 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55676216",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55676216&rec_seq=0",
+   "career": "신입 가능",
+   "career_detail": "경력무관",
+   "education": "초대졸↑",
+   "emp_type": "정규직",
+   "location": "제주 제주시",
+   "deadline": "2026-12-26",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "경영전략·경영기획",
+    "DX 컨설팅"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "· 기획 업무 有 경험자\n· 초대졸 이상\n· 운전 가능자\n· 해외 출장에 결격 사유가 없는 자\n· (우대) 정부과제 및 입찰 有 경험자\n· 희망 시 제주 숙소 제공\n· 📋 팀장(1명)\n·  담당업무\n· 사업기획(정부과제 및 입찰 등)\n·  자격요건\n· 기획 업무 有 경험자\n· 초대졸 이상",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
    "id": "saramin-55676310",
    "company": "주식회사 비투넷",
    "title": "[정규직-코스닥기업] 솔루션 컨설턴트, AI 컨설턴트 채용",
@@ -32405,8 +32071,8 @@
    "first_seen": "2026-11-26",
    "initial": true,
    "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-26",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
    "closed": false
   },
   {
@@ -32765,8 +32431,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 재무 모델 및 재무 계획 수립, 모델링 등이 가능한 경력 / 총  5년~11년차\n· 엑셀(Excel) 모델링 숙련자\n· 비즈니스 영어 능력 보유자",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -33128,6 +32794,36 @@
    "headhunter": false,
    "intern": false,
    "first_seen": "2026-11-27",
+   "initial": false,
+   "requirements": null,
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55680213",
+   "company": "(주)더비엔아이",
+   "title": "서울 전략기획 컨설턴트 신입/경력 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55680213",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55680213&rec_seq=0",
+   "career": "신입 가능",
+   "career_detail": "신입·경력",
+   "education": "대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 강남구",
+   "deadline": "2026-12-03",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "경영전략·경영기획"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
    "req_checked": true,
@@ -33521,8 +33217,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 5년 이상\n· 대학졸업(2,3년)이상",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -33858,7 +33554,7 @@
   },
   {
    "id": "saramin-55682901",
-   "company": "(주) 마이다스아이티",
+   "company": "(주)마이다스아이티",
    "title": "[마이다스] HR 솔루션 영업 담당자 채용",
    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55682901",
    "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55682901&rec_seq=0",
@@ -33917,36 +33613,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55685702",
-   "company": "에이치알포유(주)",
-   "title": "[외투법인] 인사팀장 (정규직)",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55685702",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55685702&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 10~20년",
-   "education": "대졸↑",
-   "emp_type": "정규직",
-   "location": "경기 오산시",
-   "deadline": "2026-12-27",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-27",
-   "initial": false,
-   "requirements": "· 4년제 대졸 (학사 이상 / 경영, 경제, 인사 등 관련 전공자 선호)\n· 제조업 인사 업무 경력 최소 10년 이상 ~ 최대 20년 이하\n· 생산공장 보유한 제조업에서 TM / TR / ER / C&B 두루 두루 경험한 분\n· 이해관계자 소통 및 협상 능력 탁월한 분\n· 최소 중급 이상의 영어 (회화/작문) 능력 보유한 분 (OPIc AL, TOEIC 900점 이상 상급자 우대)\n· 경력 단절자나 짧게 짧게 이직이 많은 후보자 분은 서류전형 진행이 어렵습니다.",
-   "req_checked": true,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55686038",
    "company": "(주)동보",
    "title": "자동차부품 제조사 경영기획실",
@@ -33973,6 +33639,36 @@
    "initial": false,
    "requirements": null,
    "req_checked": false,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55686042",
+   "company": "아마노코리아(주)",
+   "title": "아마노코리아(주) 인사총무팀 경력직 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55686042",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55686042&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력 7~15년",
+   "education": "초대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 영등포구",
+   "deadline": "2026-12-27",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "HR Planning"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "· 유관 업무 7년 이상 ~ 15년 이하\n· 대학교 4년제 졸업 이상\n· 급여 실무 전반을 독립적으로 수행 가능한자\n· 단순 급여 계산을 넘어 평가/보상(Pay-band, 연봉제 등)과 연계된 인사기획 실무 경험 보유",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -34032,7 +33728,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -34061,8 +33757,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· ㆍIT/소프트웨어 분야 관련 경력 6년 이상자\n· ㆍAI 기술 구조 및 최신 트렌드 이해 보유자.\n· ㆍ대기업 및 그룹사 대상 IT/업무 컨설팅 프로세스 주도자.\n· ㆍ대기업/ SI업체 대상 프로젝트 컨설팅 경험자.",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -34302,8 +33998,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 5년 이상 ~ 10년 이하\n· 대학교졸업(4년)이상\n·  5–10 years of experience as an HR Business Partner or in other HR roles, including learning & development, coaching, employee relations, recruiting, compensation, training, and HR project/program management—preferably within a sales organization.\n·  Proven experience objectively coaching employees and management through complex and difficult situations.\n·  Applied knowledge of local employment laws, regulations, and market practices, with a thorough understanding and hands-on application of HR principles, concepts, and standards.\n·  Demonstrated experience in organizational development and change management is a plus.\n·  Resourceful and self-motivated, with the ability to thrive in fast-paced, changing environments.\n·  Strong analytical and problem-solving skills, with the ability to assess situations and make data-driven decisions while drawing from ",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -34550,6 +34246,96 @@
    "closed": false
   },
   {
+   "id": "saramin-55689480",
+   "company": "(주)센티널테크놀로지",
+   "title": "[SW개발사] 전략기획실 팀원 채용 공고",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55689480",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55689480&rec_seq=0",
+   "career": "신입 가능",
+   "career_detail": "경력무관",
+   "education": "초대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 마포구",
+   "deadline": "2026-12-27",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "경영전략·경영기획"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "· 전문학사(2·3년제) 이상 또는 졸업 예정자 (\n· 경력 무관, 신입 환영\n· 업무에 대한 호기심\n· 을 바탕으로 현황을 꼼꼼하게 챙길 수 있는 분\n·  다양한 부서의 동료들과 대화를 풀어가는\n· 커뮤니케이션 능력을 갖춘 분\n·  서로 신뢰를 쌓아가며 한곳에서\n· 오래오래 합을 맞추고 싶으신 분",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55689703",
+   "company": "나이스평가정보(주)",
+   "title": "기후/ESG 사업(컨설팅 및 기획) 모집 공고",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55689703",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55689703&rec_seq=0",
+   "career": "신입 가능",
+   "career_detail": "신입·경력",
+   "education": "대졸↑",
+   "emp_type": "계약직",
+   "location": "서울 영등포구",
+   "deadline": "2026-12-06",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "경영전략·경영기획"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": false,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "· ㆍ학력 : 대졸 이상\n· ㆍ경력 : 기후/ESG 관련 경력 3년 이상\n· ㆍ데이터 분석 패키지(Python, R, SAS 등) 사용 능숙자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
+   "id": "saramin-55689767",
+   "company": "(주)휴먼웰니스",
+   "title": "전략기획팀 팀장 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55689767",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55689767&rec_seq=0",
+   "career": "경력",
+   "career_detail": "경력8년↑",
+   "education": "대졸↑",
+   "emp_type": "정규직",
+   "location": "서울 강남구",
+   "deadline": "2026-12-26",
+   "always_open": false,
+   "source": "사람인",
+   "jobs": [
+    "경영전략·경영기획"
+   ],
+   "target": null,
+   "target_cat": null,
+   "wish": null,
+   "wish_roles": [],
+   "headhunter": true,
+   "intern": false,
+   "first_seen": "2026-11-28",
+   "initial": false,
+   "requirements": "· ㆍ영업기획·사업개발·커머스 등 관련 경력을 보유하신 분\n· ㆍ판매 전략을 직접 실행하여 매출 성과를 만든 경험이 있으신 분\n· ㆍ사업 방향을 구체적인 실행계획으로 전환하고 추진할 수 있으신 분\n· ㆍ실무 수행과 팀 리딩이 가능한 과 차장급 경력자",
+   "req_checked": true,
+   "last_seen": "2026-11-28",
+   "closed": false
+  },
+  {
    "id": "saramin-55690375",
    "company": "패스트파이브(주)",
    "title": "사업기획·운영 매니저",
@@ -34574,8 +34360,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· [이런 분과 함께하고 싶어요]\n· ㆍ제휴·입점 영업, 가맹점 관리(MD) 또는 플랫폼 파트너 운영 경력 3년 이상인 분\n· ㆍ파트너 발굴부터 계약, 오픈, 운영까지 직접 이끌어 본 경험이 있는 분\n· ㆍ수수료·정산·계약 기간 등 제휴 조건을 설계하고 협상할 수 있는 분\n· ㆍ새로운 업무의 프로세스를 직접 만들어 정착시켜 본 경험이 있는 분\n· ㆍ성과를 데이터로 정리하고, 여러 부서와 논리적으로 소통할 수 있는 분",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -34672,21 +34458,21 @@
    "closed": false
   },
   {
-   "id": "saramin-55690551",
-   "company": "(주)어비스컴퍼니",
-   "title": "[어비스컴퍼니] 경영관리실: 인사팀 경력 채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55690551",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55690551&rec_seq=0",
-   "career": "경력",
-   "career_detail": "경력 3~6년",
-   "education": "초대졸↑",
-   "emp_type": "정규직",
-   "location": "서울 강남구",
-   "deadline": null,
-   "always_open": true,
+   "id": "saramin-55690542",
+   "company": "(주)인트윈",
+   "title": "[인트윈] 사업기획·운영 및 마케터 채용",
+   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55690542",
+   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55690542&rec_seq=0",
+   "career": "신입 가능",
+   "career_detail": "경력무관",
+   "education": "학력무관",
+   "emp_type": "정규직·계약직",
+   "location": "서울 영등포구",
+   "deadline": "2026-12-27",
+   "always_open": false,
    "source": "사람인",
    "jobs": [
-    "HR Planning"
+    "경영전략·경영기획"
    ],
    "target": null,
    "target_cat": null,
@@ -34697,7 +34483,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -34728,7 +34514,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -34758,7 +34544,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -34787,8 +34573,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 5년 이상 ~ 12년 이하 (대리~과장)\n· 대학교졸업(4년)이상",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -34910,7 +34696,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -35133,36 +34919,6 @@
    "closed": false
   },
   {
-   "id": "saramin-55692125",
-   "company": "위킵 주식회사",
-   "title": "[본사] 인사팀 신입/경력 신규채용",
-   "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=55692125",
-   "detail_url": "https://www.saramin.co.kr/zf_user/jobs/relay/view-detail?rec_idx=55692125&rec_seq=0",
-   "career": "신입 가능",
-   "career_detail": "경력",
-   "education": "학력무관",
-   "emp_type": "정규직·계약직",
-   "location": "인천 서해구",
-   "deadline": "2026-12-27",
-   "always_open": false,
-   "source": "사람인",
-   "jobs": [
-    "HR Planning"
-   ],
-   "target": null,
-   "target_cat": null,
-   "wish": null,
-   "wish_roles": [],
-   "headhunter": false,
-   "intern": false,
-   "first_seen": "2026-11-28",
-   "initial": false,
-   "requirements": null,
-   "req_checked": false,
-   "last_seen": "2026-11-28",
-   "closed": false
-  },
-  {
    "id": "saramin-55692247",
    "company": "(주)동우지씨에스",
    "title": "[동우GCS] 경력 인사총무 담자 채용",
@@ -35187,8 +34943,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 3년 이상 ~ 10년 이하\n· 대학졸업(2,3년)이상\n· 급여, 근태, 4대보험 등 인사관리 실무 경험이 있으신 분\n· 인사·노무 및 총무 전반의 업무 수행이 가능하신 분\n· 근로기준법 및 관련 인사·노무 법령에 대한 이해도가 높으신 분\n· 원활한 커뮤니케이션 및 협업 능력을 갖추신 분",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -35217,8 +34973,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· , to meet Healthcare business demands within HR cost parameters.\n· Develop and review talent management fr\n· ameworks for critical leadership positions and build talent readiness and transition strategies for the Healthcare Business Unit.\n· Design, manage, and execute company-wide learning and development (L&D) strategies tailored to the capability development needs of the all Business Units, in close collaboration with local HRBPs\n· Lead and implement initiatives that elevate the people experience, encompassing employee engagement, performance, retention, and learning environments, to build an exceptional workplace.\n· Develop and execute organizational design initiatives to improve efficiency and effectiveness within the Healthcare Business Unit.\n· Manage performance management cycles and provide structured feedback on performance improvement opportunities in collaboration with the lo",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -35247,8 +35003,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 급여·노무 관련 법규 이해\n· 꼼꼼함과 정확성\n· 민감정보 보안 의식\n· 커뮤니케이션 및 협업 능력\n· Excel 및 HR 시스템 활용 능력\n· [자격 요건]\n· 전문학사 이상 (전공 무관)\n· HR 관련 경력 2년 이상 5년 이하\n· 급여 업무 실무 경험\n· 인사운영 실무 경험",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -35337,8 +35093,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 : 3년 이상\n·  학력 : 대학 4년제 이상 (졸업자)",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -35397,8 +35153,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "· 경력 : 5년 이상\n· 학력 : 대학교졸업(4년)이상",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -35488,7 +35244,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -35698,7 +35454,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -35727,8 +35483,8 @@
    "intern": false,
    "first_seen": "2026-11-28",
    "initial": false,
-   "requirements": null,
-   "req_checked": false,
+   "requirements": "·  : 대졸이상, 상경계열 또는 관련분야 전공자 및 노무사 등 자격증소지자우대\n· 금융사 평가보상, 인사제도 등 7년이상 기획설계/ 관련 기획안, 보고서, 의사결정 자료 작성가능자\n· 근로기준법 및 노동관계법에 대한 전문성 보유자\n· 인사데이터(평가보상, 이직, 인원구조 등) 분석 및 Excel 활용 능력 우수자\n· 인사시스템 개발·구축·고도화 및 운영과정에 참여경험자 우대\n· 임원평가 및 인사관리, 전사 평가제도 운영 경험자 우대\n· 주요업무 : 인사정책 기획 및 운영, HR Business Partnering, 인력/인재운영\n· 인사데이터 분석기반 인사운영 환경 고도화\n· 구비서류 : 국문이력서, 경력기술서\n· 제출처 : happyjob@prosearchkorea.com, MS-WORD로 작성요망\n· 김동일대표, 010-3784-9178\n· 📋 자격요건",
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
@@ -35758,7 +35514,7 @@
    "first_seen": "2026-11-28",
    "initial": false,
    "requirements": null,
-   "req_checked": false,
+   "req_checked": true,
    "last_seen": "2026-11-28",
    "closed": false
   },
